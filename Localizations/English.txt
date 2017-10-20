@@ -1,0 +1,2633 @@
+﻿// -----------------------------------------CMS 2018
+
+//------------------------------------------------------------------------- MM
+
+MM_GameSettings = Game Settings
+MM_VideoSettings = Video Settings
+MM_AudioSettings = Audio Settings
+
+MM_Language = Game Language
+
+MM_ScreenResolution = Screen Resolution
+MM_Fullscreen = Full Screen
+MM_VSync = Vsync
+MM_Quality = Graphics Quality
+
+MM_GameVolume = Game Volume
+MM_MusicVolume = Music Volume
+MM_AmbientSound = Ambient Sound
+
+MM_NewProfile = New Profile
+MM_SelectProfile = Select Profile
+MM_DeleteProfile = Delete Profile
+
+MM_Apply = apply
+MM_Back = back
+
+MM_NormalMode = Normal Mode
+MM_SandboxMode = Sandbox Mode
+MM_ExpertMode = Expert Mode
+
+MM_EmptySave = empty profile
+
+//--------------------------------------------------------------------------- Menu
+
+M_Menu1 = New Game
+M_Menu2 = Continue
+M_Menu3 = Profiles
+M_Menu4 = DLCs
+M_Menu5 = Car Showroom
+M_Menu6 = Settings
+M_Menu7 = Stats
+M_Menu8 = Credits
+M_Menu9 = Exit
+
+M_Settings_Audio = Audio Settings
+M_Settings_Video = Video Settings
+M_Settings_Controller = Game Settings
+
+M_Welcome = Welcome
+
+M_OstatniSave = Last saved game
+M_BrakSave = No saved games
+M_SkasowacSave = Are you sure you want to delete this profile?
+M_Pusty = empty
+M_WpiszNazweProfilu = Enter the profile name
+M_MozeszPisacTutaj = Type here
+M_rozpoaczacOdNowa = Are you sure you want to delete your current progress and start over?
+
+M_OpcjeGrafiki0 = Graphics quality
+M_OpcjeGrafiki1 = Texture size
+M_OpcjeGrafiki2 = Screen resolution
+M_OpcjeGrafiki3 = Fullscreen
+M_OpcjeGrafiki4 = Antialiasing
+M_OpcjeGrafiki5 = Ambient Occlusion
+M_OpcjeGrafiki6 = Depth of field
+M_OpcjeGrafiki7 = Vsync
+M_OpcjeGrafiki8 = Motion Blur
+
+M_Stopniowanie0 = Custom
+M_Stopniowanie1 = Low
+M_Stopniowanie2 = Medium
+M_Stopniowanie3 = High
+M_Stopniowanie4 = Ultra
+
+M_OpcjeAudio1 = Global game volume
+M_OpcjeAudio2 = In-Game music volume
+M_OpcjeAudio3 = Ambient noise
+
+M_OpcjeOther1 = Mouse camera speed
+M_OpcjeOther2 = Camera zoom speed
+M_OpcjeOther3 = Invert Mouse Y
+M_OpcjeOther4 = Keyboard Camera speed
+M_OpcjeOther5 = Highlight Blocked Parts
+M_OpcjeOther6 = Head Bob
+M_OpcjeOther7 = Mouse Smoothing
+M_OpcjeOther8 = AZERTY Keyboard
+
+M_OpcjeLang = Language
+
+//--------------------------------------------------Sciezka diagnostyczna
+
+DiagCommand1 = Place the front wheels on the brake tester
+DiagCommand2 = Press and hold the brake
+DiagCommand3 = Place the rear wheels on the brake tester
+DiagCommand4 = Press and hold the brake
+DiagCommand5 = Place the front wheels on the suspension tester
+DiagCommand6 = Wait
+DiagCommand7 = Place the rear wheels on the suspension tester
+DiagCommand8 = Wait
+DiagCommand9 = Test complete
+
+Diag_Left = Left
+Diag_Right = Right
+Diag_SuspensionTest = Suspension Test
+Diag_BrakesTest = Brake Test
+
+Diag_FrontBrakes = Front Brakes
+Diag_RearBrakes = Rear Brakes
+Diag_FrontSuspension = Front Suspension
+Diag_RearSuspension = Rear Suspension
+
+//--------------------------------------------------------------------------- Car Info
+GUI_CarInfoTitle = Car Informations
+GUI_TextBodyCondition = Global body condition
+GUI_TextPartsCondition = Global parts condition
+GUI_TextOddo = Mileage
+GUI_TextCarFactoryColor = Factory color
+GUI_TextCarColor = Current color
+GUI_CarInfoEngine = Engine
+GUI_TextPowerGraph = Power curve
+GUI_TextTorqueGraph = Torque curve
+GUI_TextTuningVal = Tuning Value
+GUI_TextEngineValue = Engine Value
+GUI_CarInfoPartsList = List of car parts
+GUI_DescPartName = Part name
+GUI_DescPartCondition = Condition
+GUI_DescPartPrice = Price
+GUI_RestorationBonus = Restoration Bonus
+GUI_CarValue = Car Value
+GUI_SellCar = Sell Car
+GUI_FaultyPartsName = Faulty Parts Found
+GUI_FaultyPartsFixed = Fixed
+GUI_OrderSummary = Order Summary
+GUI_TaskBonus = Tasks Bonus
+GUI_MoneySpent = Money spent
+GUI_JobBonus = Job Bonus
+GUI_TotalPayout = Total Payout
+GUI_FinishOrder = Finish Order
+GUI_BuyCar = Buy Car
+GUI_NegotiatePrice = Negotiate Price
+GUI_CarPrice = Car Price
+GUI_NegotiateChance = Negotiate Chance
+
+//---------------------------------------------------------------------------- Inventory
+GUI_Inv_Title = Inventory
+GUI_Inv_SearchPlaceholder = type here ...
+GUI_Inv_ShowGroups = Show Inventory Groups
+GUI_Inv_Sorting = Sorting
+
+//---------------------------------------------------------------------------- Showroom
+GUI_Showroom_ShowHide = Show/Hide Body
+GUI_Showroom_Explode = Explode
+GUI_Showroom_Cars = Cars
+GUI_Showroom_ChangeColor = Change Color
+GUI_Showroom_ShowRust = Show Rust
+GUI_Showroom_SitInside = Sit Inside
+GUI_Showroom_QuitToMenu = Return to menu
+GUI_Showroom_ListOfCars = List of cars
+
+//---------------------------------------------------------------------------- Shops
+Gui_Shop_PageName = Internet Browser
+GUI_RimsShop = Rims Shop
+GUI_MainShop = Main Shop
+GUI_TuningShop = Tuning Shop
+GUI_BodyShop = Body Shop
+GUI_BodyTuningShop = Body Tuning Shop
+GUI_TireShop = Tire Shop
+GUI_LicensePlateShop = License Plate Shop
+GUI_InteriorShop = Interior Shop
+GUI_ShopAmount = Amount
+GUI_ShopSize = Size
+GUI_ShopET = ET
+GUI_ShopWidth = Width
+GUI_ShopProfile = Profile
+GUI_ShopLicense = License Plate
+GUI_ShopCustomLicense = Custom
+
+//---------------------------------------------------------------------------- Create Group Menu
+GUI_CG_Title = Join parts
+
+//---------------------------------------------------------------------------- Examine Report
+GUI_ExamineReport_Title = Examined Parts Report
+GUI_ExamineReport_Bookmark = List of parts
+
+//---------------------------------------------------------------------------- Shop Buy Window
+GUI_ShopBuy_TotalPrice = Total price:
+
+//---------------------------------------------------------------------------- Car Select Window
+GUI_SelectCarQuestion = Which car do you want to take?
+
+//---------------------------------------------------------------------------- Upgrades
+GUI_Upgrades_Unlock = Unlock Upgrade
+GUI_Upgrades_Reset = Reset Points
+GUI_Upgrades_AvailableSkillPoints = Available skill points
+GUI_Upgrades_UpgradeCost = Upgrade Cost
+GUI_Upgrades_Description = Description
+
+//---------------------------------------------------------------------------- Shop List
+GUI_ShopList_Title = Shopping list
+
+
+//---------------------------------------------------------------------------- Menu Orders
+GUI_Orders_Title = Repair Orders
+GUI_Orders_JobDescription = Job Description
+GUI_Orders_MinimumCond = Repair with minimal parts condition
+GUI_Orders_TakeOrder = Take Order
+GUI_Orders_Decline = Decline Order
+
+//---------------------------------------------------------------------------- Inventory Items / Previews
+GUI_Item_Color = Color
+GUI_Item_Condition = Condition
+GUI_Item_Brand = Brand
+GUI_Item_Quality = Quality
+
+//---------------------------------------------------------------------------- Taken parts - Junk Shed
+GUI_TakenItems_Title = Taken parts summary
+GUI_TakenItems_Bookmark = Summary
+GUI_TakenItems_PartsPrice = Parts price
+GUI_TakenItems_Discount = Discount
+GUI_TakenItems_PriceToPay = Price to pay
+GUI_TakenItems_Buy = Buy Parts
+GUI_TakenItems_Quit = Quit without parts
+
+//---------------------------------------------------------------------------- Paint Shop
+GUI_Paint_Title = Paintshop
+GUI_Paint_ColorMixer = Color Mixer
+GUI_Paint_PaintButton = Paint Car
+GUI_Paint_BackButton = Back to garage
+GUI_Paint_FactoryColorButton = Set Factory
+GUI_Paint_CurrentColorButton = Set Current
+GUI_Paint_Hue = Hue
+GUI_Paint_Sat = Saturation
+GUI_Paint_Bri = Brightness
+GUI_Paint_QuickColor = Quick Colors
+GUI_Paint_Type = Paint Type
+GUI_Paint_Price = Painting Price
+GUI_Metallic = Metallic
+GUI_Matt = Matt
+GUI_Chameleon = Chameleon
+GUI_Pearl = Pearl
+GUI_Paint_Livery = Livery
+
+//---------------------------------------------------------------------------- Pause Menu
+GUI_Pause_QuitMenuSaveButton = Save Game and Return to Menu
+GUI_Pause_QuitMenuButton = Return to Menu without Saving
+GUI_Pause_QuitGarageButton = Return to Garage
+GUI_Pause_RestartButton = Restart
+GUI_Pause_ContinueButton = Continue
+//---------------------------------------------------------------------------- Units
+
+GUI_Speed_Metric = KMH
+GUI_Speed_Imperial = MPH
+GUI_Torque_Metric = N.m
+GUI_Torque_Imperial = lbf.ft
+GUI_Power_Metric = HP
+GUI_Power_Imperial = HP
+GUI_Dist_Metric = km
+GUI_Dist_Imperial = mi
+
+//---------------------------------------------------------------------------- Access
+
+GUI_AccessFrom0 = Accessible from engine bay
+GUI_AccessFrom1 = Accessible from wheel side (on lifter)
+GUI_AccessFrom2 = Accessible from under the car (on lifter)
+GUI_AccessFrom3 = Accessible from under the car or wheel side (on lifter)
+
+//---------------------------------------------------------------------------- Examine
+
+
+GUI_ExamineFrom1 = Can be examined by an OBD Scanner
+GUI_ExamineFrom2 = Can be examined by carrying out a Test Drive
+GUI_ExamineFrom3 = Can be examined by taking off the car
+GUI_ExamineFrom4 = Can be examined on a Test Path
+GUI_ExamineFrom5 = Can be examined with the Compression Tester
+GUI_ExamineFrom6 = Can be examined by an Electronic Meter
+GUI_ExamineFrom7 = Can be examined by an Tire Tread Tester
+GUI_ExamineFrom8 = Can be examined by an Fuel Pressure Tester
+GUI_ExamineFrom24 = Can be examined on a Test Drive or Path
+GUI_ExamineFromX = Examine tools - Level {0} needed
+
+//---------------------------------------------------------------------------- Repair
+
+GUI_RepairTable_Title = Repair Bench
+GUI_RepairChance = Repair Chance
+GUI_RepairCost = Repair Cost
+GUI_RepairSkillLevel = Repair Skill Level
+
+GUI_RepairSuccess = You managed to repair the part!|The part's condition after the repair: {0} %
+GUI_RepairFail = You failed to repair it. The part’s condition decreased.
+GUI_RepairTooMuchDamage = The part’s condition is too low to repair.
+
+GUI_RepairFrom0 = This part can't be repaired
+GUI_RepairFromX = Repairing requires tool level {0}
+GUI_RepairFrom7 = The part can be charged with a battery charger
+
+//------------------------------------------------------------------------------Help Descriptions
+GUI_Desc_Click = Click
+GUI_Desc_Hold = Hold
+GUI_Desc_Press = Press
+
+GUI_Desc_TakeOff = to take off part
+GUI_Desc_Use = to use
+GUI_Desc_SitDown = to sit down
+GUI_Desc_RadioChangeStation = to change radio station
+GUI_Desc_RadioTurnOff = to turn off radio
+GUI_Desc_Examine = to examine part
+GUI_Desc_Search = to search
+GUI_Desc_Focus = to focus on part
+GUI_Desc_WorkOn = to work on part
+GUI_Desc_Orbit = to orbit camera
+GUI_Desc_Leave_Car = to leave car
+GUI_Desc_Mount = to mount part
+GUI_Desc_TakePhoto = to take photo
+GUI_Desc_ChangeCamera =to change camera
+GUI_Desc_SellAll = to sell all parts
+GUI_Desc_SellJunk = to sell junk parts
+GUI_Desc_ChangeCategory = to change category
+GUI_Desc_CloseWindow = to close menu
+GUI_Desc_ChangeSelection = to change selection
+GUI_Desc_Use2 =	Use
+//--------------------------------------------------------------------------- BUTTONS
+
+GUI_Yes = Yes
+GUI_No = No
+GUI_OK = OK
+GUI_Close = Close
+GUI_Apply = Apply
+GUI_Cancel = Cancel
+GUI_Quit = Quit
+GUI_Exit = Exit
+GUI_None = None
+
+// -------------------------------------------------------------------------- ORDERS
+
+GUI_MissionOrder = Story Order
+GUI_NormalOrder = Normal Order
+GUI_Bonus_To_Money = Money Bonus
+GUI_Bonus_To_Exp = Experience Bonus
+
+// ------------------------------------------------------------------------- MAP LOCATIONS
+GUI_Map_Title = Select destination
+GUI_Map_Garage = Your garage
+GUI_Map_Junkyard = Junkyard
+GUI_Map_Auctions = Car Auctions
+GUI_Map_TestTrack = Test Track
+GUI_Map_Parking = Parking
+GUI_Map_RaceTrack = Race Track
+GUI_Map_Barn = Barn
+GUI_Map_Salon = Car Salon
+
+//--------------------------------------------------------------------------- QUESTION WINDOWS
+
+GUI_PotwierdzenieZakupu = Are you sure you want to buy|{0}|for {1} ?
+GUI_PotwierdzenieNaprawy = Are you sure you want to repair|{0}|for {1} ?
+GUI_PotwierdzenieSprzedazy = Are you sure you want to sell|{0}|for {1} ?
+GUI_PotwierdzenieWywazenia = Are you sure you want to balance|{0} ?
+GUI_PotwierdzenieZlaczenia = Are you sure you want to install|{0} on {1} ?
+GUI_PotwierdzenieRozlaczenia = Are you sure you want to separate|{0} ?
+GUI_PotwierdzenieRozpoczeciaPathTest = Are you sure you want to proceed with path test?
+GUI_PotwierdzenieLadowania = Are you sure you want to recharge |{0} ?
+
+//---------------------------------------------------------------------------POPUP
+
+PopUp_NewItem = Item added
+PopUp_TakenItem = Item taken
+PopUp_MusicSong = Now playing
+PopUp_SaveGame = Saving Game
+
+//---------------------------------------------------------------------------PIE MENU
+pie_battery_charge =  Charge battery
+pie_battery_charge_bonus = Flat batteries could be recharged here
+
+pie_battery_take =  Take battery from charger
+pie_battery_take_bonus = Recharged battery will be added to your inventory
+
+pie_spring_separate =  Separate parts
+pie_spring_separate_bonus = Separate spring from shock absorber
+
+pie_spring_connect =  Join parts
+pie_spring_connect_bonus = Join spring with shock absorber
+
+pie_spring_take =  Take parts from spring compressor
+pie_spring_take_bonus =  Parts will be added to your inventory
+
+pie_wheel_separate =  Separate parts
+pie_wheel_separate_bonus =  Separate tire from rim
+
+pie_wheel_connect =  Install
+pie_wheel_connect_bonus =  Install a tire on a rim
+
+pie_wheel_take =  Take
+pie_wheel_take_bonus =  Take parts from tire changer
+
+pie_balancer_take =  Take
+pie_balancer_take_bonus =  Take parts from wheel balancer
+
+pie_balancer_balance =  Balance
+pie_balancer_balance_bonus =  Balance wheel
+
+pie_list_add =  Add to list
+pie_list_add_bonus =  Add part to notebook
+
+pie_list_delete =  Delete from list
+pie_list_delete_bonus =  Delete part from notebook
+
+pie_list_open =  PARTS NOTES
+pie_list_open_bonus =  Open parts notes
+
+pie_list_locked = Move cursor over part to add it into parts notes
+
+pie_move_car =  MOVE CAR
+pie_move_car_bonus =  Move car to another location in garage
+
+pie_move_dyno =  Dyno
+pie_move_dyno_bonus =  You can check and tune car performance here
+
+pie_move_paintshop =  Paintshop
+pie_move_paintshop_bonus =  You can paint whole car as well as separate parts here
+
+pie_move_parking =  Parking
+pie_move_parking_bonus =  Store your cars in parking area, so they will not take garage place when not needed
+
+pie_move_pathTest =  Test path
+pie_move_pathTest_bonus =  Test path will help you examine most of suspension and brake parts
+
+pie_move_entrance1 =  Garage entrance A
+pie_move_entrance1_bonus =  Place near garage door
+
+pie_move_entrance2 =  Garage entrance B
+pie_move_entrance2_bonus =  Place near garage door
+
+pie_move_carLift1 = Car lifter A
+pie_move_carLift1_bonus = First car lifter
+
+pie_move_carLift2 = Car lifter B
+pie_move_carLift2_bonus = Second car lifter
+
+pie_move_carLift3 = Car lifter C
+pie_move_carLift3_bonus = Third car lifter
+
+pie_move_blocked = There is a car in this location.
+pie_move_locked = Upgrade garage to access this area.
+
+pie_settings =  SETTINGS MENU
+pie_settings_bonus =  In this menu you can adjust game settings
+
+pie_settings_save =  Save game
+pie_settings_load =  Load game
+
+pie_settings_menu =  Exit to menu
+pie_settings_menu_bonus =  Exit to game menu without saving
+
+pie_switch_body =  OVERVIEW MODE
+pie_switch_body_bonus =  Overview car parts using this mode
+
+pie_tablet =  TABLET
+pie_tablet_bonus = Quickly access workshop computer
+
+pie_inventory =  INVENTORY
+pie_inventory_bonus = You can browse, search and sell parts here
+
+pie_order_check =  CAR STATUS
+pie_order_check_bonus = Check current car status
+
+pie_order_list =  ORDERS
+pie_order_list_bonus =  Check available orders
+
+pie_examine_tools =  EXAMINE TOOLS
+pie_examine_tools_bonus =  Special tools will help you examine car faster
+
+pie_mode_examine =  EXAMINE MODE
+pie_mode_examine_bonus =  Examine mode will enable part condition overview mode
+
+pie_mode_garage =  NORMAL MODE
+pie_mode_garage_bonus =  Switch to default mode
+
+pie_mode_garage_assemble =  ASSEMBLE MODE
+pie_mode_garage_assemble_bonus =  Switch to assemble mode
+
+pie_mode_group_mount =  GROUP MOUNT
+pie_mode_group_mount_bonus =  Switch to group mount mode
+
+pie_mode_group_unmount =  GROUP UNMOUNT
+pie_mode_group_unmount_bonus =  Switch to group unmount mode
+
+pie_mode_part_mount =  PART MOUNT
+pie_mode_part_mount_bonus =  Switch to part mount mode
+
+pie_mode_part_unmount =  PART UNMOUNT
+pie_mode_part_unmount_bonus =  Switch to part unmount mode
+
+pie_mode_photo =  PHOTO MODE
+pie_mode_photo_bonus =  Make photos of whatever you want to and share them with community
+
+pie_mode_interior_disassemble =  INTERIOR DISASSEMBLE
+pie_mode_interior_disassemble_bonus =  Switch to interior disassemble mode
+
+pie_mode_interior_assemble = INTERIOR ASSEMBLE
+pie_mode_interior_assemble_bonus =  Switch to interior assemble mode
+
+pie_engine_rotate_left =  Rotate engine left
+pie_engine_rotate_right =  Rotate engine right
+pie_engine_add =  Add engine into crate
+pie_engine_new =  Create new engine
+pie_engine_take =  Take off engine from crate
+pie_car_drive =  Drive the car
+pie_car_run =  Start the car
+pie_paintshop_car =  Paint Car
+pie_paintshop_part =  Paint Part
+
+pie_jukebox_change_station = CHANGE STATION
+pie_jukebox_turn_on_off = TURN ON/OFF RADIO
+pie_jukebox_next_sound = NEXT SONG
+
+pie_car_buy = Buy Car
+pie_car_buy_bonus = Check car information and collection price
+
+pie_settings_garage = Leave to garage
+pie_settings_garage_bonus = Overview your collected items and leave to garage
+
+pie_settings_parking_garage = Leave to garage
+
+pie_equipment_use = USE EQUIPMENT
+
+pie_equipment_move = MOVE EQUIPMENT
+pie_equipment_move_bonus = Move equipment to another location
+
+pie_equipment_move_entrance1 =  Shop entrance A
+pie_equipment_move_entrance1_bonus =  Place near garage door
+
+pie_equipment_move_entrance2 =  Shop entrance B
+pie_equipment_move_entrance2_bonus =  Place near garage door
+
+pie_equipment_move_carLift1 = Car lifter A
+pie_equipment_move_carLift1_bonus = First car lifter
+
+pie_equipment_move_carLift2 = Car lifter B
+pie_equipment_move_carLift2_bonus = Second car lifter
+
+pie_equipment_move_carLift3 = Car lifter C
+pie_equipment_move_carLift3_bonus = Third car lifter
+
+GUI_unlock_to_use = Unlock to use
+GUI_move_unavail = This place is already used
+
+pie_tires = Tire Tread Tester
+pie_tires_bonus = With this tool you can discover tires condition
+
+pie_obd = OBD Scanner
+pie_obd_bonus = OBD Scanner will examin a lot of electronic-computer connected parts. Not working in older cars!
+
+pie_cylinder = Compression Tester
+pie_cylinder_bonus = This test will give you information about general engine condition. Parking like head, block or pistons will be examined
+
+pie_electronic = Electronic Meter
+pie_electronic_bonus = Simple but useful tool. Check all electronic connections, and resistances
+
+pie_fuel = Fuel Pressure Test
+pie_fuel_bonus = Get know all about your fuel related parts in car
+
+pie_equipment_return = Place equipment back
+
+//---------------------------------------------------------------------------Warehouse
+
+GUI_Warehouse_Title = Warehouse
+GUI_SEL_WAREHOUSE =  Selected warehouse
+M_WAR_CHANGE_NAME =  Change warehouse name on
+GUI_WAR =  Warehouse
+GUI_WAR1 =  Warehouse 1
+GUI_WAR2 =  Warehouse 2
+GUI_WAR3 =  Warehouse 3
+GUI_WAR4 =  Warehouse 4
+GUI_WAR5 =  Warehouse 5
+GUI_WAR6 =  Warehouse 6
+GUI_WAR7 =  Warehouse 7
+GUI_WAR8 =  Warehouse 8
+
+// -------------------------------------------------------------------------- garage modes
+
+mode_GarageDisassemble = Body Disassemble Mode
+mode_GarageAssemble = Body Assemble Mode
+mode_Interior = Interior
+mode_PartSelect = Parts Overview
+mode_PartMount = Disassemble Mode
+mode_PartUnMount = Assemble Mode
+mode_GroupUnMount = Group Assemble Mode
+mode_GroupMount = Group Disassemble Mode
+mode_PartSelectMount = Parts Selection
+mode_ExamineCondition = Examine Mode
+
+//--------------------------------------------------Kategorie w sklepie
+CAT_All = All
+CAT_Engine = Engine
+CAT_Body = Body
+CAT_Other = Other
+CAT_Rims = Rims
+CAT_Group =  Groups
+CAT_Brakes = Brakes
+CAT_Exhaust = Exhaust
+CAT_Gearbox = Gearbox
+CAT_Suspension = Suspension
+
+// -------------------------------------------------Sorting
+
+Sorting_Name = Sorting
+Sorting_ByArr = by arrival
+Sorting_ByCon = by condition
+Sorting_ByNam = by name
+//--------------------------------------------------Auctions
+
+AU_Start = Start Auction
+AU_Raise = Raise
+AU_Pass = Pass
+AU_Next = Next Car
+AU_Quit = Quit
+AU_TodaysCars = Today's cars
+
+AU_Currentbid = Current Bid
+AU_OveralState = Overall state
+AU_Time = Time
+AU_Sold = SOLD
+AU_StartingPrice = Starting price
+AU_HighestBidder = Highest Bidder
+AU_Bidder = Bidder
+AU_Player = You
+
+//--------------------------------------------------Misc
+//symbol waluty - nie ma przelicznika wiec albo € albo $
+GUI_Waluta = $
+GUI_BrakKasy = You don't have enough money
+GUI_PriceFrom = from
+GUI_FrontWheelsDiffSize =  Front wheels have different size
+GUI_RearWheelsDiffSize =  Rear wheels have different size
+GUI_NieMaPrzedmiotowDoZalozenia = There are no items to work with
+
+GUI_CarsLimitInGarage = No more space. Your garage can handle up to 5 cars at a time.
+GUI_CarsLimitInParking = No more space. Parking can handle up to 12 cars at a time.
+GUI_CustomerCarInParking = Parking is only available for cars you own.
+GUI_NoWheels = The car does not have all its wheels, so it can't be moved here.
+
+GUI_Buy = Buy
+GUI_TextExamineReport = Examined {0} parts
+M_SAVESTART = Saving game ...
+M_SAVECOMPLETE = Game Saved
+M_ExitWithoutItems = Leave without items to buy?
+
+GUI_Order_PartNotFound = part not discovered
+
+GUI_BoughtCarPlace = Where you want to place bought car?
+GUI_BoughtCar_Parking = Car Parking
+GUI_BoughtCar_Garage = Garage
+
+GUI_Wczytywanie = Loading ...
+
+GUI_OilWarning = You did not drain oil before disassembling oil pan. Cleaning will cost you 100$
+GUI_EngineUnmountCrainWarning = To remove engine, first unmount {0} from the car
+GUI_EngineMountCrainWarning = To install engine, first unmount {0} from the car
+GUI_EngineEmptyCrainWarning = There are no engine parts in car
+GUI_MissingWheels = Wheel are missing from car
+GUI_MissingParts = There is {0} missing from car
+GUI_EngineDontStart = Cannot start engine
+GUI_SamochodGorszyStan = Car is in worse condition than when it was delivered to the garage
+GUI_SamochodOlejWSilniku = There is oil in the engine. Cannot perform this action
+GUI_Order_FinishUncompleteJob = Are you sure you want to mark the uncompleted job as finished?
+GUI_rozpoaczacOdNowa = Are you sure you want to erase your current progress and start over?
+GUI_SellJunk = Sell Junk
+GUI_PotwierdzenieSprzedazySmieci = Are you sure you want to sell junk
+GUI_AuctionsFee = Auction fee is {0}. Are you sure you want to participate?
+GUI_Orders_Nojobs = There are no more jobs right now
+GUI_TestComplete = Test Complete
+GUI_CarNotConnected = There is no car to work on here
+GUI_Locked = Locked
+GUI_RemoveCarFromArrivalPlace = Make some space near main gates, so the car can park there.
+GUI_EngineStandOccupied = There is an engine already on engine stand
+GUI_obd_unavailable = This car doesn't have OBD port. Cannot perform action.
+GUI_junkyardfee= Junkyard trip will cost you {0}. Are you sure you want to go?
+GUI_LicensePlate = Licence Plate
+GUI_SelectPart = Select Part
+GUI_Accessibility = Accessibility
+GUI_SamochodBezBody = There are body parts missing from the car.
+GUI_SamochodNiezlozony = Car is incomplete. There is {0} missing from car
+GUI_SamochodOlejBrak = No oil in the engine. Cannot perform this action
+GUI_Installed = Installed
+GUI_MoveCarToGarage = Move To Garage
+GUI_TestDriveCar = Test Drive Car
+!specialMap = Barn localtion map
+!specialCase = Case
+!specialCrowbar = Crowbar
+GUI_CaseOpen = You need crowbar to open the case
+GUI_CaseAsk = Are you sure you want to open case?
+GUI_MapAsk = Mark barn location on your map?
+GUI_NieMaPrzedmiotowDoZalozeniaX = There are no items to work with|Part needed : {0}
+GUI_Tutorial_WindowTitle = Tutorial
+
+// ----------------------------------------------- Parking
+Park_Prev = Previous Car
+Park_Next = Next Car
+Park_Move = Move Car to Garage
+Park_Quit = Back to Garage
+
+// ----------------------------------------------- Blocked Lifter
+
+GUI_BlockedLifter = The lift can't be lowered. Make sure there is nothing blocking it and stand at a safe distance.
+
+//-------------------------------------------------- Radio
+M_Radio_WindowTitle = Radio Stations
+M_Radio_Current_Sound = Now playing
+Radio_Music0 = Drum & Bass Attack
+Radio_Music1 = Electro Hive
+Radio_Music2 = Hideout Street Radio
+Radio_Music3 = THE CDK
+Radio_Music4 = Classic Vibes
+Radio_Music5 = Killa Rock
+Radio_Music6 = Mixer Room
+Radio_Music7 = State of House Music
+Radio_User = User Radio
+
+// ------------------------------------------------- Test Track
+GUI_TestTrackChecklist = Checklist
+GUI_SpeedTest = Acceleration Test
+GUI_SlalomTest = Slalom Test
+GUI_BrakeTest = Brakes Test
+GUI_SuspensionTest = Suspension Test
+
+// -------------------------------------------------IOs
+#hood = Hood
+#door_front_left = Front Left Door
+#door_front_right = Front Right Door
+#door_rear_left = Rear Left Door
+#door_rear_right = Rear Right Door
+#trunk = Trunk
+#fender_front_left = Front Left Fender
+#fender_front_right = Front Right Fender
+#bumper_front = Front Bumper
+#bumper_rear = Rear Bumper
+#headlight_left = Left Headlight
+#headlight_right = Right Headlight
+#taillight_left = Left Taillight
+#taillight_right = Right Taillight
+#taillight_left_trunk = Left Trunk Taillight
+#taillight_right_trunk = Right Trunk Taillight
+#fender_rear_left = Rear Left Fender
+#fender_rear_right = Rear Right Fender
+
+#window_front = Front Window
+#window_back = Rear Window
+#window_back_left_1 = Rear Left Window A
+#window_back_right_1 = Rear Right Window A
+#window_back_left_2 = Rear Left Window B
+#window_back_right_2 = Rear Right Window B
+#window_door_front_left = Front Left Door Window
+#window_door_front_right = Front Right Door Window
+#window_door_rear_left = Rear Left Door Window
+#window_door_rear_right = Rear Right Door Window
+#window_body_left_1 = Left Body Window A
+#window_body_right_1 = Right Body Window A
+#window_body_left_2 = Left Body Window B
+#window_body_right_2 = Right Body Window B
+#window_front_left = Front Left Window
+#window_front_right = Front Right Window
+#window_trunk = Trunk Window
+
+#window_body_left = Left Body Window
+#window_body_right = Right Body Window
+#window_rear_left = Rear Left Window A
+#window_rear_right = Rear Right Window A
+
+#mirror_left = Left Side Mirror
+#mirror_right = Right Side Mirror
+
+#front_end = Front End
+#bench = Bench
+#body = Body
+#details = Body
+
+#map = City Map
+#paintshop = Paint Shop
+#parkingdoor = Parking
+#dyno = Dyno
+#pathTest = Path Test
+#batteryCharger = Battery Charger
+#computer = Computer
+#PGPlace =  Junk
+#phone = Phone
+#toolbox = Toolbox
+#repairtable = Repair Bench
+#wheelbalancer = Wheel Balancer
+#springClamp = Spring Puller
+#jukebox = Radio
+#lifter = Car Lift
+#customizegarage = Garage Customization
+#welder = Welder
+#enginecrane = Engine Crane
+#warehouse = Warehouse
+#seatLeft = Front Left Seat
+#seatRight = Front Right Seat
+#engine = Engine
+#steeringWheel = Steering Wheel
+#suspension = Suspension
+#cooling = Cooling
+#airintake = Air Intake
+#brakepump = Brake Pump
+#battery = Car Battery
+#oilbin = Oil Drain
+#abs = ABS Module
+#driveshaft = Drive Shaft
+#exhaust = Exhaust
+#fueltank = Fuel Tank
+#engine_cover = Engine Cover
+#tirechanger = Tire Changer
+#interiorDetailingToolkit = Interior Detailing Toolkit
+#MainGate = Main Gate
+#door_parking = Exit To Parking
+
+#door_left = Door
+#door_right = Door
+
+#license_plate_rear = Rear License Plate
+#license_plate_front = Front License Plate
+
+// ----------------------------------------------- Order Description
+
+OD_Body_General_1 = Repair damaged body panels
+OD_Body_General_2 = Fix body parts
+OD_Body_General_3 = Repair or replace body parts
+
+OD_Body_PaintOriginal_OnList = Spray car with factory paint
+OD_Body_PaintOriginal_1 = Repaint car in the stock color
+OD_Body_PaintOriginal_2 = Paint it with the factory color
+OD_Body_PaintOriginal_3 = Spray it the factory color
+
+OD_Body_PaintCustom_OnList = Spray car with custom paint
+OD_Body_PaintCustom_1 = Repaint car with custom color
+OD_Body_PaintCustom_2 = Paint it with a custom color
+OD_Body_PaintCustom_3 = Put a nice custom color
+
+OD_Engine_General_1 = General engine control and repair
+OD_Engine_General_2 = Find and fix all engine problems
+OD_Engine_General_3 = Repair all engine faults
+
+OD_Engine_DontStart_1 = Car does not start
+OD_Engine_DontStart_2 = Vehicle cannot be started
+OD_Engine_DontStart_3 = Cannot start the car
+
+OD_Engine_Power_1 = Lack of engine power
+OD_Engine_Power_2 = Engine power has failed
+OD_Engine_Power_3 = The Engine is working, but it's choppy
+OD_Engine_Power_4 = Car runs, but is uneven and jerky
+OD_Engine_Power_5 = Sluggish acceleration
+OD_Engine_Power_6 = The car is running rough
+
+OD_Engine_Noise_1 = Strange noise from engine bay
+OD_Engine_Noise_2 = Knocking noises from engine bay
+OD_Engine_Noise_3 = Tapping sounds from engine bay
+OD_Engine_Noise_4 = Engine bay is noisy
+OD_Engine_Noise_5 = Weird engine bay noise
+OD_Engine_Noise_6 = Strange engine bay noise
+
+OD_Engine_Oil_OnList = Change oil (drain old and refill with new)
+OD_Engine_Oil_1 = Change engine oil and filter
+OD_Engine_Oil_2 = Replace engine oil and filter
+OD_Engine_Oil_3 = Put new engine oil and filter
+
+OD_Engine_Timing_1 = Replace timing related parts
+OD_Engine_Timing_2 = Timing needs replacing
+OD_Engine_Timing_3 = Put in new timing parts
+
+OD_Engine_Filters_1 = Replace all filters
+OD_Engine_Filters_2 = Filters need replacing
+OD_Engine_Filters_3 = The car's filters need replacing
+
+OD_Susp_General_1 = General running gear control and repair
+OD_Susp_General_2 = Find and fix any running gear problems
+OD_Susp_General_3 = Repair all running gear faults
+
+OD_Susp_Control_1 = Sloppy car steering
+OD_Susp_Control_2 = Car is hard to control
+OD_Susp_Control_3 = Controlling car feels loose
+OD_Susp_Control_4 = Laggy steering
+
+OD_Susp_Knocking_1 = Suspension rattling
+OD_Susp_Knocking_2 = Knocking sound coming from suspension
+OD_Susp_Knocking_3 = Fix suspension clunks and rattles
+OD_Susp_Knocking_4 = Find source of suspension knocking noise
+OD_Susp_Knocking_5 = Strange suspension noise
+OD_Susp_Knocking_6 = Repair noisy suspension
+
+OD_Exhaust_General_1 = Loud exhaust
+OD_Exhaust_General_2 = Loud when accelerating
+OD_Exhaust_General_3 = Car is loud
+OD_Exhaust_General_4 = Car is noisy
+OD_Exhaust_General_5 = Noisy engine
+OD_Exhaust_General_6 = Making loud noise while driving
+
+OD_Brakes_General_1 = Brake problems
+OD_Brakes_General_2 = Poor brake performance
+OD_Brakes_General_3 = Brake system needs fixing
+OD_Brakes_General_4 = Brakes need repair
+OD_Brakes_General_5 = Something is wrong with brakes
+OD_Brakes_General_6 = Stopping distance increased
+
+OD_Gearbox_General_1 = General gearbox control and repair
+OD_Gearbox_General_2 = Find and fix all gearbox problems
+OD_Gearbox_General_3 = Repair all gearbox faults
+
+OD_Gearbox_Clutch_1 = Driver struggling to find gears
+OD_Gearbox_Clutch_2 = Transmission is noisy
+OD_Gearbox_Clutch_3 = Gears keep slipping
+OD_Gearbox_Clutch_4 = Gearbox is shifting rough
+OD_Gearbox_Clutch_5 = Bad smell after driving
+OD_Gearbox_Clutch_6 = Dragging clutch
+
+OD_Gearbox_Unit_1 = Grinding and shaking from gearbox
+OD_Gearbox_Unit_2 = Transmission not responsive
+OD_Gearbox_Unit_3 = Gearbox shifts rough
+OD_Gearbox_Unit_4 = Noisy transmission
+OD_Gearbox_Unit_5 = Hard to select gears
+OD_Gearbox_Unit_6 = Gearbox is shifting rough
+
+OD_Location_Front = (front)
+OD_Location_Rear = (rear)
+OD_Location_Front_Left = (front-left)
+OD_Location_Front_Right = (front-right)
+OD_Location_Rear_Left = (rear-left)
+OD_Location_Rear_Right = (rear-right)
+OD_Location_Left = (left side)
+OD_Location_Right = (right side)
+
+OD_EasyMode_Repair = (list provided)
+
+//--------------------------------------------------czesci z wykrzyknikiem na poczatku
+!absModul_1 = ABS Module
+!absPompa_1 = ABS Pump
+!akumulator = Battery
+!alternator = Alternator
+!amortyzator_double = Double Wishbone Shock Absorber
+!amortyzatorPrzod_1 = Front Shock Absorber
+!amortyzatorTyl_1 = Rear Shock Absorber A
+!amortyzatorTyl_2 = Rear Shock Absorber B
+!bagnet_1 = Oil Dipstick
+!bak_1 = Fuel Tank
+!cewka_1 = Ignition Coil
+!chlodnica_1 = Radiator A
+!chlodnica_2 = Radiator B
+!czapkaAmorPrzod_1 = Front Shock Absorber Cap
+!czapkaSprezynyTyl_1 = Rear Shock Absorber Cap
+!docisk_sprzegla = Clutch Pressure Plate
+!drazekKierowniczy_1 = Inner Tie Rod
+!filtr_1 = Air Filter
+!filtr_1x4_dol = Round Air Filter Base (1 carb)
+!filtr_1x4_gora = Round Air Filter Cover (1 carb)
+!filtr_1x4_srodek = Round Air Filter (1 carb)
+!filtr_2x4_dol = Round Air Filter Base (2 carb)
+!filtr_2x4_gora = Round Air Filter Cover (2 carb)
+!filtr_2x4_srodek = Round Air Filter (2 carb)
+!klips_1 = Clip A
+!klips_2 = Clip B
+!klockiHamulcowe_1 = Brake Pads
+!koncowkaDrazkaKier_1 = Outer Tie Rod
+!kopulkaRozdzielacza_1 = Ignition Distributor Cap
+!korek_spustowy_1 = Oil Drain Plug
+!korekOleju_1 = Oil Fill Plug
+!lacznikPolosi_1 = Front Drive Shaft
+!lacznikPolosi_2 = Front Drive Shaft (4x4)
+!lacznikStabilizatora_double = Sway Bar Front End Link B
+!lacznikStabilizatoraPrzod_1 = Sway Bar Front End Link A
+!lacznikStabTyl_1 = Sway Bar Rear End Link
+!listwa_wtryskowa = Fuel Rail DI
+!listwa_wtryskowa_2 = Fuel Rail MPI
+!lozyskoDociskowe_1 = Clutch Release Bearing
+!lozyskoZwrotnicyPrzod_1 = Wheel Hub Bearing
+!mostTylny_1 = Leaf-Spring Rear Drive Axle
+!mostTylnySztywny_1 = Coil-Spring Rear Drive Axle
+!obejmaPodstawka_1 = Leaf Spring Plate
+!obejmaPret_1 = Leaf Spring U-Bolt
+!obudowaFiltra_dol_1 = Air Filter Base
+!obudowaFiltra_gora_1 = Air Filter Cover
+!palecRozdzielacza_1 = Ignition Distributor Rotor
+!piastaPrzod_1 = Front Wheel Hub
+!piastaTyl_1 = Rear Wheel Hub
+!pioraTyl_1 = Leaf Spring
+!podstawkaSprezynyTyl_1 = Spring Cap
+!pokrywa_lozyska = Crankshaft Bearing Cap
+!pokrywaBeben_1 = Brake Drum
+!polosNapedowa_1 = Front Drive Axle A
+!polosNapedowa_2 = Front Drive Axle B
+!polosNapedowa_3 = Rear Drive Axle
+!polosNapedowa_4 = Front Drive Axle C
+!polosNapedowaTylna_1 = Solid Rear Drive Axle
+!pompa_1 = Fuel Pump
+!pompa_wspomagania = Power Steering Pump (V8)
+!przekladnia_1 = Steering Rack
+!r4_blok = Engine Block (I4)
+!r4_filtr_oleju = Oil Filter (I4)
+!r4_gearbox_4x4 = Gearbox (I4 4x4)
+!r4_gearbox_rwd = Gearbox (I4 RWD)
+!r4_gearbox_short = Gearbox (I4)
+!r4_glowica_2 = Engine Head (I4)
+!r4_glowica_sohc_1 = Engine Head (I4 SOHC)
+!r4_glowica_sohc_wkladka_1 = Camshaft Cap
+!r4_kable_sohc_1 = Ignition Wires (I4 SOHC)
+!r4_kolektor_dolotowy3 = Intake Manifold (I4 DI)
+!r4_kolektor_dolotowy4 = Intake Manifold (I4 MPI)
+!r4_kolektor_wydechowy = Exhaust Manifold
+!r4_kolektor_wydechowy_oslona = Exhaust Manifold Cover
+!r4_kolektor_wydechowy_sohc_1 = Exhaust Manifold (I4 SOHC)
+!r4_kolektor_wydechowy2 = Exhaust Manifold (I4 TURBO)
+!r4_kolo_pasowe_walu = Crankshaft Pulley (I4)
+!r4_miska_olejowa = Oil Pan (I4)
+!r4_modul_zaplonowy_sohc_1 = Ignition Coil (I4 SOHC)
+!r4_oslona = Timing Cover (I4)
+!r4_oslona_sohc = Timing Cover (I4 SOHC)
+!r4_pasek1 = Serpentine Belt A
+!r4_pasek2 = Serpentine Belt B
+!r4_pasek2_sohc = Serpentine Belt (I4 SOHC)
+!r4_pasek3 = Timing Belt
+!r4_pasek3_sohc = Timing Belt (I4 SOHC)
+!r4_pokrywa_glowicy = Engine Head Cover (I4)
+!r4_pokrywa_glowicy_sohc_1 = Engine Head Cover
+!r4_pompa_wody = Water Pump (I4)
+!r4_pompa_wspomagania = Power Steering Pump (I4)
+!r4_przepustnica = Throttle (I4)
+!r4_rozrusznik_1 = Starter
+!r4_walek_rozrzadu = Camshaft
+!r4_walek_rozrzadu_sohc_1 = Camshaft (I4 SOHC)
+!rolka_gladka = Idler Roller A
+!rolka_pompy_wody = Water Pump Pulley
+!rolka_prowadzaca = Idler Roller B
+!rolka_walka = Cam Gear
+!rolka_walka_sohc = Cam Gear (I4 SOHC)
+!rozdzielaczZaplonu_1 = Ignition Distributor
+!sankiPrzod_1 = Front Suspension Crossmember
+!sankiPrzod_2 = ^!sankiPrzod_1 B
+!sankiTyl_1 = Rear Suspension Crossmember
+!sankiTyl_2 = Rear Suspension Crossmember (RWD)
+!serwoHamulca_1 = Brake Servo
+!sondaLambda_1 = Lambda Probe
+!sprezynaTyl_1 = Rear Spring
+!sprezynnaPrzod_1 = Front Spring
+!stabilizatorPrzod_1 = Front Sway Bar
+!stabilizatorTyl_1 = Rear Sway Bar A
+!stabilizatorTyl_2 = Rear Sway Bar B
+!swieca_1 = Spark Plug
+!szczeki_1 = Brake Shoe
+!szczekiCylinder_1 = Drum Wheel Cylinder
+!tarcza_sprzegla = Clutch Plate
+!tarczaHamulcowa_1 = Brake Disc
+!tarczaWentylowana_1 = Brake Disc Ventilated
+!tlok_1 = Piston with Conrod
+!tuleja_1 = Rubber Bushing
+!tulejaMala_1 = Small Rubber Bushing
+!turbo_2 = Turbocharger
+!v8_blok = Engine Block (V8)
+!v8_blok_stary = Engine Block (V8 OHV)
+!v8_dzwigniazaworu = Rocker Arm
+!v8_filtr_oleju = Oil Filter (V8)
+!v8_filtr_oleju_stary = Oil Filter (V8 OHV)
+!v8_gaznik_1 = Carburetor (4-barrel)
+!v8_gearbox = Gearbox (V8)
+!v8_gearbox_4x4 = Gearbox (V8 4x4)
+!v8_gearbox_stary = Gearbox (V8 OHV)
+!v8_glowica = Engine Head (V8)
+!v8_glowica_stara = Engine Head (V8 OHV)
+!v8_kable_stary = Ignition Wires (V8)
+!v8_kolektor = Intake Manifold (V8)
+!v8_kolektor_wydechowy = Exhaust Manifold (V8)
+!v8_kolektor_wydechowy_stary_1 = Exhaust Manifold (V8 OHV)
+!v8_kolektordolotowy_1x4 = Intake Manifold (1 carb)
+!v8_kolektordolotowy_2x4 = Intake Manifold (2 carb)
+!v8_kolo_pasowe_walu = Crankshaft Pulley (V8)
+!v8_kolo_pasowe_walu_stare = Crankshaft Pulley (V8 OHV)
+!v8_kolo_zamachowe = Flywheel
+!v8_lancuch_stary = Timing Chain (V8 OHV)
+!v8_miska_olejowa = Oil Pan (V8)
+!v8_miska_olejowa_stara = Oil Pan (V8 OHV)
+!v8_napinacz = Belt Tensioner
+!v8_pasek_stary_1 = Serpentine Belt A (V8 OHV)
+!v8_pasek_stary_2 = Serpentine Belt B (V8 OHV)
+!v8_pasek1 = Serpentine Belt A (V8)
+!v8_pasek2b = Serpentine Belt B (V8)
+!v8_pasek3 = Timing Belt (V8)
+!v8_pokrywa_glowicy_stara_1 = Engine Head Cover A (V8 OHV)
+!v8_pokrywa_glowicy_stara_2 = Engine Head Cover B (V8 OHV)
+!v8_pokrywa_glowicy1 = Engine Head Cover A (V8)
+!v8_pokrywa_glowicy2 = Engine Head Cover B (V8)
+!v8_pokrywa_swiec = Coils Cover (V8)
+!v8_pompa_wody = Water Pump (V8)
+!v8_pompaWody_stara = Water Pump (V8 OHV)
+!v8_popychacz = Valve Push Rod
+!v8_przepustnica = Throttle (V8)
+!v8_rolkaWalka_stara = Cam Gear (V8 OHV)
+!v8_rozrusznik_1 = Starter (V8)
+!v8_rozrzad_oslona = Timing Cover (V8)
+!v8_rozrzad_oslona_stara = Timing Cover (V8 OHV)
+!v8_walek_rozrzadu = Camshaft (V8)
+!v8_walek_stary = Camshaft (V8 OHV)
+!v8_walKorbowy_stary = Crankshaft (V8 OHV)
+!w_katalizator = Catalytic Converter
+!w_r4_poczatkowy = Front Exhaust Section
+!w_r4_poczatkowy_wzdluzny = Front Exhaust Section (I4 SOHC)
+!w_r4_turbo_poczatkowy = Front Exhaust Section (TURBO)
+!w_ruraLaczaca = Exhaust Pipe
+!w_tlumik_koncowy = Rear Muffler (I4)
+!w_tlumik_srodkowy_B = Middle Muffler
+!w_tlumik_wzdluzny = Rear Muffler
+!w_v8_koncowy = Rear Muffler (V8)
+!w_v8_koncowy_stary = Rear Muffler (V8 OHV)
+!w_v8_poczatkowy = Front Exhaust Pipe (V8)
+!w_v8_poczatkowy_stary = Front Exhaust Pipe (V8 OHV)
+!wahaczDlugiTyl_1 = Rear Suspension Arm
+!wahaczDol_double = Bottom Suspension Arm
+!wahaczDolny_1 = Lower Suspension Arm
+!wahaczGora_double = Upper Suspension Arm
+!wahaczKrotkiTyl_1 = Rear Suspension Upper Arm
+!wahaczMost_1 = Solid-Axle Control Arm
+!wahaczTyl_1 = Rear Suspension Arm A
+!wahaczTyl_2 = Rear Suspension Arm B
+!walKorbowy_1 = Crankshaft (V8)
+!walKorbowy_2 = Crankshaft (I4)
+!walNapedowy_1 = Drive Shaft
+!wentylator_1 = Radiator Fan
+!wentylator_2 = Radiator Fan (V8 OHV)
+!zaciskHamulcowy_1 = Brake Caliper
+!zaslepkaZwrotnicaTyl_1 = Wheel Hub Cap
+!zwrotnicaPrzod_1 = Front Steering Knuckle A
+!zwrotnicaPrzod_double = Front Steering Knuckle B
+!zwrotnicaTyl_1 = Rear Axle Knuckle Housing A
+!zwrotnicaTylBeben_1 = Rear Axle Knuckle Housing B
+!zwrotnicaTylSztywna_1 = Rear Axle Knuckle Housing C
+!filtr_paliwa_1 = Fuel Filter
+!cewkaZaplonowa_1 = Ignition Coil B
+
+// -------------------------------------------------bench
+
+BenchName = Bench
+
+!bench_FMW_Panther = ^BenchName Panther
+!bench_FMW_Panther_leather1 = ^BenchName Panther Leather 1
+!bench_FMW_Panther_leather2 = ^BenchName Panther Leather 2
+!bench_bandit = ^BenchName Bandit
+!bench_bianco = ^BenchName Bianco
+!bench_bianco_leather1 = ^BenchName Bianco Leather 1
+!bench_bianco_leather2 = ^BenchName Bianco Leather 2
+!bench_bowen1 = ^BenchName Bowen Front
+!bench_bowen2 = ^BenchName Bowen Rear
+!bench_cape1 = ^BenchName Cape Front
+!bench_cape2 = ^BenchName Cape Rear
+!bench_chapman1 = ^BenchName Chapman Front
+!bench_chapman2 = ^BenchName Chapman Rear
+!bench_charger = ^BenchName Charger
+!bench_continental = ^BenchName Continental
+!bench_continental_leather1 = ^BenchName Continental Leather 1
+!bench_continental_leather2 = ^BenchName Continental Leather 2
+!bench_crown = ^BenchName Crown
+!bench_crown_leather1 = ^BenchName Crown Leather 1
+!bench_crown_leather2 = ^BenchName Crown Leather 2
+!bench_cuda = ^BenchName Cuda
+!bench_cuda_leather1 = ^BenchName Cuda Leather 1
+!bench_cuda_leather2 = ^BenchName Cuda Leather 1
+!bench_custom = ^BenchName Custom
+!bench_custom_leather1 = ^BenchName Custom Leather 1
+!bench_custom_leather2 = ^BenchName Custom Leather 2
+!bench_earthquake = ^BenchName EarthQuake
+!bench_earthquake_leather1 = ^BenchName Earthquake Leather 1
+!bench_earthquake_leather2 = ^BenchName Earthquake Leather 2
+!bench_earthquake_rex = ^BenchName Earthquake Rex
+!bench_earthquake_rex_leather1 = ^BenchName Earthquake Rex Leather 1
+!bench_earthquake_rex_leather2 = ^BenchName Earthquake Rex Leather 2
+!bench_fastback = ^BenchName Fastback
+!bench_fastback_leather1 = ^BenchName Fastback Leather 1
+!bench_fastback_leather2 = ^BenchName Fastback Leather 2
+!bench_flamo = ^BenchName Flamo
+!bench_flamo_leather1 = ^BenchName Flamo Leather 1
+!bench_flamo_leather2 = ^BenchName Flamo Leather 2
+!bench_grand_club = ^BenchName Grand Club
+!bench_grand_club_leather1 = ^BenchName Grand Club Leather 1
+!bench_grand_club_leather2 = ^BenchName Grand Club Leather 2
+!bench_hellcat = ^BenchName Hellcat
+!bench_hellcat_leather1 = ^BenchName Hellcat Leather 1
+!bench_hellcat_leather2 = ^BenchName Hellcat Leather 1
+!bench_imperator = ^BenchName Imperator
+!bench_imperator_leather1 = ^BenchName Imperator Leather 1
+!bench_imperator_leather2 = ^BenchName Imperator Leather 2
+!bench_katsumoto = ^BenchName Katsumoto
+!bench_katsumoto_leather1 = ^BenchName Katsumoto Leather 1
+!bench_katsumoto_leather2 = ^BenchName Katsumoto Leather 2
+!bench_kieran = ^BenchName Kieran
+!bench_kieran_leather1 = ^BenchName Kieran Leather 1
+!bench_kieran_leather2 = ^BenchName Kieran Leather 2
+!bench_lotz = ^BenchName Lotz
+!bench_magnum = ^BenchName Magnum Leather
+!bench_magnum_leather1 = ^BenchName Magnum Leather 1
+!bench_magnum_leather2 = ^BenchName Magnum Leather 2
+!bench_mayenm6 = ^BenchName M6
+!bench_mayenm6_leather1 = ^BenchName M6 Leather 1
+!bench_mayenm6_leather2 = ^BenchName M6 Leather 2
+!bench_mayenm8 = ^BenchName M8
+!bench_mayenm8_leather1 = ^BenchName M8 Leather 1
+!bench_mayenm8_leather2 = ^BenchName M8 Leather 2
+!bench_mojave = ^BenchName Mojave
+!bench_mojave_leather1 = ^BenchName Mojave Leather 1
+!bench_mojave_leather2 = ^BenchName Mojave Leather 2
+!bench_moon = ^BenchName Moon
+!bench_moon_leather1 = ^BenchName Moon Leather 1
+!bench_moon_leather2 = ^BenchName Moon Leather 2
+!bench_quattroporte = ^BenchName Quattroporte
+!bench_rinopiccolo = ^BenchName Piccolo
+!bench_rinopiccolo_leather1 = ^BenchName Piccolo Leather 1
+!bench_rinopiccolo_leather2 = ^BenchName Piccolo Leather 2
+!bench_roadrunner = ^BenchName Road Runner
+!bench_rollett = ^BenchName Rollet Leather 1
+!bench_rx-3 = ^BenchName RX-3 Leather 1
+!bench_rx-7 = ^BenchName RX-7 Leather 1
+!bench_sebring = ^BenchName Sebring
+!bench_sebring_leather1 = ^BenchName Sebring Leather 1
+!bench_sebring_leather2 = ^BenchName Sebring Leather 2
+!bench_sec = ^BenchName Sec
+!bench_sec_leather1 = ^BenchName Sec Leather 1
+!bench_sec_leather2 = ^BenchName Sec Leather 2
+!bench_seriesT = ^BenchName T Series
+!bench_seriesT_leather1 = ^BenchName T Series Leather 1
+!bench_seriesT_leather2 = ^BenchName T Series Leather 2
+!bench_spectre = ^BenchName Spectre
+!bench_spectre_leather1 = ^BenchName Spectre Leather 1
+!bench_spectre_leather2 = ^BenchName Spectre Leather 2
+!bench_stradale = ^BenchName Stradale
+!bench_tbx = ^BenchName TBX
+!bench_urs = ^BenchName Urs
+!bench_urs_leather1 = ^BenchName Urs Leather 1
+!bench_urs_leather2 = ^BenchName Urs Leather 2
+!bench_avalanche = ^BenchName Avalanche
+!bench_jeepwillys = ^BenchName Jeep Willys
+!bench_m3 = ^BenchName M3
+
+//------------------------------------------------- seats
+
+SeatName = Seat
+
+!seat_1_fabric1 = ^SeatName 1 Fabric A
+!seat_1_fabric2 = ^SeatName 1 Fabric B
+!seat_1_leather1 = ^SeatName 1 Leather A
+!seat_1_leather2 = ^SeatName 1 Leather B
+!seat_1_leather3 = ^SeatName 1 Leather C
+!seat_1_leather4 = ^SeatName 1 Leather D
+
+!seat_2_fabric1 = ^SeatName 2 Fabric A
+!seat_2_fabric2 = ^SeatName 2 Fabric B
+!seat_2_leather1 = ^SeatName 2 Leather A
+!seat_2_leather2 = ^SeatName 2 Leather B
+!seat_2_leather3 = ^SeatName 2 Leather C
+!seat_2_leather4 = ^SeatName 2 Leather D
+
+!seat_3_fabric1 = ^SeatName 3 Fabric A
+!seat_3_fabric2 = ^SeatName 3 Fabric B
+!seat_3_leather1 = ^SeatName 3 Leather A
+!seat_3_leather2 = ^SeatName 3 Leather B
+!seat_3_leather3 = ^SeatName 3 Leather C
+!seat_3_leather4 = ^SeatName 3 Leather D
+
+!seat_4_fabric1 = ^SeatName 4 Fabric A
+!seat_4_fabric2 = ^SeatName 4 Fabric B
+!seat_4_leather1 = ^SeatName 4 Leather A
+!seat_4_leather2 = ^SeatName 4 Leather B
+!seat_4_leather3 = ^SeatName 4 Leather C
+!seat_4_leather4 = ^SeatName 4 Leather D
+
+!seat_5_fabric1 = ^SeatName 5 Fabric A
+!seat_5_fabric2 = ^SeatName 5 Fabric B
+!seat_5_leather1 = ^SeatName 5 Leather A
+!seat_5_leather2 = ^SeatName 5 Leather B
+!seat_5_leather3 = ^SeatName 5 Leather C
+!seat_5_leather4 = ^SeatName 5 Leather D
+
+!seat_6_fabric1 = ^SeatName 6 Fabric A
+!seat_6_fabric2 = ^SeatName 6 Fabric B
+!seat_6_leather1 = ^SeatName 6 Leather A
+!seat_6_leather2 = ^SeatName 6 Leather B
+!seat_6_leather3 = ^SeatName 6 Leather C
+!seat_6_leather4 = ^SeatName 6 Leather D
+
+!seat_7_fabric1 = ^SeatName 7 Fabric A
+!seat_7_fabric2 = ^SeatName 7 Fabric B
+!seat_7_leather1 = ^SeatName 7 Leather A
+!seat_7_leather2 = ^SeatName 7 Leather B
+!seat_7_leather3 = ^SeatName 7 Leather C
+!seat_7_leather4 = ^SeatName 7 Leather D
+
+!seat_8_fabric1 = ^SeatName 8 Fabric A
+!seat_8_fabric2 = ^SeatName 8 Fabric B
+!seat_8_leather1 = ^SeatName 8 Leather A
+!seat_8_leather2 = ^SeatName 8 Leather B
+!seat_8_leather3 = ^SeatName 8 Leather C
+!seat_8_leather4 = ^SeatName 8 Leather D
+
+!seat_9_fabric1 = ^SeatName 9 Fabric A
+!seat_9_fabric2 = ^SeatName 9 Fabric B
+!seat_9_leather1 = ^SeatName 9 Leather A
+!seat_9_leather2 = ^SeatName 9 Leather B
+!seat_9_leather3 = ^SeatName 9 Leather C
+!seat_9_leather4 = ^SeatName 9 Leather D
+
+!seat_10_fabric1 = ^SeatName 10 Fabric A
+!seat_10_fabric2 = ^SeatName 10 Fabric B
+!seat_10_leather1 = ^SeatName 10 Leather A
+!seat_10_leather2 = ^SeatName 10 Leather B
+!seat_10_leather3 = ^SeatName 10 Leather C
+!seat_10_leather4 = ^SeatName 10 Leather D
+
+!seat_11_fabric1 = ^SeatName 11 Fabric A
+!seat_11_fabric2 = ^SeatName 11 Fabric B
+!seat_11_leather1 = ^SeatName 11 Leather A
+!seat_11_leather2 = ^SeatName 11 Leather B
+!seat_11_leather3 = ^SeatName 11 Leather C
+!seat_11_leather4 = ^SeatName 11 Leather D
+
+!seat_atlanta = ^SeatName Atlanta
+!seat_continental = ^SeatName Continental GT
+!seat_cuda = ^SeatName Cuda
+!seat_delorean = ^SeatName Delorean
+!seat_gullwing = ^SeatName Gullwing
+!seat_quattroporte = ^SeatName Quattroporte
+!seat_rx3 = ^SeatName RX3
+!seat_rx7 = ^SeatName RX7
+!seat_sebring = ^SeatName Sebring
+!seat_sec = ^SeatName Sec
+!seat_seriesT = ^SeatName T Series
+!seat_stradale = ^SeatName Stradale
+!seat_willys = ^SeatName Willys
+!seat_bandit = ^SeatName Bandit
+!seat_typhoon = ^SeatName Typhoon
+!seat_reptiliar2 = ^SeatName Reptilia R2
+!seat_lotz = ^SeatName Lotz
+!seat_rollett = ^SeatName Rollett
+!seat_tbx = ^SeatName TBX
+!seat_charger = ^SeatName Charger
+!seat_avalanche = ^SeatName Avalanche
+!seat_m3 = ^SeatName M3
+
+//------------------------------------------------- steering wheels
+
+SteeringWheelName = Steering Wheel
+!steering_wheel1 = ^SteeringWheelName 1
+!steering_wheel10 = ^SteeringWheelName 10
+!steering_wheel11 = ^SteeringWheelName 11
+!steering_wheel12 = ^SteeringWheelName 12
+!steering_wheel13 = ^SteeringWheelName 13
+!steering_wheel14 = ^SteeringWheelName 14
+!steering_wheel15 = ^SteeringWheelName 15
+!steering_wheel16 = ^SteeringWheelName 16
+!steering_wheel17 = ^SteeringWheelName 17
+!steering_wheel2 = ^SteeringWheelName 2
+!steering_wheel3 = ^SteeringWheelName 3
+!steering_wheel4 = ^SteeringWheelName 4
+!steering_wheel5 = ^SteeringWheelName 5
+!steering_wheel6 = ^SteeringWheelName 6
+!steering_wheel7 = ^SteeringWheelName 7
+!steering_wheel8 = ^SteeringWheelName 8
+!steering_wheel9 = ^SteeringWheelName 9
+!steering_wheel_old1 = ^SteeringWheelName 18
+
+!steering_wheel_atlanta = ^SteeringWheelName Atlanta
+!steering_wheel_bowen = ^SteeringWheelName Bowen
+!steering_wheel_cape = ^SteeringWheelName Cape
+!steering_wheel_chapman = ^SteeringWheelName Chapman
+!steering_wheel_continental = ^SteeringWheelName Continetal
+!steering_wheel_cuda = ^SteeringWheelName Cuda
+!steering_wheel_delorean = ^SteeringWheelName Delorean
+!steering_wheel_delorean2 = ^SteeringWheelName Delorean 2
+!steering_wheel_gullwing = ^SteeringWheelName Gullwing
+!steering_wheel_lotz = ^SteeringWheelName Lotz
+!steering_wheel_quattroporte = ^SteeringWheelName Quattroporte
+!steering_wheel_reptiliar2 = ^SteeringWheelName Reptilia R2
+!steering_wheel_rx3 = ^SteeringWheelName RX3
+!steering_wheel_rx7 = ^SteeringWheelName RX7
+!steering_wheel_sebring = ^SteeringWheelName Sebring
+!steering_wheel_sec = ^SteeringWheelName Sec
+!steering_wheel_seriesT = ^SteeringWheelName T Series
+!steering_wheel_stradale = ^SteeringWheelName Stradale
+!steering_wheel_tbx = ^SteeringWheelName TBX
+!steering_wheel_typhoon = ^SteeringWheelName Typhoon
+!steering_wheel_rollett = ^SteeringWheelName Rollett
+!steering_wheel_bandit = ^SteeringWheelName Bandit
+!steering_wheel_charger = ^SteeringWheelName Charger
+!steering_wheel_m3 = ^SteeringWheelName M3
+
+//------------------------------------------------- rims
+
+RimName = Rim
+
+!rim_2 = ^RimName Classic 01
+!rim_3 = ^RimName Classic 02
+!rim_4 = ^RimName Retro 01
+!rim_5 = ^RimName Retro 02
+!rim_6 = ^RimName Classic 03
+!rim_7 = ^RimName Classic 04
+!rim_8 = ^RimName Classic 05
+!rim_10 = ^RimName Modern 01
+!rim_11 = ^RimName Retro 03
+!rim_12 = ^RimName Retro 04
+!rim_13 = ^RimName Retro 05
+!rim_14 = ^RimName Classic 06
+!rim_15 = ^RimName Retro 06
+!rim_16 = ^RimName Classic 07
+!rim_17 = ^RimName Basic 01
+!rim_18 = ^RimName Basic 02
+!rim_19 = ^RimName Classic 08
+!rim_20 = ^RimName Retro 07
+!rim_21 = ^RimName Retro 08
+!rim_22 = ^RimName Classic 09
+!rim_23 = ^RimName Classic 10
+!rim_24 = ^RimName Retro 09
+!rim_25 = ^RimName Retro 10
+!rim_26 = ^RimName Retro 11
+!rim_31 = ^RimName Retro 12
+!rim_32 = ^RimName Retro 13
+!rim_33 = ^RimName Modern 02
+!rim_34 = ^RimName Modern 03
+!rim_35 = ^RimName Classic 11
+!rim_36 = ^RimName Classic 12
+!rim_37 = ^RimName Classic 13
+!rim_38 = ^RimName Modern 04
+!rim_39 = ^RimName Classic 14
+!rim_40 = ^RimName Modern 05
+!rim_41 = ^RimName Classic 15
+!rim_42 = ^RimName Classic 16
+!rim_43 = ^RimName Classic 17
+!rim_44 = ^RimName Classic 18
+!rim_45 = ^RimName Classic 19
+!rim_46 = ^RimName Modern 06
+!rim_100 = ^RimName Classic 20
+!rim_101 = ^RimName Modern 07
+!rim_102 = ^RimName Modern 08
+!rim_103 = ^RimName Modern 09
+!rim_104 = ^RimName Modern 10
+
+!rim_roadrunner = ^RimName RoadRunner
+!rim_willys = ^RimName Jeep Willys
+!rim_grand_cherokee = ^RimName Jeep Grand Cherokee
+!rim_bentley_continentalB = ^RimName Bentley Continetal
+!rim_rx7_1 = ^RimName Mazda RX7 A
+!rim_rx7_2 = ^RimName Mazda RX7 B
+!rim_atlanta = ^RimName Atlanta
+!rim_bowen = ^RimName Bowen
+!rim_cape = ^RimName Cape
+!rim_typhoon = ^RimName Typhoon
+!rim_chapman = ^RimName Chapman
+!rim_reptiliar2 = ^RimName Reptilia R2
+!rim_lotz = ^RimName Lotz
+!rim_tbx = ^RimName TBX
+!rim_rollett = ^RimName Rollett
+!rim_avalanche = ^RimName Avalanche
+!rim_gullwing = ^RimName 300 SL
+!rim_sec = ^RimName 560 SEC
+
+!rim_25B = ^!rim_25 B
+!rim_5B = ^!rim_5 B
+!rim_11B = ^!rim_11 B
+!rim_20B = ^!rim_20 B
+!rim_43B = ^!rim_43 B
+!rim_33B = ^!rim_33 B
+!rim_25P = ^!rim_25 B
+!rim_4B = ^!rim_4 B
+!rim_37B = ^!rim_37 B
+!rim_34B = ^!rim_34 B
+!rim_34C = ^!rim_34 C
+!rim_35B = ^!rim_35 B
+!rim_36B = ^!rim_36 B
+!rim_38B = ^!rim_38 B
+!rim_44B = ^!rim_44 B
+!rim_45B = ^!rim_45 B
+!rim_46B = ^!rim_46 B
+!rim_46C = ^!rim_46 C
+!rim_11C = ^!rim_11 C
+!rim_22C = ^!rim_22 C
+
+//---------------------------------------------- dodane dlc maluch
+!kaszlak_zwrotnicaPrzod_1 = Front Steering Knuckle (Maluch)
+!kaszlak_drazekKierowniczy_1 = Inner Tie Rod (Maluch)
+!kaszlak_drazekBoczny_1 = Outer Tie Rod (Maluch)
+!kaszlak_ramionaWahaczaPrzod_1 = Front Suspension Arm (Maluch)
+!kaszlak_szczeki_1 = Brake Shoe (Maluch)
+!kaszlak_gumowyPrzod_1 = Front Rubber Buffer (Maluch)
+!kaszlak_pierscienGumowy_1 = Rubber Ring Buffer (Maluch)
+!kaszlak_piastaPrzod_1 = Front Wheel Hub (Maluch)
+!kaszlak_polos_2 = Rear Drive Axle (Maluch)
+!kaszlak_amortyzatorTyl_1 = Rear Shock Absorber (Maluch)
+!kaszlak_cylinderek_1 = Drum Wheel Cylinder (Maluch)
+!kaszlak_gumowyTyl_1 = Rear Rubber Buffer (Maluch)
+!kaszlak_sworzenWahaczaPrzod_1 = Front Knuckle Pin (Maluch)
+!kaszlak_wahaczTyl_1 = Rear Suspension Arm (Maluch)
+!kaszlak_resory_1 = Leaf Spring (Maluch)
+!kaszlak_przekladnia_1 = Steering Rack (Maluch)
+!kaszlak_tarczaTyl_1 = Rear Knuckle Disc (Maluch)
+!kaszlak_obejmaElastyczna_1 = Flexible Clamp (Maluch)
+!kaszlak_gniazdoPierscienia_1 = Ring Buffer Socket (Maluch)
+!kaszlak_bebenPrzod_1 = Front Brake Drum (Maluch)
+!kaszlak_dekielek_1 = Cap (Maluch)
+!kaszlak_babenTyl_1 = Rear Brake Drum (Maluch)
+!kaszlak_wspornikWahacza_1 = Support Bracket (Maluch)
+!kaszlak_sprezyna_1 = Spring (Maluch)
+!kaszlak_tulejkaMala_1 = Small Rubber Bushing (Maluch)
+!kaszlak_przegubPolosi_1 = Drive Axle Joint (Maluch)
+!kaszlak_amortyzatorPrzod_1 = Front Shock Absorber (Maluch)
+!kaszlak_tuleja_1 = Rubber Bushing (Maluch)
+!kaszlak_piastaTyl_1 = Rear Wheel Hub (Maluch)
+!kaszlak_lozysko_1 = Wheel Hub Bearing (Maluch)
+!kaszlak_klips_1 = Clip (Maluch)
+!kaszlak_cylinder_1 = Cylinder (Maluch)
+!kaszlak_lancuch_1 = Timing Chain (Maluch)
+!kaszlak_oslonaKolaZamachowego_1 = Flywheel Cover (Maluch)
+!kaszlak_tlok_1 = Piston with Conrod (Maluch)
+!kaszlak_walKorbowy_1 = Crankshaft (Maluch)
+!kaszlak_tarczaSprzegla_1 = Clutch Plate (Maluch)
+!kaszlak_cewkaZaplonowa_1 = Ignition Coil (Maluch)
+!kaszlak_wydech_1 = Muffler (Maluch)
+!kaszlak_palecRozdzielacza_1 = Ignition Distributor Rotor (Maluch)
+!kaszlak_walRozrzadu_1 = Camshaft (Maluch)
+!kaszlak_ruraCieplegoPowietrza_1 = Hot Air Pipe (Maluch)
+!kaszlak_swieca_1 = Spark Plug (Maluch)
+!kaszlak_ruraDmuchawy_1 = Cold Air Pipe (Maluch)
+!kaszlak_pokrywaRozrzadu_1 = Timing Cover (Maluch)
+!kaszlak_rozrusznik_1 = Starter (Maluch)
+!kaszlak_rozdzielaczZaplonu_1 = Ignition Distributor (Maluch)
+!kaszlak_pompaPaliwa_1 = Fuel Pump (Maluch)
+!kaszlak_przewodOlejGlowica_1 = Oil Tube (Maluch)
+!kaszlak_popychacz_1 = Valve Push Rod (Maluch)
+!kaszlak_pokyrwaKolaPasowego_1 = Centrifugal Oil Filter (Maluch)
+!kaszlak_pokrywaGlowicy_1 = Engine Head Cover (Maluch)
+!kaszlak_pokrywaFiltra_1 = Air Filter Cover (Maluch)
+!kaszlak_pasek_1 = Serpentine Belt (Maluch)
+!kaszlak_panewkaGlownaTylna_1 = Rear Crankshaft Bearing (Maluch)
+!kaszlak_panewkaGlownaPrzednia_1 = Front Crankshaft Bearing (Maluch)
+!kaszlak_oslonaPrzewodu_1 = Oil Tube Cover (Maluch)
+!kaszlak_oslonaPopychacza_1 = Valve Push Rod Cover (Maluch)
+!kaszlak_obudowaWentylatoraTyl_1 = Rear Fan Cover (Maluch)
+!kaszlak_obudowaWentylatoraPokrywa_1 = Top Fan Cover (Maluch)
+!kaszlak_obudowaTermostatu_1 = Thermostat Cover (Maluch)
+!kaszlak_korekOleju_1 = Oil Fill Plug (Maluch)
+!kaszlak_obudowaWentylatoraPrzod_1 = Front Fan Cover (Maluch)
+!kaszlak_lozyskoDociskowe_1 = Clutch Release Bearing (Maluch)
+!kaszlak_miskaOlejowa_1 = Oil Pan (Maluch)
+!kaszlak_kopulkaRozdzielacza_1 = Ignition Distributor Cap (Maluch)
+!kaszlak_koloRozrzaduMale_1 = Small Cam Gear (Maluch)
+!kaszlak_koloZamachowe_1 = Flywheel (Maluch)
+!kaszlak_koloRozrzaduDuze_1 = Cam Gear (Maluch)
+!kaszlak_koloPasowe_1 = Crankshaft Pulley (Maluch)
+!kaszlak_kolektorWydechowy_1 = Exhaust Manifold (Maluch)
+!kaszlak_kolankoLaczace_1 = Carburetor Elbow (Maluch)
+!kaszlak_kable_1 = Ignition Wires (Maluch)
+!kaszlak_glowica_1 = Engine Head (Maluch)
+!kaszlak_gaznik_1 = Carburetor (Maluch)
+!kaszlak_gearbox_1 = Gearbox (Maluch)
+!kaszlak_filtrPowietrza_1 = Air filter (Maluch)
+!kaszlak_dzwignieZaworu_1 = Rocker Arms (Maluch)
+!kaszlak_dociskSprzegla_1 = Clutch Pressure Plate (Maluch)
+!kaszlak_blok_1 = Engine Block (Maluch)
+!kaszlak_bak_1 = Fuel Tank (Maluch)
+!kaszlak_bagnet_1 = Oil Dipstick (Maluch)
+!kaszlak_alternator_1 = Generator (Maluch)
+!kaszlak_pompaHamulcowa_1 = Brake Pump (Maluch)
+!kaszlak_filtr_paliwa_1 = Fuel Filter (Maluch)
+!kaszlak_rim_1 = Rim Maluch
+
+!mostPrzedni_1 = Front Drive Axle D
+!walNapedowy_2 = Front Drive Shaft B
+!skrzyniaRozdzielcza_1 = Transfer Case (4x4)
+!w_v8_poczatkowy_2 = Front Exhaust Pipe B (V8)
+!v8_pokrywa_glowicy1B = Engine Head Cover A (V8)
+!v8_pokrywa_glowicy2B = Engine Head Cover B (V8)
+!r6_wal_korbowy = Crankshaft (I6)
+!r6_blok = Engine Block (I6)
+!r6_kopulkaRozdzielacza = Ignition Distributor Cap (I6)
+!r6_miska_olejowa = Oil Pan (I6)
+!r6_kable = Ignition Wires (I6)
+!r6_glowica_dohc = Engine Head (I6)
+!r6_glowica_dohc_wkladka = Camshaft Cap (I6)
+!r6_walek_rozrzadu = Camshaft (I6)
+!r6_rolkaWalka = Cam Gear (I6)
+!r6_gaznik_plaski = Carburetor (2-barrel side draft)
+!r6_filtr = Round Air Filter (side draft)
+!r6_kolektor_wydechowy = Exhaust Manifold (I6)
+!r6_rolkaLancucha = Timing Chain Sprocket (I6)
+!r6_lancuch = Timing Chain (I6)
+!r6_pompaWody = Water Pump (I6)
+!r6_oslona_rozrzadu = Timing Cover (I6)
+!r6_kolo_pasowe_walu = Crankshaft Pulley (I6)
+!r6_pasek_1 = Serpentine Belt A (I6)
+!r6_pasek_2 = Serpentine Belt B (I6)
+!r6_filtr_oleju = Oil Filter (I6)
+!r6_pokrywa_glowicy = Engine Head Cover (I6)
+!r6_wydech_poczatkowy = Front Exhaust Section (I6)
+!sankiPrzod_4 = ^!sankiPrzod_1 C
+!stabilizatorPrzod_2 = Front Sway Bar B
+!zwrotnicaPrzod_double3 = Front Steering Knuckle C
+!r6_2_kolektor_dolotowy = Intake Manifold (300SL)
+!r6_2_wtrysku_walek = Mechanical Fuel Injection Driver
+!r6_2_glowica = Cylinder Head (300SL)
+!r6_2_kolektor_wydechowy_oslona = Exhaust Manifold Cover (300SL)
+!r6_2_glowica_wkladka = Camshaft Bearing
+!r6_2_wtrysk = Mechanical Fuel Injection (300SL)
+!r6_2_pokrywa_glowicy = Cylinder Head Cover (300SL)
+!r6_2_lancuch = Timing Chain (300SL)
+!r6_2_dzwignia_zaworu = Rocker Arm (300SL)
+!r6_2_walek_rozrzadu = Camshaft (300SL)
+!r6_2_blok = Engine Block (300SL)
+!r6_2_przepustnica = Throttle (300SL)
+!r6_2_kable = Ignition Wires (300SL)
+!r6_2_oslonaRozrzadu = Timing Cover (300SL)
+!r6_2_kolektor_wydechowy = Exhaust Manifold (300SL)
+!r6_2_miska_olejowa = Oil Pan (300SL)
+!w_r6_2_koncowy = Rear Muffler (300SL)
+!w_r6_2_poczatkowy = Front Exhaust Section (300SL)
+!w_r6_2_ruraLaczaca = Middle Exhaust Pipe (300SL)
+!wentylator_3 = Radiator Fan B
+!v8_2_lancuch = Timing Chain (560SEC)
+!v8_2_walKorbowy = Crankshaft (560SEC)
+!v8_2_filtr_sec_gora = Round Air Filter Cover (560SEC)
+!v8_2_kable = Ignition Wires (560SEC)
+!v8_2_rolkaLancucha = Timing Chain Sprocket (560SEC)
+!v8_2_pokrywa_dystrybutora = Ignition Distributor Cover (560SEC)
+!v8_2_filtr_sec_srodek = Round Air Filter (560SEC)
+!v8_2_walekdystrybutora = Ignition Distributor Camshaft (560SEC)
+!v8_2_rozrzad_oslona = Timing Cover (560SEC)
+!v8_2_rolkaWalka = Cam Gear (560SEC)
+!v8_2_pokrywa_glowicy_2 = Cylinder Head Cover B (560SEC)
+!v8_2_przeplywomierz = Air Flow Sensor (560SEC)
+!v8_2_kolektordolotowy = Intake Manifold (560SEC)
+!v8_2_filtr_sec_dol = Round Air Filter Base (560SEC)
+!v8_2_glowica = Cylinder Head (560SEC)
+!v8_2_blok = Engine Block (560SEC)
+!v8_2_wtrysk = Mechanical Fuel Injection (560SEC)
+!v8_2_walek_rozrzadu = Camshaft (560SEC)
+!v8_2_pokrywa_glowicy_1 = Cylinder Head Cover A (560SEC)
+!w_v8_2_koncowy = Rear Muffler (560SEC)
+!w_v8_2_tlumik_srodkowy = Middle Exhaust Pipe (560SEC)
+!w_v8_2_rezonator = Exhaust Resonator (560SEC)
+!v8_supercharger_stary = Supercharger (V8 OHV)
+!v8_supercharger_kolektor_dolotowy_stary = Supercharger Intake Manifold (V8 OHV)
+!v8_supercharger_pasek_stary = Supercharger Serpentine Belt (V8 OHV)
+!v8_supercharger_pasek2b = Supercharger Serpentine Belt (V8)
+!v8_supercharger_kolektor_dolotowy = Supercharger Intake Manifold (V8)
+!v8_supercharger = Supercharger (V8)
+!rolka_pompy_wody_supercharger = Supercharger Water Pump Pulley (V8 OHV)
+!v8_filtr_1 = Scoop Air Filter (V8 OHV)
+!v8_scoop_1 = Air Scoop (V8 OHV)
+!stradale_kolektor = Intake Manifold (Stradale)
+!stradale_obudowaFiltra_dol = Air Filter Base (Stradale)
+!stradale_obudowaFiltra_gora = Air Filter Cover (Stradale)
+!stradale_pokrywa_glowicy1 = Engine Head Cover A (Stradale)
+!stradale_pokrywa_glowicy2 = Engine Head Cover B (Stradale)
+!stradale_przepustnica = Throttle (Stradale)
+!sebring_kopulkaRozdzielacza = Ignition Distributor Cap (Sebring)
+!sebring_wydech_poczatkowy = Front Exhaust Section (Sebring)
+!sebring_pokrywa_glowicy2 = Engine Head Cover B (Sebring)
+!sebring_pokrywa_glowicy1 = Engine Head Cover A (Sebring)
+!sebring_oslona_rozrzadu = Timing Cover (Sebring)
+!sebring_lancuch = Timing Chain (Sebring)
+!sebring_kable = Ignition Wires (Sebring)
+!sebring_glowica = Engine Head (Sebring)
+!sebring_blok = Engine Block (Sebring)
+!rim_maserati = Rim Stradale
+!rim_maserati_old = Rim Sebring
+!zwrotnicaPrzod_3 = Front Steering Knuckle D
+!w_koncowy_sebring = Rear Muffler (Sebring)
+!w_ruraLaczaca_stradale = Exhaust Pipe (Stradale)
+!stradale_tlumik_koncowy = Rear Muffler (Stradale)
+!delorean_rolka_pompy_wody = Water Pump Pulley (V6)
+!delorean_walek_rozrzadu = Camshaft (V6)
+!delorean_glowica_2 = Engine Head B (V6)
+!delorean_glowica_1 = Engine Head A (V6)
+!delorean_popychacze = Rocker Arms (V6)
+!delorean_rolka_walka = Cam Gear (V6)
+!delorean_slizg_2 = Timing Guide B (V6)
+!delorean_slizg_1 = Timing Guide A (V6)
+!delorean_lancuch_1 = Timing Chain A (V6)
+!delorean_lancuch_2 = Timing Chain B (V6)
+!delorean_miska_olejowa = Oil Pan (V6)
+!delorean_pokrywa_glowicy_2 = Head Cover B (V6)
+!delorean_pokrywa_glowicy_1 = Head Cover A (V6)
+!delorean_pasek_2 = Serpentine Belt B (V6)
+!delorean_walKorbowy = Crankshaft (V6)
+!delorean_filtr_srodek = Air Filter (V6)
+!delorean_pasek_1 = Serpentine Belt C (V6)
+!delorean_gearbox = Gearbox (V6)
+!delorean_kopulkaRozdzielacza = Ignition Distributor Cap (V6)
+!delorean_filtr_dol = Air Filter Base (V6)
+!delorean_kolo_pasowe_walu = Crankshaft Pulley (V6)
+!delorean_pokrywa_rozrzadu = Timing Cover (V6)
+!delorean_kolektor_dolotowy = Intake Manifold (V6)
+!delorean_blok = Engine Block (V6)
+!delorean_filtr_gora = Air Filter Cover (V6)
+!delorean_wtrysk = Mechanical Fuel Injection
+!delorean_kolektor_wylotowy = Exhaust Manifold (V6)
+!delorean_przeplywomierz = Mixture Unit with Throttle (V6)
+!delorean_filtr_oleju = Oil Filter (V6)
+!delorean_pompa_wody = Water Pump (V6)
+!delorean_kable = Ignition Wires (V6)
+!w_tlumik_koncowy_delorean = Rear Muffler (V6)
+!wahaczDol_double_2 = Bottom Suspension Arm B
+!zwrotnicaTyl_double_2 = Rear Axle Knuckle Housing D
+!polosNapedowaTylna_2 = Rear Drive Axle B
+!rim_delorean = Rim DeLorean
+!piastaTyl_2 = Rear Wheel Hub B
+!delorean_gearbox_v8 = Gearbox B (V8)
+!delorean_kolektor_wydechowy_v8 = Exhaust Manifold B (V8)
+!tire_raceplus = Race Tire Plus
+!w_koncowy_quattroporte = Rear Muffler (Quattroporte)
+!w_ruraLaczaca_quattroporte = Exhaust Pipe (Quattroporte)
+!v8_quattroporte_przepustnica = Throttle (Quattroporte)
+!v8_quattroporte_kolektorturbo = Turbo Exhaust Manifold (Quattroporte)
+!v8_quattroporte_kolektor = Intake Manifold (Quattroporte)
+!v8_quattroporte_blok = Engine Block (Quattroporte)
+!rim_quattroporte = Rim Quattroporte
+!quattroporte_pokrywa_glowicy1 = Engine Head Cover A (Quattroporte)
+!quattroporte_pokrywa_glowicy2 = Engine Head Cover B (Quattroporte)
+!w_v8_poczatkowy_stary2 = Front Exhaust Section (T-Series)
+!v8_walek_stary2 = Camshaft (T-Series)
+!v8_rozrzad_oslona_stary2 = Timing Cover (T-Series)
+!v8_mocowanieRolki_stary2 = Idler Roller Bracket (T-Series)
+!v8_lapa_stary2 = Alternator Bracket (T-Series)
+!v8_alternator_stary2 = Alternator (T-Series)
+!v8_pasek_1_stary2 = Serpentine Belt A (T-Series)
+!v8_pasek_2_stary2 = Serpentine Belt B (T-Series)
+!v8_miska_olejowa_stary2 = Oil Pan (T-Series)
+!v8_kolektor_wydechowy_stary2 = Exhaust Manifold (T-Series)
+!v8_pompa_wspomagania_stary2 = Power Steering Pump (T-Series)
+!v8_popychacz_stary2 = Valve Push Rod (T-Series)
+!v8_dzwigniezaworu_stary2 = Rocker Arms (T-Series)
+!v8_walKorbowy_stary2 = Crankshaft (T-Series)
+!v8_gearbox_stary2 = Gearbox (T-Series)
+!v8_korekOleju_stary2 = Oil Fill Plug (T-Series)
+!v8_wtryski_stary2 = Fuel Rail (T-Series)
+!v8_pokrywa_glowicy_1_stary2 = Engine Head Cover (T-Series)
+!v8_pokrywa_glowicy_2_stary2 = Engine Head Cover (T-Series)
+!v8_blok_stary2 = Engine Block (T-Series)
+!v8_kable_stary2 = Ignition Wires (T-Series)
+!v8_pompaWody_stary2 = Water Pump (T-Series)
+!v8_glowica_2_stary2 = Engine Head A (T-Series)
+!v8_glowica_1_stary2 = Engine Head B (T-Series)
+!v8_kolektordolotowy_stary2 = Intake Manifold (T-Series)
+!v8_gaznik_stary2 = Dual Carburetor (T-Series)
+!v8_przepustnica_stary2 = Throttle (T-Series)
+!v8_filtrDol_stary2 = Round Air Filter Cover (T-Series)
+!v8_ruraFiltra_stary2 = Air Filter Pipe (T-Series)
+!v8_filtr_stary_2 = Round Air Filter (T-Series)
+!w_w12_poczatkowy = Front Exhaust Section (W12)
+!w_w12_koncowy = Rear Muffler (W12)
+!w12_rolka_lancucha_rozrzadu = Timing Chain Sprocket (W12)
+!w12_filtr = Air Filter (W12)
+!w12_obudowaFiltra_gora_1 = Air Filter Cover A (W12)
+!w12_przepustnica = Throttle (W12)
+!w12_walKorbowy = Crankshaft (W12)
+!w12_blok = Engine Block (W12)
+!w12_lancuch_1 = Timing Chain A (W12)
+!w12_walek_rozrzadu = Camshaft (W12)
+!w12_pokrywaLogo = Intake Manifold Cover (W12)
+!w12_obudowaFiltra_gora_2 = Air Filter Cover B (W12)
+!w12_napinacz = Belt Tensioner (W12)
+!w12_rolka_pompy_wody = Water Pump Pulley (W12)
+!w12_miskaOlejowa = Oil Pan (W12)
+!w12_pasek = Serpentine Belt (W12)
+!w12_tlok = Piston with Conrod (W12)
+!w12_glowica_wkladka = Camshaft Cap (W12)
+!w12_listwaWtryskowa = Fuel Rail (W12)
+!w12_termostat = Thermostat (W12)
+!w12_glowica = Engine Head (W12)
+!w12_gearbox = Gearbox (W12)
+!w12_pokrywaRozrzadu = Timing Cover (W12)
+!w12_lancuch_2 = Timing Chain B (W12)
+!w12_korekOleju = Oil Fill Plug (W12)
+!w12_rolkaWalka = Cam Gear (W12)
+!w12_filtr_oleju = Oil Filter (W12)
+!w12_obudowaFiltra_dol = Air Filter Base (W12)
+!w12_pokrywa_2 = Engine Head Cover B (W12)
+!w12_kolektor_wydechowy = Exhaust Manifold (W12)
+!w12_pompa_wody = Water Pump (W12)
+!w12_kolektor_dolotowy_gorny = Intake Manifold A (W12)
+!w12_pokrywa_1 = Engine Head Cover A (W12)
+!w12_kolektor_dolotowy_dolny = Intake Manifold B (W12)
+!w12_turbo = Turbocharger (W12)
+!w12_kolo_zamachowe = Flywheel (W12)
+!rim_bentley_77 = Rim T-Series
+!rim_bentley_continental = Rim Continental GT
+!polosNapedowa_7 = Front Drive Axle E
+!walNapedowy_4 = Front Drive Shaft C
+!w12_dyferPrzod = Front differential (W12)
+!skrzyniaRozdzielcza_2 = Transfer Case (W12)
+
+//---CMS18
+
+!wentylatorChlodnicy_1 = Radiator Fan Housing
+!wentylatorChlodnicy_1_fan_1 = ^!wentylatorChlodnicy_1 Fan
+!wentylatorChlodnicy_2 = ^!wentylatorChlodnicy_1 B
+!wentylatorChlodnicy_2_fan_1 = ^!wentylatorChlodnicy_2 Fan 1
+!wentylatorChlodnicy_2_fan_2 = ^!wentylatorChlodnicy_2 Fan 2
+!tlok_1_pokrywa_stopy = Rod Cap
+!tlok_1_pierscienie_1 = Piston Rings
+!zwrotnicaPrzod_oslona_1 = Front Axle Knuckle Cover
+!zwrotnicaTyl_oslona_1 = Rear Axle Knuckle Cover
+!w12_tlok_1_pierscienie_1 = Piston Rings (W12)
+!chlodnica_2 = Radiator C
+!chlodnica_2_nakretka = Radiator C Cap
+
+!zaciskHamulcowy_tloczek_1 = Brake Caliper Cylinder
+!zwrotnicaPrzodBeben_1_double = Wheel Hub 1
+!zwrotnicaPrzodBeben_oslona_1 = Wheel Hub 2
+!zwrotnicaTyl_oslona_2 = Wheel Hub 3
+!zwrotnicaTylBeben_oslona_1 = Wheel Hub 4
+
+!amortyzator_double_rear = ^!amortyzator_double Rear
+!w_v8_poczatkowy_h1 = ^!w_v8_poczatkowy A
+!w_v8_poczatkowy_h2 = ^!w_v8_poczatkowy B
+!w_v8_poczatkowy_h3 = ^!w_v8_poczatkowy C
+!w_v8_poczatkowy_stary_h1 = ^!w_v8_poczatkowy_stary A
+!w_v8_poczatkowy_stary_h2 = ^!w_v8_poczatkowy_stary B
+!w_v8_poczatkowy_stary_h3 = ^!w_v8_poczatkowy_stary C
+!sankiPrzod_5 = ^!sankiPrzod_1 D
+!sankiPrzod_6 = ^!sankiPrzod_1 E
+
+//--------------------------------------------------Engines
+!engine_r4 = I4 DOHC
+!engine_r4_sohc = I4 SOHC
+!engine_r4_sohc_4x4 = I4 SOHC 4x4
+!engine_r4_sohc_wzdluzny = I4 SOHC
+!engine_r6_dohc_wzdluzny = I6 DOHC
+!engine_r4_turbo = I4 DOHC Turbocharged
+!engine_v8 = V8 DOHC
+!engine_v8_stary = V8 1carb OHV
+!engine_v8_stary_2carb = V8 2carb OHV
+!engine_v8_4x4 = V8 DOHC 4x4
+!engine_r6_sohc = I6 SOHC
+!engine_v8_sec = V8 SOHC
+!engine_v8_stary_scharged = V8 2carb OHC Supercharged
+!engine_v8_scharged = V8 DOHC Supercharged
+!engine_v8_stradale = V8 DOHC
+!engine_r6_sebring = I6 SOHC
+!engine_v6_delorean = V6 SOHC
+!engine_v8_delorean = V8 DOHC
+!engine_w12 = W12 Twin-Turbo
+!engine_v8_bentley = V8 OHV
+!engine_i3 = I3 DOHC
+!engine_i4 = I4 DOHC
+!engine_i4_4x4 = I4 DOHC 4x4
+!engine_i6_old = I6 OHV
+!engine_rot_new = ROTARY 1
+!engine_rot_old = ROTARY 2
+!engine_v6_30 = V6 DOHC
+!engine_v8zz = V8 OHV ZZ
+!engine_v12 = V12 DOHC
+!engine_v8_quattroporte = V8 Twin-Turbo DOHC
+!engine_i3_turbo = I3 DOHC Turbocharged
+!engine_v8_hemi = V8 OHV HEMI
+!engine_v8_sixpack = V8 OHV 6P
+!engine_v8_magnum = V8 OHV MAG
+!engine_v8_409 = V8 OHV SS
+
+//--------------------------------------------------PhotoMode
+GUI_PM_TakePhoto = Take Photo
+GUI_PM_Focus = Focus
+GUI_PM_Up = Move Up
+GUI_PM_Down = Move Down
+GUI_PM_Fov = Fov [Hold]
+GUI_PM_Roll = Roll [Hold]
+GUI_PM_Aperture = Aperture [Hold]
+
+//--------------------------------------------------TIRES
+!tire_standard = Standard Tire
+!tire_standard_2 = ^!tire_standard B
+!tire_sport = Sport Tire
+!tire_race = Race Tire
+!tire_race_2 = ^!tire_race B
+!tire_slick = Slick Tire
+!tire_slick_2 = ^!tire_slick B
+!tire_4x4 = Offroad Tire
+!tire_4x4_2 = ^!tire_4x4 B
+!tire_vintage = Vintage Tire
+!tire_vintage_2 = ^!tire_vintage B
+!tire_vintage_wall1 = ^!tire_vintage Wall A
+!tire_vintage_wall2 = ^!tire_vintage Wall B
+!tire_vintage_wall3 = ^!tire_vintage Wall C
+
+//--- START do not translate!
+//--------------------------------------------------TUNING
+!t_filtr_paliwa_1 = ^!filtr_paliwa_1
+!t_w_v8_2_tlumik_srodkowy = ^!w_v8_2_tlumik_srodkowy
+!t_w_v8_poczatkowy = ^!w_v8_poczatkowy
+!t_w_r6_2_poczatkowy = ^!w_r6_2_poczatkowy
+!t_w_r6_2_ruraLaczaca = ^!w_r6_2_ruraLaczaca
+!t_w_v8_poczatkowy_2 = ^!w_v8_poczatkowy_2
+!t_w_r4_poczatkowy = ^!w_r4_poczatkowy
+!t_w_tlumik_srodkowy_B = ^!w_tlumik_srodkowy_B
+!t_w_ruraLaczaca = ^!w_ruraLaczaca
+!t_w_v8_2_rezonator = ^!w_v8_2_rezonator
+!t_w_r4_turbo_poczatkowy = ^!w_r4_turbo_poczatkowy
+!t_w_v8_poczatkowy_stary = ^!w_v8_poczatkowy_stary
+!t_w_r4_poczatkowy_wzdluzny = ^!w_r4_poczatkowy_wzdluzny
+!t_cewkaZaplonowa_1 = ^!cewkaZaplonowa_1
+!t_tarcza_sprzegla = ^!tarcza_sprzegla
+!t_listwa_wtryskowa_2 = ^!listwa_wtryskowa_2
+!t_r4_walek_rozrzadu = ^!r4_walek_rozrzadu
+!t_r4_walek_rozrzadu_sohc_1 = ^!r4_walek_rozrzadu_sohc_1
+!t_v8_walek_rozrzadu = ^!v8_walek_rozrzadu
+!t_cewka_1 = ^!cewka_1
+!t_listwa_wtryskowa = ^!listwa_wtryskowa
+!t_v8_2_filtr_sec_srodek = ^!v8_2_filtr_sec_srodek
+!t_r4_modul_zaplonowy_sohc_1 = ^!r4_modul_zaplonowy_sohc_1
+!t_v8_2_walek_rozrzadu = ^!v8_2_walek_rozrzadu
+!t_r6_2_walek_rozrzadu = ^!r6_2_walek_rozrzadu
+!t_filtr_1x4_srodek = ^!filtr_1x4_srodek
+!t_swieca_1 = ^!swieca_1
+!t_pompa_wspomagania = ^!pompa_wspomagania
+!t_filtr_1 = ^!filtr_1
+!t_r6_filtr = ^!r6_filtr
+!t_pompa_1 = ^!pompa_1
+!t_filtr_2x4_srodek = ^!filtr_2x4_srodek
+!t_tlok_1 = ^!tlok_1
+!t_r6_kolektor_wydechowy = ^!r6_kolektor_wydechowy
+!t_r4_kolektor_dolotowy3 = ^!r4_kolektor_dolotowy3
+!t_w_katalizator = ^!w_katalizator
+!t_v8_przepustnica = ^!v8_przepustnica
+!t_v8_kable_stary = ^!v8_kable_stary
+!t_kaszlak_gaznik_1 = ^!kaszlak_gaznik_1
+!t_v8_kolo_zamachowe = ^!v8_kolo_zamachowe
+!t_v8_glowica = ^!v8_glowica
+!t_r4_kable_sohc_1 = ^!r4_kable_sohc_1
+!t_r6_kable = ^!r6_kable
+!t_v8_kolektor_wydechowy_stary_1 = ^!v8_kolektor_wydechowy_stary_1
+!t_v8_2_kable = ^!v8_2_kable
+!t_v8_kolektordolotowy_2x4 = ^!v8_kolektordolotowy_2x4
+!t_w_tlumik_wzdluzny = ^!w_tlumik_wzdluzny
+!t_rozdzielaczZaplonu_1 = ^!rozdzielaczZaplonu_1
+!t_r6_gaznik_plaski = ^!r6_gaznik_plaski
+!t_v8_2_glowica = ^!v8_2_glowica
+!t_kaszlak_wydech_1 = ^!kaszlak_wydech_1
+!t_docisk_sprzegla = ^!docisk_sprzegla
+!t_kaszlak_glowica_1 = ^!kaszlak_glowica_1
+!t_v8_glowica_stara = ^!v8_glowica_stara
+!t_kopulkaRozdzielacza_1 = ^!kopulkaRozdzielacza_1
+!t_v8_gaznik_1 = ^!v8_gaznik_1
+!t_r6_2_glowica = ^!r6_2_glowica
+!t_r4_kolektor_wydechowy2 = ^!r4_kolektor_wydechowy2
+!t_r6_glowica_dohc = ^!r6_glowica_dohc
+!t_r6_2_kable = ^!r6_2_kable
+!t_r4_przepustnica = ^!r4_przepustnica
+!t_turbo_2 = ^!turbo_2
+!t_v8_kolektor_wydechowy = ^!v8_kolektor_wydechowy
+!t_r4_kolektor_dolotowy4 = ^!r4_kolektor_dolotowy4
+!t_palecRozdzielacza_1 = ^!palecRozdzielacza_1
+!t_r4_glowica_2 = ^!r4_glowica_2
+!t_w_r6_2_koncowy = ^!w_r6_2_koncowy
+!t_alternator = ^!alternator
+!t_r4_glowica_sohc_1 = ^!r4_glowica_sohc_1
+!t_r4_kolektor_wydechowy_sohc_1 = ^!r4_kolektor_wydechowy_sohc_1
+!t_kaszlak_kable_1 = ^!kaszlak_kable_1
+!t_r4_kolektor_wydechowy = ^!r4_kolektor_wydechowy
+!t_w_tlumik_koncowy = ^!w_tlumik_koncowy
+!t_w_v8_2_koncowy = ^!w_v8_2_koncowy
+!t_w_v8_koncowy = ^!w_v8_koncowy
+!t_w_v8_koncowy_stary = ^!w_v8_koncowy_stary
+!t_r4_pompa_wspomagania = ^!r4_pompa_wspomagania
+!t_r6_walek_rozrzadu = ^!r6_walek_rozrzadu
+!t_r6_kopulkaRozdzielacza = ^!r6_kopulkaRozdzielacza
+!t_r6_wydech_poczatkowy = ^!r6_wydech_poczatkowy
+!t_v8_walek_stary = ^!v8_walek_stary
+!t_sebring_glowica = ^!sebring_glowica
+!t_sebring_kable = ^!sebring_kable
+!t_sebring_kopulkaRozdzielacza = ^!sebring_kopulkaRozdzielacza
+!t_sebring_wydech_poczatkowy = ^!sebring_wydech_poczatkowy
+!t_stradale_kolektor = ^!stradale_kolektor
+!t_stradale_przepustnica = ^!stradale_przepustnica
+!t_stradale_tlumik_koncowy = ^!stradale_tlumik_koncowy
+!t_w_koncowy_sebring = ^!w_koncowy_sebring
+!t_w_ruraLaczaca_stradale = ^!w_ruraLaczaca_stradale
+!t_delorean_filtr_srodek = ^!delorean_filtr_srodek
+!t_delorean_glowica_1 = ^!delorean_glowica_1
+!t_delorean_glowica_2 = ^!delorean_glowica_2
+!t_delorean_kable = ^!delorean_kable
+!t_delorean_kolektor_dolotowy = ^!delorean_kolektor_dolotowy
+!t_delorean_kolektor_wydechowy_v8 = ^!delorean_kolektor_wydechowy_v8
+!t_delorean_kolektor_wylotowy = ^!delorean_kolektor_wylotowy
+!t_delorean_kopulkaRozdzielacza = ^!delorean_kopulkaRozdzielacza
+!t_delorean_walek_rozrzadu = ^!delorean_walek_rozrzadu
+!t_v8_quattroporte_kolektor = ^!v8_quattroporte_kolektor
+!t_v8_quattroporte_kolektorturbo = ^!v8_quattroporte_kolektorturbo
+!t_v8_quattroporte_przepustnica = ^!v8_quattroporte_przepustnica
+!t_w_koncowy_quattroporte = ^!w_koncowy_quattroporte
+!t_w_ruraLaczaca_quattroporte = ^!w_ruraLaczaca_quattroporte
+!t_w_tlumik_koncowy_delorean = ^!w_tlumik_koncowy_delorean
+!t_v8_alternator_stary2 = ^!v8_alternator_stary2
+!t_v8_filtr_stary_2 = ^!v8_filtr_stary_2
+!t_v8_gaznik_stary2 = ^!v8_gaznik_stary2
+!t_v8_glowica_1_stary2 = ^!v8_glowica_1_stary2
+!t_v8_glowica_2_stary2 = ^!v8_glowica_2_stary2
+!t_v8_kable_stary2 = ^!v8_kable_stary2
+!t_v8_kolektor_wydechowy_stary2 = ^!v8_kolektor_wydechowy_stary2
+!t_v8_kolektordolotowy_stary2 = ^!v8_kolektordolotowy_stary2
+!t_v8_pompa_wspomagania_stary2 = ^!v8_pompa_wspomagania_stary2
+!t_v8_przepustnica_stary2 = ^!v8_przepustnica_stary2
+!t_v8_walek_stary2 = ^!v8_walek_stary2
+!t_w12_filtr = ^!w12_filtr
+!t_w12_glowica = ^!w12_glowica
+!t_w12_kolektor_dolotowy_gorny = ^!w12_kolektor_dolotowy_gorny
+!t_w12_turbo = ^!w12_turbo
+!t_w12_kolektor_dolotowy_dolny = ^!w12_kolektor_dolotowy_dolny
+!t_w12_kolektor_wydechowy = ^!w12_kolektor_wydechowy
+!t_w12_walek_rozrzadu = ^!w12_walek_rozrzadu
+!t_w12_przepustnica = ^!w12_przepustnica
+!t_w12_listwaWtryskowa = ^!w12_listwaWtryskowa
+!t_w12_tlok = ^!w12_tlok
+!t_w_w12_poczatkowy = ^!w_w12_poczatkowy
+!t_w_w12_koncowy = ^!w_w12_koncowy
+!t_w_v8_poczatkowy_stary2 = ^!w_v8_poczatkowy_stary2
+//--- END do not translate!
+
+//------------------------------------------------------------------------ Story Missions=
+
+MissionDesc1=A year and a half ago I bought this car for my son. He said that he's not interested in anything except driving it and occasionally filling it up at the gas station. Please check the oil and the tires.
+MissionDesc2=I read in a newspaper that the timing components should be replaced more frequently than recommended by the manufacturer. The same goes for the oil! Please check both of those things and replace whatever you decide is needed.
+MissionDesc3=Hey! I’m RoadMaster1234! That's what they call me on the Internet! I’m a master behind the steering wheel... in games! Now I got a real machine and I’ll show those disbelievers what I can do on a real road! So please do something with these rims because they slow me down! Oh, and I think something is not right with the engine, it’s making a strange banging noise. Take care!
+MissionDesc4=When driving through a city I didn’t notice a speed bump. Please check the front suspension, because I have an impression that something is not right...
+MissionDesc5=I bought this machine from a friend of mine who needed money quickly. He assured me that the car was fine, but I feel it pulling to the right... and this strange smell... like mushrooms? From what I remember, he works behind a desk, not in sales... Anyway, check what's wrong with it and make it usable.
+MissionDesc6=My car doesn’t start anymore. When it used to run it made strange noises. Every morning I would wake up my entire neighborhood. Please make it start and see if you can do something so it's not so darn loud.
+MissionDesc7=I bought this car from a dealer. It wasn’t the cheapest but supposedly it was a good deal! The problem is that it's very difficult to shift through gears... and sometimes something bangs on the left side...and the right side too. Check the general condition of the car and repair whatever you find broken. The dealer ensured me that everything is nearly brand new!
+MissionDesc8=Hello! I bought a brand new Olsen Grand Club! It’s a great car. In the ad it said that the car is great for off-roading but I have an impression that driving a SUV on the sand dunes was not a good idea. Something is scraping and I noticed a leak... Please do something about it. I need the car for an off-road trip with my friends this weekend.
+MissionDesc9=I was on my way back from a party and... I believe I might have hit a rather large pot hole or something. Please assess the damage and make any necessary repairs... this car belongs to my father-in-law...
+MissionDesc10=Good afternoon. I had a small accident on the express way. An 18 wheeler pushed me off the road. I know that the car does not look so great anymore but I cannot afford anything else right now. I just need it to run.
+MissionDesc11=Hello, it's me again... It seems that my last trip was a bit too much for me and my car which has lost a little bit of weight. I was told by the people at the dealership that all this is because I had the wrong tires fitted. Please install correct off-road tires on the car and do whatever is necessary to make it drivable again. I'm planning on driving this car through Siberia two weeks from now.
+MissionDesc12=I became a victim of a failure... The manufacturer claims that it's all my fault that the ABS pump has failed and the brakes locked up. It all went down hill from there... I started sliding and got a few scraches on the car. The important bit is that I am OK. Look the car over and repair anything that's broken. I recon that aside from the brakes I could use a new steering wheel. A new airbag would be a good idea too.
+MissionDesc13=Hello. I was recently away on a two week business trip and I let my husband use my car during that time. Now that I'm back, something has to go! And I mean the husband, not the car. See what he did to it as I don't really have the time to describe it all. I'm on my way to my lawyer to take care of the divorce papers. Just let me know when the car is ready.
+MissionDesc14=Hey man! It's me again and I need your help again. My street racer career is progressing nicely and now that I've made some money from some Internet videos I am ready to tweak my beast a little. You know, when the light goes green and I really step on it I feel that I have to work harder than before. By the way, the car doesn't feel as comfortable as it should. Do something about that interior and see if the engine needs a tune-up or something. See Ya!
+MissionDesc15=Hi, A while back I got a car which just recently stopped working... I have no idea what happened as I don't know much about cars. My ex-wife says that I'm a loser but driving cars is not, as they say, rocket surgery or... was it brain science? Umm... Anyway, see what bits are missing and what needs to be fixed.
+MissionDesc16=Hello, it's me again. My last purchase was not as great as I've hoped for but this time I've found a true gem for my wife. Those internet auctions are a treasure trove of great used cars plus I did everything "couch potato style" - from my couch! I haven't seen the car yet but judging from the pictures I don't believe it needs a lot work. The car is coming straight to your garage. Please check the oil and make any necessary repairs. Thanks!
+MissionDesc17=Yo dude! I need to get rid of my car and I need you to make it pretty. You know, people like shiny things so, make it shine! It's almost brand new so there's not much to do. You can do it!
+MissionDesc18=I've got something unique for you! Together with a friend of mine I have saved a little race car from the junk jard. I want to give it another chance at life and I want to race this car on an actual race track. To do that, this little baby needs to run first and this is where you come in. Do your best and make it really fast! I don't care how it looks I just want it to go like... you know what.
+MissionDesc19=Hello my friend. It's me again, the off-road maniac. I have a feeling that my Grand Club doesn't really seem fit for real off-road adventures or it might just be my bad luck. On top of that a bunch of crazy wild bears decided to chew on my poor car. Some body parts got eaten so please replace them and make any necessary repairs. Thank you.
+MissionDesc20=This vehicle has been passed down from generation to generation. When my father was my age he got it from his father. Unfortunately my dad never got a driver's license and the car just sat in a barn all those years. Now that it was passed on to me I want to restore it to its former glory. Please do whatever you can to make this classic beauty look and drive like a new car again.
+MissionDesc21=Hello. It's time to renew the registration on this car and that means passing inspection. It doesn't have to be perfect, I just need it to pass. Please take a look at it and see what you can do. Thank you.
+MissionDesc22=My car has some serious steering issues. I don't feel safe driving it anymore. Please fix whatever is wrong with it. Thank you.
+MissionDesc23=My Bolthorn Grand Mojave is my workhorse at my vineyard. To be honest, I don't go easy on it. It's been fine but recently it just became uncomfortable. The interior needs some much needed attention too. See what you can do with it. Thank you.
+MissionDesc24=Hello. What can I say... those used car dealers are a special kind. My Crown which I recently got from one those clowns is becoming worst with each passing day. Do a general inspection and replace any worn out parts. Thanks!
+MissionDesc25=This is a limited edition Kieran. At the price that I've paid it was practically a steal. The problem is that it sat in a barn for a while. Check it out to see if it was a great find or just a piece of junk. Either way, please fix it up for me. Money is no issue here.Just make it pretty.
+MissionDesc26=My students are complaining that the clutch is very heavy. Another issue is that we had a little incident recently that ended in a close encounter with a curb at a fairly high rate of speed. After the incident I've noticed something dripping from under the car. I'd like you to go over the car and fix whatever you find so my young drivers are not afraid of getting behind the wheel of this car.
+MissionDesc27=Hi, it's me again and this time with a new set of wheels. My Bianco has unfortunately lost a battle with the Internet haters and... well, that's history. I got a new car now, I mean it's new to me. There's a "little bit" of a rust issue but I'm sure it's going to be no problem for you. By the way, have a look under the hood and make sure everything is in order. See ya!
+MissionDesc28=I just got back from a long trip. There were no issues along the way but I'd like you to check the overall condition of my car. Thank you.
+MissionDesc29=Hello! I need your help as I'm in a hurry. I've heard that you're the man to go to. I was on my way to work and I've heard something that sounded like something had snapped. Moments later the car just died and I noticed that it left a puddle of some sort of liquid on the road. Please see what's wrong with my baby and repair whatever you find. I'm already late for work!
+MissionDesc30=I just bought this pile of junk. The seller said that "a few bits might be missing"... it seems that he had an interesting sense of humor. The price was right so I got it anyway. See what parts are missing and do whatever that needs to be done. Thanks.
+MissionDesc31=Hello. A friend of mine has recommended you as being the expert to go to. Anyway, I bought this car at an auction. I guess it was used as a parts donor but I've decided to fix her up. See what parts are missing and put her back together. Thank you.
+MissionDesc32=Hello. My SUV is great on road but I feel that I shouldn't abuse it off-road. So, I've saved up a bit and I've got something special from a friend of mine. That thing should be well suited for some crazy off-roading. I hope I can really push it just like the previous owner did. See what needs to be fixed and change that awful interior. It doesn't go with my style.
+MissionDesc33=Hey. I'm a car mechanic just like you! At least I'm trying to be. My wife thinks that I don't know what I'm doing and since I don't want to give her the satisfaction she has no idea that I'm here. See how I did fixing my car and if you find anything wrong, make it right. And if my wife ever asks... I was never here! Thanks man!
+MissionDesc34=Hi. I got this old race car so I can go crazy on the race track. For safety reasons the car must be in perfect condition. I believe that you know exactly what needs to be done.
+MissionDesc35=Hello, it's me again. My wife has lost control of the car while driving on a wet road. Fortunately she didn't hit anything. It makes me wonder if there is something wrong with the steering as I can feel the car pulling to one side and sometimes I can hear some strange noises coming from the front wheels. See if you can fix it as I just don't want to deal with those used car dealers anymore. I can't afford a new car just yet.
+MissionDesc36=Sup Boss! I brought you another piece of junk...err, I mean, another gem that I'm putting out for sale. It seems that the previous owner didn't go easy on it. Remember, it has to shine! Oh, it would be nice if it run too. Let me know when you're done.
+MissionDesc37=Hello. I came here because I've heard that when it comes to cars you really know your business. Here's my daughter's car which she got as a gift from her grandparents. She takes good care of it... at least when it comes to how it looks. Technical stuff, on the other hand, is not really her strong side. Just recently she needed to add some engine oil and she managed to pour in the wrong kind of oil. You know what that means. Do a thorough inspection of the car and repair whatever you find wrong with it.
+MissionDesc38=Heeey! I got some cold hard cash from my sponsors and that means I can finally make some much needed changes and repairs. Repaint my car! I've always heard that red cars are always faster. Next, check the wheels and tires and see if anything else might need any attention. I'm noticing some griding when I shift between gears and when I accelerate. Just fix whatever you find wrong with it. See ya!
+MissionDesc39=Hello. I've found this car slowly sinking into the ground in my grandfather's back yard. I was told that it used belong to my aunt but she doesn't want it anymore and that I can have it. I thought "great", but in this condition there's not much I can do with it. I've heard great things about you and thought that you might be able to revive it. See if you can bring this classic car back to its former glory.
+MissionDesc40=Good morning! I was told that you are an honest mechanic and a trustworthy person. So, I present to you my baby - DC Typhoon. It used to reach speeds of an F5 tornado on a track... but that was a long time ago. I want you to make this car look and drive like new again. I'm counting on you!
+MissionDesc41=Hi. My new purchase has paid off. This Castor is much better for off-roading than my SUV. Unfortunately my bad luck is still with me... and I've had a little mishap in the forrest. It's a long story, you know me and you know of my great ideas that I sometimes get. I hope you won't give up on me when you see the car. Do whatever you can and fix it up please.
+MissionDesc42=Hello. It's been a while since my last visit but that only speaks about the quality of your work. My car as well as my wife's car finally run as they should from day one. They are just perfect. So, today I'm bringing you my daughter's car which she just purchased. Even to my untrained eye this thing is just hopeless... I always thought that she is at least as sensible as her dad but... I'll let you be the judge.
+MissionDesc43=How's it going? I've bought this car at an auction. The general condition of the car is great and the only problem is the engine. I thought that I'd be able to take care of it myself, but it didn't work out so great... I took it apart and... I have apparently lost a few things and a few of them just broke. Please take a look under the hood, see what's missing and do whatever you can to make the car run again.
+MissionDesc44=Hi. I've bought this piece of junk for almost nothing from an old man who needed the money. I don't know whether it is worth anything. Do a general overhaul and I'll decide what to do with it later.
+MissionDesc45=What's up? I already have 5 million subscribers and a lot of sponsors! It's time to treat myself to a new set of wheels! I knew exactly where I should go first with my new purchase! Here is my almost new Elenti Calliope! This small beast is just perfect for me! Even though it doesn't look or sound the best... and it doesn't run as it should, I'm sure you can handle it! Thanks in advance! See you later!
+MissionDesc46=Hey. I had to upgrade to a larger car in a hurry as my family has gotten bigger and our small coupe was just not fit for all of us including the newborn. I've decided on a particular model a while ago and now that I got it I have to say that it's not really the best example of "resonable". Still, I like it, so please fix it up and make it comfortable for me and my family. Thanks!
+MissionDesc47=Hello. I work at an automotive museum and I'd like ask you to restore this beautiful historical car. If you do well, I think we'll be able to establish a long term business relation with you. We have many classics in desperate need of attention. Money is of no issue. Good luck.
+MissionDesc48=Hello. I've heard that you are about to go on vacation. Well, before you go, hear this - I got lucky and I've won the lottery! I have already sold my old Castor and decided to get a Rex this time. Unfortunately I didn't think straight in my excitement and instead of buying a brand new one I got this one because I fell in love with this color. Smart, wasn't it? Anyway, could you please refresh it a little? Just do a sort of "overhaul" and see what's wrong with it. I'm pretty certain not everything is working as it should. See you later!
+MissionDesc49=Hello. I've just bought a car of my dreams at an auction. I do realize that it's not in top condition but I believe that a mechanic of such reputation will be able to indentify and repair all issues.
+MissionDesc50=Hello, hello! It's your favourite dealer - Mike! This is the last pile of junk I'm bringing to you this season, I promise. I understand that this isn't the best thing to happen to you right before your vacation but please do your best. I'm going to keep this car for myself so, you know... everything has to be shiny and new! I believe in you! Oh, one more thing - don't get scared when you look under the hood!
+
+//------------------------------------------------------------------------ End Story Missions
+//------------------------------------------------------------------------ Tutorial
+TutorialDesc1=Welcome to The Car Mechanic Simulator 2018! See the new, fully unlocked garage and check out the operation of various parts of the workshop. You can finish the tutorial by taking the car for a test drive at any time. Good luck!
+TutorialDesc2=Press the right mouse button and select ORDER from the pie menu. Then select the order that you are interested in and accept it. After you accept the selected order, the car will automatically appear on your driveway. When you approach the car you can again use the pie menu to view the CAR CARD.
+TutorialDesc3=The computer allows you to purchase new parts.
+TutorialDesc4=Unlock using skill points that you obtain along with gaining further levels of experience.
+TutorialDesc5=Used to check the performance of the car. Tests the car’s steering, suspension and braking.
+TutorialDesc6=Used to lift cars. Gives you access to the chassis and bottom section of the engine that is inaccessible on a car standing on the ground.
+TutorialDesc7=Gives you a chance to repair worn out parts.
+TutorialDesc8=Allows for storing of parts which you don’t currently need. You can expand the warehouse area as your inventory grows.
+TutorialDesc9=Allows you to perform various paint jobs.
+TutorialDesc10=Allows you to repair and touch up various components of the car's interior.
+TutorialDesc11=Used to compress suspension coil springs
+TutorialDesc12=Allows you to perform repairs on bodywork components which cannot be removed from the car.
+TutorialDesc13=Here you can make improvements that you obtain along with reaching higher levels.
+TutorialDesc14=Used to remove an entire engine from a vehicle.
+TutorialDesc15=Used for mounting a tire on a rim and balancing the assembled wheel.
+TutorialDesc16=Use the map to choose where to go. Select the test track to test drive a car.
+TutorialDesc17=Allows you to test the car's brakes and suspension.
+TutorialDesc18=Allows for a safe disposal of used motor oil. Failure to use it might result in additional charges for cleaning oil spills.
+TutorialDesc19=Allows you to mount the engine and gives you an easy access to it.
+
+TutorialTitle1=Greeting
+TutorialTitle2=Order
+TutorialTitle3=Computer
+TutorialTitle4=Testing Tools
+TutorialTitle5=Test Track
+TutorialTitle6=Car Lift
+TutorialTitle7=Repair Bench
+TutorialTitle8=Parts Warehouse
+TutorialTitle9=Paint Shop
+TutorialTitle10=Interior Detailing Toolkit
+TutorialTitle11=Spring Compressor
+TutorialTitle12=Welder
+TutorialTitle13=Toolbox
+TutorialTitle14=Engine Crane
+TutorialTitle15=Tire Changer / Wheel Balancer
+TutorialTitle16=Main Gate / Map
+TutorialTitle17=Test Path
+TutorialTitle18=Oil Drain
+TutorialTitle19=Engine Stand
+=
+//--------------- Upgrades=
+=
+UPGname_fast_examine=Eagle eye
+UPGdesc_fast_examine.1=50% faster part examination
+UPGdesc_fast_examine.2=100% faster part examination
+UPGdesc_fast_examine.3=150% faster part examination
+=
+UPGname_fast_partremove=Strong arms
+UPGdesc_fast_partremove.1=50% faster part instaling and removing
+UPGdesc_fast_partremove.2=100% faster part instaling and removing
+UPGdesc_fast_partremove.3=150% faster part instaling and removing
+=
+UPGname_fast_mount=Nimble hands
+UPGdesc_fast_mount.1=50% faster screwing and unscrewing
+UPGdesc_fast_mount.2=100% faster screwing and unscrewing
+UPGdesc_fast_mount.3=150% faster screwing and unscrewing
+=
+UPGname_fast_movement=Like a wind
+UPGdesc_fast_movement.1=10% faster walking
+UPGdesc_fast_movement.2=25% faster walking
+UPGdesc_fast_movement.3=50% faster walking
+=
+UPGname_shop_discount=Loved one
+UPGdesc_shop_discount.1=5% discount in shops
+UPGdesc_shop_discount.2=10% discount in shops
+UPGdesc_shop_discount.3=15% discount in shops
+=
+UPGname_fix=Recycling
+UPGdesc_fix.1=Odds of successful repair raised to 55%.
+UPGdesc_fix.2=Odds of successful repair raised to 65%.
+UPGdesc_fix.3=Odds of successful repair raised to 75%.
+UPGdesc_fix.4=Odds of successful repair raised to 85%.
+UPGdesc_fix.5=Odds of successful repair raised to 95%.
+UPGdesc_fix.6=You can repair body parts
+=
+UPGname_instant_examine=Educated
+UPGdesc_instant_examine.1=Instantly examine 3 parts when seeing a car for the first time (order, barn, junkyard, auction)
+UPGdesc_instant_examine.2=Instantly examine 9 parts when seeing a car for the first time (order, barn, junkyard, auction)
+UPGdesc_instant_examine.3=Instantly examine 20 parts when seeing a car for the first time (order, barn, junkyard, auction)
+=
+UPGname_unlock_tablet=Tablet
+UPGdesc_unlock_tablet.1=Unlocks the tablet. Allows you to shop for parts anywhere in your garage. You can use it from the pie menu or by pressing T.
+=
+UPGname_unlock_tires=Tire Tread Tester
+UPGdesc_unlock_tires.1=Unlocks the tire tread tester. With this tool you can check the condition of the tires. You can use it from the pie menu while in Part Overview.
+=
+UPGname_unlock_obd=OBD Scanner
+UPGdesc_unlock_obd.1=Unlocks the OBD scanner. It will examine a lot of different components connected to the car’s computer. Does not work with older cars! You can use it from the pie menu while in Part Overview.
+=
+UPGname_unlock_cylinder=Compression Tester
+UPGdesc_unlock_cylinder.1=Unlocks the compression tester. This test will give you information about the general condition of the engine. Parts like the cylinder head, engine block and pistons will be examined. You can use it from the pie menu while in Part Overview.
+=
+UPGname_unlock_electronic=Electronic Multimeter
+UPGdesc_unlock_electronic.1=Unlocks the electronic multimeter. A simple but useful tool that allows you to check all electronic connections and resistances. You can use it from the pie menu while in Part Overview.
+=
+UPGname_unlock_fuel=Fuel Pressure Test
+UPGdesc_unlock_fuel.1=Unlocks the fuel pressure test. Learn all about a car’s fuel related parts. You can use it from the pie menu while in Part Overview.
+=
+UPGname_bigger_income=Know your value
+UPGdesc_bigger_income.1=5% more income for finished orders
+=
+UPGname_rhetoric=Talkative
+UPGdesc_rhetoric.1=Allows you to bargain in barns (cars)
+=
+UPGname_expected_price=Experienced Auctioneer
+UPGdesc_expected_price.1=Shows you the average value of a car (auction)
+=
+UPGname_cheaper_parking=Spacious Backyard
+UPGdesc_cheaper_parking.1=50% off parking levels
+=
+UPGname_cheaper_tow=My friend...
+UPGdesc_cheaper_tow.1=50% off trips to junkyards and barns
+=
+UPGname_luck=Lucky one
+UPGdesc_luck.1=Good to be lucky.
+=
+UPGname_garage_upgrade=I need more room
+UPGdesc_garage_upgrade.1=Expands your garage. Adds a test path and a repair bench to your garage.
+UPGdesc_garage_upgrade.2=Expands your garage. Adds another car lift, warehouse and another parking spot to your garage.
+UPGdesc_garage_upgrade.3=Expands your garage. Adds paint shop, dyno and another lift to your garage.
+
+//------------------ Parts
+
+!i3_blok = Engine Block (I3)
+!i3_filtr_dol = Air Filter Base (I3)
+!i3_filtr_srodek = Air Filter (I3)
+!i3_gearbox = Gearbox (I3)
+!i3_glowica = Engine Head (I3)
+!i3_glowica_2 = Engine Head B (I3)
+!i3_glowica_wkladka = Camshaft Cap (I3)
+!i3_kolektor_dolotowy = Intake Manifold (I3)
+!i3_kolektor_wydechowy = Exhaust Manifold (I3)
+!i3_listwa_wtryskowa = Fuel Rail (I3)
+!i3_miska_olejowa = Oil Pan (I3)
+!i3_oslona_rozrzadu = Timing Cover (I3)
+!i3_pasek1 = Serpentine Belt A (I3)
+!i3_pasek2 = Serpentine Belt B (I3)
+!i3_pokrywa_glowicy = Engine Head Cover (I3)
+!i3_przepustnica = Throttle (I3)
+!i3_rolkaWalka = Cam Gear (I3)
+!i3_termostat = Thermostat (I3)
+!i3_turbo = Turbo (I3)
+!i3_walek_rozrzadu = Camshaft (I3)
+!i3_walKorbowy = Crankshaft (I3)
+
+!i4_blok = Engine Block (I4 B)
+!i4_filtr_dol = Air Filter Base (I4 B)
+!i4_filtr_gora = Air Filter Cover (I4 B)
+!i4_filtr_srodek = Air Filter (I4 B)
+!i4_glowica = Engine Head (I4 B)
+!i4_glowica_wkladka = Camshaft Cap (I4 B)
+!i4_kolektor_dolotowy = Intake Manifold (I4 B)
+!i4_kolektor_wydechowy = Exhaust Manifold (I4 B)
+!i4_lancuch = Timing Chain (I4 B)
+!i4_miska_olejowa = Oil Pan (I4 B)
+!i4_oslona_rozrzadu = Timing Cover A (I4 B)
+!i4_oslona_rozrzadu_tyl = Timing Cover B (I4 B)
+!i4_pasek_1 = Serpentine Belt A (I4 B)
+!i4_pasek_2 = Serpentine Belt B (I4 B)
+!i4_pokrywa_glowicy = Engine Head Cover (I4 B)
+!i4_pompa_wody =  Water Pump (I4 B)
+!i4_pompa_wspomagania = Power Steering Pump (I4 B)
+!i4_rolkaWalka_1 = Cam Gear A (I4 B)
+!i4_rolkaWalka_2 = Cam Gear B (I4 B)
+!i4_turbo = Turbo (I4 B)
+!i4_walek_rozrzadu = Camshaft (I4 B)
+!i4_walKorbowy = Crankshaft (I4 B)
+!i4_wtrysk = Fuel Rail (I4 B)
+
+!i6_old_alternator = Alternator (I6 B)
+!i6_old_blok = Engine Block (I6 B)
+!i6_old_filtr_dol = Air Filter Base (I6 B)
+!i6_old_filtr_gora = Air Filter Cover (I6 B)
+!i6_old_filtr_srodek = Air Filter (I6 B)
+!i6_old_gearbox = Gearbox (I6 B)
+!i6_old_glowica = Engine Head (I6 B)
+!i6_old_kable = Ignition Wires (I6 B)
+!i6_old_kolektor_dolotowy = Intake Manifold (I6 B)
+!i6_old_kolektor_wydechowy = Exhaust Manifold (I6 B)
+!i6_old_lancuch = Timing Chain (I6 B)
+!i6_old_miska_olejowa = Oil Pan (I6 B)
+!i6_old_oslona_rozrzadu = Timing Cover (I6 B)
+!i6_old_pasek1 = Serpentine Belt A (I6 B)
+!i6_old_pasek_2 = Serpentine Belt B (I6 B)
+!i6_old_pokrywa_glowicy = Engine Head Cover (I6 B)
+!i6_old_pompaWody = Water Pump (I6 B)
+!i6_old_pompaWspomagania = Power Steering Pump (I6 B)
+!i6_old_popychacz = Valve Push Rod (I6 B)
+!i6_old_przepustnica = Carburetor (I6 B)
+!i6_old_raczka1 = Arm A (I6 B)
+!i6_old_raczka2 = Arm B (I6 B)
+!i6_old_rolkaWalka = Cam Gear (I6 B)
+!i6_old_termostat = Fuel Pump (I6 B)
+!i6_old_walek = Camshaft (I6 B)
+!i6_old_walKorbowy = Crankshaft (I6 B)
+
+!rot_new_blok_przod = Front Side Housing (ROT A)
+!rot_new_blok_srodek_1 = Rotor Housing (ROT A)
+!rot_new_blok_srodek_2 = Intermediate Housing (ROT A)
+!rot_new_blok_tyl = Rear Side Housing Block (ROT A)
+!rot_new_cewki = Ignition Coil (ROT A)
+!rot_new_element_nakladka = Sprocket (ROT A)
+!rot_new_filtr_dol = Air Filter Base (ROT A)
+!rot_new_filtr_gora = Air Filter Cover (ROT A)
+!rot_new_filtr_srodek = Air Filter (ROT A)
+!rot_new_gearbox = Gearbox (ROT A)
+!rot_new_kable = Ignition Wires (ROT A)
+!rot_new_kolektor_dolotowy_dolny = Intake Manifold B (ROT A)
+!rot_new_kolektor_dolotowy_gorny = Intake Manifold A (ROT A)
+!rot_new_kolektor_wydechowy = Exhaust Manifold (ROT A)
+!rot_new_lancuch = Timing Chain (ROT A)
+!rot_new_listwa_wtryskowa = Fuel Rail (ROT A)
+!rot_new_miska_olejowa = Oil Pan (ROT A)
+!rot_new_oslona_rozrzadu = Timing Cover (ROT A)
+!rot_new_pasek_1 = Serpentine Belt A (ROT A)
+!rot_new_pasek_2 = Serpentine Belt B (ROT A)
+!rot_new_pompa_wody = Water Pump (ROT A)
+!rot_new_przepustnica = Throttle (ROT A)
+!rot_new_raczka_1 = Arm A (ROT A)
+!rot_new_raczka_2 = Arm B (ROT A)
+!rot_new_tlok = Rotor (ROT A)
+!rot_new_wahadlo = Crankshaft Counterweight (ROT A)
+!rot_new_walKorbowy = Crankshaft (ROT A)
+
+!rot_old_filtr_dol = Air Filter Base (ROT B)
+!rot_old_filtr_gora = Air Filter Cover (ROT B)
+!rot_old_filtr_srodek = Air Filter (ROT B)
+!rot_old_kable = Ignition Wires (ROT B)
+!rot_old_kolektor_dolotowy = Intake Manifold (ROT B)
+!rot_old_kopulkaRozdzielacza = Ignition Distributor Cap (ROT B)
+!rot_old_oslona_rozrzadu = Timing Cover (ROT B)
+!rot_old_pasek_1 = Serpentine Belt (ROT B)
+!rot_old_raczka = Arm (ROT B)
+!rot_old_wentylator = Radiator Fan (ROT B)
+
+!v6_30_blok = Engine Block (V6 B)
+!v6_30_filtr_dol = Air Filter Base (V6 B)
+!v6_30_filtr_gora = Air Filter Cover (V6 B)
+!v6_30_filtr_srodek = Air Filter (V6 B)
+!v6_30_gearbox = Gearbox (V6 B)
+!v6_30_glowica_1 = Engine Head A (V6 B)
+!v6_30_glowica_2 = Engine Head B (V6 B)
+!v6_30_glowica_raczka = Camshaft Bearing (V6 B)
+!v6_30_kolektor_dolotowy = Intake Manifold A (V6 B)
+!v6_30_kolektor_dolotowy_dolny = Intake Manifold B (V6 B)
+!v6_30_kolektor_wydechowy = Exhaust Manifold (V6 B)
+!v6_30_listwa_wtryskowa = Fuel Rail (V6 B)
+!v6_30_miska_olejowa = Oil Pan (V6 B)
+!v6_30_oslona_rozrzadu_1 = Timing Cover A (V6 B)
+!v6_30_oslona_rozrzadu_2 = Timing Cover B (V6 B)
+!v6_30_oslona_rozrzadu_3 = Timing Cover C (V6 B)
+!v6_30_pasek_1 = Serpentine Belt A (V6 B)
+!v6_30_pasek_2 = Serpentine Belt B (V6 B)
+!v6_30_pokrywa_glowicy_1 = Engine Head Cover A (V6 B)
+!v6_30_pokrywa_glowicy_2 = Engine Head Cover B (V6 B)
+!v6_30_pokrywa_glowicy_3 = Engine Head Cover C (V6 B)
+!v6_30_pompaWspomagania = Power Steering Pump (V6 B)
+!v6_30_pompa_wody = Water Pump (V6 B)
+!v6_30_przepustnica = Throttle (V6 B)
+!v6_30_raczka_1 = Arm (V6 B)
+!v6_30_rolkaWalka = Cam Gear (V6 B)
+!v6_30_termostat = Thermostat (V6 B)
+!v6_30_walek_rozrzadu = Camshaft (V6 B)
+!v6_30_walKorbowy = Crankshaft (V6 B)
+
+!v8_409_blok = Engine Block (V8 OHV B)
+!v8_409_filtr_gora = Air Filter Cover (V8 OHV B)
+!v8_409_glowica_1 = Engine Head (V8 OHV B)
+!v8_409_glowica_2 = Engine Head (V8 OHV B)
+!v8_409_kable = Ignition Wires (V8 OHV B)
+!v8_409_kolektor_dolotowy = Intake Manifold (V8 OHV B)
+!v8_409_kolektor_wydechowy = Exhaust Manifold (V8 OHV B)
+!v8_409_miska_olejowa = Oil Pan (V8 OHV B)
+!v8_409_oslona_rozrzadu = Timing Cover (V8 OHV B)
+!v8_409_pasek_1 = Serpentine Belt A (V8 OHV B)
+!v8_409_pasek_2 = Serpentine Belt B (V8 OHV B)
+!v8_409_pokrywa_glowicy = Engine Head Cover (V8 OHV B)
+!v8_409_pompa_wody = Water Pump (V8 OHV B)
+!v8_409_raczka_1 = Arm (V8 OHV B)
+!v8_409_tlok = Piston with Conrod (V8 OHV B)
+!v8_409_walek_popychaczy = Camshaft (V8 OHV B)
+!v8_409_walKorbowy = Crankshaft (V8 OHV B)
+!v8_409_tlok_pierscienie_1 = Piston Rings (V8 OHV B)
+
+!v8_hemi_blok = Engine Block (V8 OHV C)
+!v8_hemi_dzwignia_zaworu = Rocker Arms (V8 OHV C)
+!v8_hemi_filtr_dol = Air Filter Base (V8 OHV C)
+!v8_hemi_filtr_gora = Air Filter Cover (V8 OHV C)
+!v8_hemi_filtr_srodek = Air Filter (V8 OHV C)
+!v8_hemi_gaznik_1 = Carburetor A (V8 OHV C)
+!v8_hemi_gaznik_2 = Carburetor B (V8 OHV C)
+!v8_hemi_glowica_1 = Engine Head (V8 OHV C)
+!v8_hemi_glowica_2 = Engine Head (V8 OHV C)
+!v8_hemi_kable = Ignition Wires (V8 OHV C)
+!v8_hemi_kolektor_dolotowy = Intake Manifold (V8 OHV C)
+!v8_hemi_kolektor_wydechowy = Exhaust Manifold (V8 OHV C)
+!v8_hemi_miska_olejowa = Oil Pan (V8 OHV C)
+!v8_hemi_oslona_rozrzadu = Timing Cover (V8 OHV C)
+!v8_hemi_pasek_1 = Serpentine Belt A (V8 OHV C)
+!v8_hemi_pasek_2 = Serpentine Belt B (V8 OHV C)
+!v8_hemi_pokrywa_glowicy_1 = Engine Head Cover A (V8 OHV C)
+!v8_hemi_pokrywa_glowicy_2 = Engine Head Cover B (V8 OHV C)
+!v8_hemi_pompa_wody = Water Pump (V8 OHV C)
+!v8_hemi_raczka_1 = Arm A (V8 OHV C)
+!v8_hemi_raczka_2 = Arm B (V8 OHV C)
+!v8_hemi_tlok = Piston with Conrod (V8 OHV C)
+!v8_hemi_walek_popychaczy = Camshaft (V8 OHV C)
+!v8_hemi_walKorbowy = Crankshaft (V8 OHV C)
+!v8_hemi_tlok_pierscienie_1 = Piston Rings (V8 OHV C)
+
+!v8_magnum_dzwignia_zaworu = Rocker Arms (V8 OHV D)
+!v8_magnum_filtr_gora = Air Filter Cover (V8 OHV D)
+!v8_magnum_glowica_1 = Engine Head (V8 OHV D)
+!v8_magnum_glowica_2 = Engine Head (V8 OHV D)
+!v8_magnum_kable = Ignition Wires (V8 OHV D)
+!v8_magnum_kolektor_dolotowy = Intake Manifold (V8 OHV D)
+!v8_magnum_kolektor_wydechowy = Exhaust Manifold (V8 OHV D)
+!v8_magnum_pokrywa_glowicy_1 = Engine Head Cover A (V8 OHV D)
+!v8_magnum_pokrywa_glowicy_2 = Engine Head Cover B (V8 OHV D)
+
+!v8_sixpack_filtr_dol = Air Filter Base (V8 OHV E)
+!v8_sixpack_filtr_gora = Air Filter Cover (V8 OHV E)
+!v8_sixpack_filtr_srodek = Air Filter (V8 OHV E)
+!v8_sixpack_gaznik = Carburetor A (V8 OHV E)
+!v8_sixpack_gaznik_1 = Carburetor B (V8 OHV E)
+!v8_sixpack_gaznik_2 = Carburetor C (V8 OHV E)
+!v8_sixpack_kolektor_dolotowy = Intake Manifold (V8 OHV E)
+
+!v8_zz_blok = Engine Block (V8 OHV F)
+!v8_zz_filtr_dol = Air Filter Base (V8 OHV F)
+!v8_zz_filtr_gora = Air Filter Cover (V8 OHV F)
+!v8_zz_filtr_srodek = Air Filter (V8 OHV F)
+!v8_zz_gaznik = Carburetor (V8 OHV F)
+!v8_zz_gearbox = Gearbox (V8 OHV F)
+!v8_zz_glowica = Engine Head (V8 OHV F)
+!v8_zz_kable = Ignition Wires (V8 OHV F)
+!v8_zz_kolektor_dolotowy = Intake Manifold (V8 OHV F)
+!v8_zz_kolektor_wydechowy = Exhaust Manifold (V8 OHV F)
+!v8_zz_lancuch = Timing Chain (V8 OHV F)
+!v8_zz_miska_olejowa = Oil Pan (V8 OHV F)
+!v8_zz_oslona_rozrzadu = Timing Cover (V8 OHV F)
+!v8_zz_pasek_1 = Serpentine Belt (V8 OHV F)
+!v8_zz_pokrywa_glowicy_1 = Engine Head Cover A (V8 OHV F)
+!v8_zz_pokrywa_glowicy_2 = Engine Head Cover B (V8 OHV F)
+!v8_zz_pompa_wody = Water Pump (V8 OHV F)
+!v8_zz_pompa_wspomagania = Power Steering Pump (V8 OHV F)
+!v8_zz_popychacz = Valve Push Rod (V8 OHV F)
+!v8_zz_przepustnica = Throttle (V8 OHV F)
+!v8_zz_raczka_1 = Arm A (V8 OHV F)
+!v8_zz_raczka_2 = Arm B (V8 OHV F)
+!v8_zz_walek_popychaczy = Camshaft (V8 OHV F)
+!v8_zz_walKorbowy = Crankshaft (V8 OHV F)
+
+!w_i3_poczatkowy_2 = Front Exhaust Section A (I3)
+!w_i3_poczatkowy = Front Exhaust Section B (I3)
+!w_i4_4x4_poczatkowy = Front Exhaust Section A (I4 B)
+!w_i4_poczatkowy = Front Exhaust Section  B (I4 B)
+!w_i6_old_poczatkowy = Front Exhaust Section (I6 B)
+!w_v6_30_koncowy = Rear Muffler (V6 B)
+!w_v6_30_poczatkowy_1 = Front Exhaust Section A (V6 B)
+!w_v6_30_poczatkowy_2 = Front Exhaust Section B (V6 B)
+!w_v8_409_poczatkowy = Front Exhaust Section (V8 OHV B)
+!w_v8_magnum_poczatkowy = Front Exhaust Section (V8 OHV D)
+!w_v8_zz_poczatkowy = Front Exhaust Section (V8 OHV F)
+!w_tlumik_koncowy_2 = Rear Muffler B
+!w_tlumik_koncowy_3 = Rear Muffler C
+!w_tlumik_koncowy_4 = Rear Muffler D
+!w_koncowy_challenger = Rear Muffler E
+!w_v6_30_koncowy = Rear Muffler F
+!w_v6_30_poczatkowy_1 = Front Exhaust Section A (V6 B)
+!w_v6_30_poczatkowy_2 = Front Exhaust Section B (V6 B)
+
+//--------------- Rebind
+GUI_Rebind_PressToAssign = Press key to assign ...
+GUI_Rebind_CannotAssign = Cannot assign this key
+GUI_Rebind_None = None
+GUI_Rebind_W = Move Forward / Car Throttle / Orbit Camera
+GUI_Rebind_S = Move Backward / Car Brake / Orbit Camera
+GUI_Rebind_A = Strafe Left / Car Turn Left / Orbit Camera
+GUI_Rebind_D = Strafe Right / Car Turn Right / Orbit Camera
+GUI_Rebind_LMC = Action
+GUI_Rebind_RMC = Quick Menu
+GUI_Rebind_ESC = Return / Exit
+GUI_Rebind_C = Crouch / Car Change Camera
+GUI_Rebind_Q = Orbit Camera Zoom In
+GUI_Rebind_E = Orbit Camera Zoom Out
+GUI_Rebind_T = Quick Tablet
+GUI_Rebind_I = Quick Inventory
+GUI_Rebind_U = Quick Car Info
+GUI_Rebind_O = Quick Orders View
+GUI_Rebind_ENTER = Accept
+GUI_Rebind_SHIFT = Special Option
+GUI_Rebind_SPACE = Car Handbrake
+
+//----------- Added=
+GUI_TutorialFinishAsk=Finish tutorial and start game?
+TutorialTitle20=Battery Charger
+TutorialDesc20=Used to charge batteries
+!i3_filtr_oleju=Oil Filter (I3)
+!seat_challenger=^SeatName Challenger
+pie_equipment_mount=INSTALL
+pie_equipment_mount_bonus=Install Engine into the car
+pie_equipment_unmount=PULL OUT
+pie_equipment_unmount_bonus=Pull Engine out of the car
+!rot_filtr_oleju=Oil Filter (ROT)
+#IntercoolerS=Small Intercooler
+#IntercoolerM=Medium Intercooler
+#IntercoolerL=Large Intercooler
+!intercooler_small_1=Small Intercooler
+!intercooler_medium_1=Medium Intercooler
+!intercooler_big_1=Large Intercooler
+#AirIntake_RotNew=^#airintake
+!polosNapedowa_5=Front Drive Axle D
+!w_rot_old_poczatkowy = Front Exhaust Section (ROT B)
+!w_rot_new_poczatkowy = Front Exhaust Section (ROT A)
+mode_InteriorDisassemble = Interior Disassembly Mode
+mode_InteriorAssemble = Interior Assembly Mode
+PopUp_TakenGroup = Group taken
+GUI_EngineOilCrain = Drain the oil from the engine before using the engine crane.
+GUI_CollectedItems = Collected items
+GUI_FoundItems = Found items
+!v6_30_gearbox_2 = Gearbox B(V6 B)
+GUI_NoDLC = You do not have the required DLC for|{0}
+GUI_CarFileCorrupted = Data files for this car has been corrupted. This car has to be deleted so you can keep your remaining game progress.
+GUI_SellAll = Sell All
+!bench_challenger=^BenchName Challenger
+!steering_wheel_charger=^SteeringWheelName Charger
+GUI_AccelerateToStart = Accelerate to start
+MM_MouseAcceleration = Mouse Acceleration
+MM_MouseInvert = Invert Mouse
+MM_MouseSensitivity = Mouse Sensitivity
+GUI_LapNo = Lap
+GUI_Checkpoint = Checkpoint
+GUI_LastLap = Last Lap
+GUI_NoOilPan=No oil pan. Cannot do this
+GUI_AskSellJunk=Are you sure you want to sell junk parts?
+GUI_AskSellAll=Are you sure you want to sell all parts?
+
+GUI_Parking_Window = Parking
+GUI_Parking_GoTo = Go to parking
+GUI_Parking_Buy = Buy parking
+GUI_Parking_Name = Parking : Level {0}
+GUI_Parking_StoredCars = Stored cars
+
+M_OpcjeOther9 = Zoom in when unmounting/mounting
+GUI_Map_FunTrack = Abandoned Airport
+GUI_PotwierdzenieAkcjiKoszt = This will cost you {0}. Are you sure?
+#enginestand=Engine Stand
+GUI_TextFrameCondition = Frame condition
+GUI_TextInteriorCondition = Interior condition
+GUI_CaseOpenConfirm=Do you want to open the case?
+GUI_MapReadConfirm=Do you want to add Barn destination into your map?
+GUI_BarnFull=Your map is full of barns. First off visit some of them.
+
+M_OpcjeGrafiki9=Bloom
+M_OpcjeGrafiki10=Screen Space Reflections
+M_OpcjeGrafiki12=Shadow Distance
+
+MM_Rebind = Controls Rebind
+
+MM_stat_bolts=Bolts unmounted
+MM_stat_balancedwheels=Balanced wheels
+MM_stat_carfix=Fixed cars
+MM_stat_ordercanceled=Discarded orders
+MM_stat_bodyfix=Fixed body parts
+MM_stat_partfix=Fixed car parts
+MM_stat_paintcar=Painted Cars
+MM_stat_testride=Test Drives done
+MM_stat_examine=Examined parts
+MM_stat_salon=Car bought in salon
+MM_stat_dealer=Sold cars
+MM_stat_songs=Listened songs
+MM_stat_classic=Fixed old cars
+
+!engine_v6_30_rwd = V6 DOHC
+!engine_i4_l134 = I4
+!engine_v8_392hemi = V8 HEMI
+!engine_v6_pentastar = V6 DOHC
+
+!w_v6_30_poczatkowy_h1 = Front Exhaust Section C (V6 B)
+
+!i4_l134_blok=Engine Block (I4 C)
+!i4_l134_filtr_gora=Air Filter Cover (I4 C)
+!i4_l134_filtr_srodek=Air Filter (I4 C)
+!i4_l134_glowica=Engine Head (I4 C)
+!i4_l134_kable=Ignition Wires (I4 C)
+!i4_l134_kolektor_dolotowy=Intake Manifold (I4 C)
+!i4_l134_kolektor_wydechowy=Exhaust Manifold (I4 C)
+!i4_l134_kopulkaRozdzielacza_1=Ignition Distributor Cap (I4 C)
+!i4_l134_miska_olejowa=Oil Pan (I4 C)
+!i4_l134_obudowa_filtra_dol=Air Filter Base (I4 C)
+!i4_l134_obudowa_filtra_gora=Air Filter Cover B (I4 C)
+!i4_l134_pompaWody=Water Pump (I4 C)
+!i4_l134_walek=Camshaft (I4 C)
+!i4_l134_walKorbowy_1=Crankshaft (I4 C)
+
+!v6_pentastar_blok=Engine Block (V6 C)
+!v6_pentastar_cewka=Ignition Coil (V6 C)
+!v6_pentastar_glowica_1=Engine Head A (V6 C)
+!v6_pentastar_glowica_2=Engine Head B (V6 C)
+!v6_pentastar_glowica_wkladka=Camshaft Cap (V6 C)
+!v6_pentastar_kolektor_dolotowy=Intake Manifold A (V6 C)
+!v6_pentastar_kolektor_dolotowy_dolny=Intake Manifold B (V6 C)
+!v6_pentastar_kolektor_wydechowy=Exhaust Manifold (V6 C)
+!v6_pentastar_lancuch_1=Timing Chain A (V6 C)
+!v6_pentastar_lancuch_2=Timing Chain B (V6 C)
+!v6_pentastar_lancuch_3=Timing Chain C (V6 C)
+!v6_pentastar_oslona_rozrzadu=Timing Cover (V6 C)
+!v6_pentastar_pasek=Serpentine Belt (V6 C)
+!v6_pentastar_pokrywa_glowicy_1=Engine Head Cover A (V6 C)
+!v6_pentastar_pokrywa_glowicy_2=Engine Head Cover B (V6 C)
+!v6_pentastar_pompa_wody=Water Pump (V6 C)
+!v6_pentastar_slizg_1=Timing Chain Shoe (V6 C)
+!v6_pentastar_walek_rozrzadu=Camshaft (V6 C)
+!v6_pentastar_walKorbowy=Crankshaft (V6 C)
+
+!v8_392_blok=Engine Block (V8 OHV G)
+!v8_392_cewka_1=Ignition Coil (V8 OHV G)
+!v8_392_dzwignia_zaworu=Rocker Arms (V8 OHV G)
+!v8_392_glowica_1=Engine Head A (V8 OHV G)
+!v8_392_glowica_2=Engine Head B (V8 OHV G)
+!v8_392_kolektor_dolotowy=Intake Manifold (V8 OHV G)
+!v8_392_kolektor_wydechowy=Exhaust Manifold (V8 OHV G)
+!v8_392_oslona_1=Timing Cover A (V8 OHV G)
+!v8_392_oslona_2=Timing Cover B (V8 OHV G)
+!v8_392_oslona_rozrzadu=Timing Cover (V8 OHV G)
+!v8_392_pasek=Serpentine Belt (V8 OHV G)
+!v8_392_pokrywa_glowicy_1=Engine Head Cover A (V8 OHV G)
+!v8_392_pompa_wody=Water Pump (V8 OHV G)
+
+!i4_l134_obudowa_filtraOleju=Oil Filter Base (I4 C)
+!i4_l134_pokrywa_obudowy_filtraOleju=Oil Filter Cover (I4 C)
+!i4_l134_filtrOleju=Oil Filter (I4 C)
+!i4_l134_gearbox=Gearbox (I4 C)
+!i4_l134_oslona_rozrzadu=Timing Cover (I4 C)
+!v8_392_miska_olejowa=Oil Pan (V8 OHV G)
+!walNapedowy_3=Front Drive Shaft D
+!w_v6_30_poczatkowy_h4=Front Exhaust Section C (V6 B)
+!v8_hemi_tlok_pierscienie_1=Piston Rings (V8 OHV C)
+!skrzyniaRozdzielcza_3=Transfer Case (I4 C)
+!v8_392_pokrywa_glowicy_2=Engine Head Cover B (V8 OHV G)
+!walNapedowy_5=Front Drive Shaft G
+!steering_wheel_jeep=^SteeringWheelName Jeep
+!walNapedowy_6=Front Drive Shaft F
+!mostPrzedni_2=Front Drive Axle E
+!zwrotnicaPrzodBeben_2=Front Steering Knuckle E
+!zwrotnicaPrzodBeben_2_pierscien=Front Steering Knuckle E Ring
+!polosNapedowa_8=Front Drive Axle F
+!w_v8_392hemi_poczatkowy=Front Exhaust Section (V8 OHV G)
+!w_i4_l134_poczatkowy=Front Exhaust Section (I4 C)
+!rim_wrangler=^RimName Wrangler
+!seat_wrangler=^SeatName Wrangler
+!bench_wrangler=^BenchName Wrangler
+!seat_cherokeesrt=^SeatName Cherokee
+!bench_cherokeesrt=^BenchName Cherokee
+GUI_Map_OffroadTrack = Offroad Track
+!w_ruraLaczaca2=Exhaust Pipe B
+GUI_CaseContent = Case Content
+GUI_CaseInfo = Congratulations! You can get more cases by completning orders.
+GUI_CaseButton = Collect items
+
+GUI_EngineInfo_A = Chiptuning / Carburettor tuning
+GUI_EngineInfo_B = Measured engine power
+GUI_EngineInfo_C = Factory engine power

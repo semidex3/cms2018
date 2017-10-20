@@ -1,0 +1,2633 @@
+﻿// -----------------------------------------CMS 2018
+
+//------------------------------------------------------------------------- MM
+
+MM_GameSettings = 게임 설정
+MM_VideoSettings = 비디오 설정
+MM_AudioSettings = 오디오 설정
+
+MM_Language = 게임 언어
+
+MM_ScreenResolution = 해상도
+MM_Fullscreen = 전체 화면
+MM_VSync = 수직동기
+MM_Quality = 그래픽 설정
+
+MM_GameVolume = 게임 볼륨
+MM_MusicVolume = 뮤직 볼륨
+MM_AmbientSound = 환경 사운드
+
+MM_NewProfile = 새 프로필
+MM_SelectProfile = 프로필 선택
+MM_DeleteProfile = 프로필 삭제
+
+MM_Apply = 확인
+MM_Back = 뒤로
+
+MM_NormalMode = 보통 모드
+MM_SandboxMode = 자유 모드
+MM_ExpertMode = 전문가 모드
+
+MM_EmptySave = 빈 프로필
+
+//--------------------------------------------------------------------------- Menu
+
+M_Menu1 = 새 게임
+M_Menu2 = 이어서 하기
+M_Menu3 = 정비사 프로필
+M_Menu4 = DLCs
+M_Menu5 = 차 전시실
+M_Menu6 = 설정
+M_Menu7 = 통계
+M_Menu8 = 만든이
+M_Menu9 = 나가기
+
+M_Settings_Audio = 오디오 설정
+M_Settings_Video = 비디오 설정
+M_Settings_Controller = 게임 설정
+
+M_Welcome = 환영합니다
+
+M_OstatniSave = 마지막 저장된 게임
+M_BrakSave = 저장된 게임이 없습니다
+M_SkasowacSave = 이 프로필을 정말 삭제할까요?
+M_Pusty = 비어있음
+M_WpiszNazweProfilu = 프로필 이름을 입력하세요
+M_MozeszPisacTutaj = 여기에 쓰세요
+M_rozpoaczacOdNowa = 현재 진행상황을 정말로 삭제하고 다시 시작할까요?
+
+M_OpcjeGrafiki0 = 그래픽 설정
+M_OpcjeGrafiki1 = 텍스쳐 사이즈
+M_OpcjeGrafiki2 = 화면 해상도
+M_OpcjeGrafiki3 = 전체 화면
+M_OpcjeGrafiki4 = 안티 앨리어싱
+M_OpcjeGrafiki5 = 앰바이언트 오클루전
+M_OpcjeGrafiki6 = 심도(DOF)
+M_OpcjeGrafiki7 = 수직동기
+M_OpcjeGrafiki8 = 모션 블러
+
+M_Stopniowanie0 = 사용자 정의
+M_Stopniowanie1 = 낮음
+M_Stopniowanie2 = 중간
+M_Stopniowanie3 = 높음
+M_Stopniowanie4 = 울트라
+
+M_OpcjeAudio1 = 전체 게임 볼륨
+M_OpcjeAudio2 = 인게임 배경음 볼륨
+M_OpcjeAudio3 = 환경 소리
+
+M_OpcjeOther1 = 마우스 카메라 속도
+M_OpcjeOther2 = 카메라 줌 속도
+M_OpcjeOther3 = 마우스 Y축 반전
+M_OpcjeOther4 = 키보드 카메라 속도
+M_OpcjeOther5 = 막힌 부위 하이라이트
+M_OpcjeOther6 = 시야 흔들림 효과
+M_OpcjeOther7 = 부드러운 마우스
+M_OpcjeOther8 = AZERTY 키보드
+
+M_OpcjeLang = 언어
+
+//--------------------------------------------------Sciezka diagnostyczna
+
+DiagCommand1 = 프론트 휠을 브레이크 테스터기에 놓는다
+DiagCommand2 = 브레이크를 밟고 유지한다
+DiagCommand3 = 리어 휠을 브레이크 테스터기에 놓는다
+DiagCommand4 = 브레이크를 밟고 유지한다
+DiagCommand5 = 프론트 휠을 서스펜션 테스터기에 놓는다
+DiagCommand6 = 기다리세요
+DiagCommand7 = 리어 휠을 서스펜션 테스터기에 놓는다
+DiagCommand8 = 기다리세요
+DiagCommand9 = 테스트 완료
+
+Diag_Left = 왼쪽
+Diag_Right = 오른쪽
+Diag_SuspensionTest = 서스펜션 테스트
+Diag_BrakesTest = 브레이크 테스트
+
+Diag_FrontBrakes = 전면 브레이크
+Diag_RearBrakes = 후면 브레이크
+Diag_FrontSuspension = 전면 서스펜션
+Diag_RearSuspension = 후면 서스펜션
+
+//--------------------------------------------------------------------------- Car Info
+GUI_CarInfoTitle = 차 정보
+GUI_TextBodyCondition = 전체 바디 상태
+GUI_TextPartsCondition = 전체 부품 상태
+GUI_TextOddo = 주행거리
+GUI_TextCarFactoryColor = 공장 색
+GUI_TextCarColor = 현재 색
+GUI_CarInfoEngine = 엔진
+GUI_TextPowerGraph = 파워 커브
+GUI_TextTorqueGraph = 토크 커브
+GUI_TextTuningVal = 튜닝 가치 
+GUI_TextEngineValue = 엔진 가치
+GUI_CarInfoPartsList = 차 부품 리스트
+GUI_DescPartName = 부품 이름
+GUI_DescPartCondition = 상태
+GUI_DescPartPrice = 가격
+GUI_RestorationBonus = 복원 보너스
+GUI_CarValue = 차 가치
+GUI_SellCar = 차 팔기
+GUI_FaultyPartsName = 고장난 부품 발견
+GUI_FaultyPartsFixed = 수리완료
+GUI_OrderSummary = 정비 요약
+GUI_TaskBonus = 과업 보너스
+GUI_MoneySpent = 금액 지출
+GUI_JobBonus = 직업 보너스
+GUI_TotalPayout = 전체 지불금
+GUI_FinishOrder = 정비 완료
+GUI_BuyCar = 차 구매하기
+GUI_NegotiatePrice = 금액 협상하기
+GUI_CarPrice = 차 가격
+GUI_NegotiateChance = 협상 기회
+
+//---------------------------------------------------------------------------- Inventory
+GUI_Inv_Title = 목록
+GUI_Inv_SearchPlaceholder = 검색하기 ...
+GUI_Inv_ShowGroups = 목록 그룹 보이기
+GUI_Inv_Sorting = 정렬하기
+
+//---------------------------------------------------------------------------- Showroom
+GUI_Showroom_ShowHide = 바디 보이기/지우기
+GUI_Showroom_Explode = 폭발
+GUI_Showroom_Cars = 차량
+GUI_Showroom_ChangeColor = 색 바꾸기
+GUI_Showroom_ShowRust = 녹 보이기
+GUI_Showroom_SitInside = 탑승해보기
+GUI_Showroom_QuitToMenu = 메뉴로 돌아가기
+GUI_Showroom_ListOfCars = 차량 리스트
+
+//---------------------------------------------------------------------------- Shops
+Gui_Shop_PageName = 인터넷 브라우저
+GUI_RimsShop = 림 상점
+GUI_MainShop = 메인부품 상점
+GUI_TuningShop = 튜닝 상점
+GUI_BodyShop = 바디 상점
+GUI_BodyTuningShop = 바디 튜닝 상점
+GUI_TireShop = 타이어 상점
+GUI_LicensePlateShop = 번호판 상점
+GUI_InteriorShop = 인테리어 상점
+GUI_ShopAmount = 수량
+GUI_ShopSize = 사이즈
+GUI_ShopET = ET
+GUI_ShopWidth = 폭
+GUI_ShopProfile = 프로필
+GUI_ShopLicense = 번호판
+GUI_ShopCustomLicense = 커스텀
+
+//---------------------------------------------------------------------------- Create Group Menu
+GUI_CG_Title = 부품 추가
+
+//---------------------------------------------------------------------------- Examine Report
+GUI_ExamineReport_Title = 검사완료 부품 보고서
+GUI_ExamineReport_Bookmark = 부품 리스트
+
+//---------------------------------------------------------------------------- Shop Buy Window
+GUI_ShopBuy_TotalPrice = 전체 금액:
+
+//---------------------------------------------------------------------------- Car Select Window
+GUI_SelectCarQuestion = 어떤 차를 선택하시겠습니까?
+
+//---------------------------------------------------------------------------- Upgrades
+GUI_Upgrades_Unlock = 업그레이드
+GUI_Upgrades_Reset = 포인트 초기화(비용 발생)
+GUI_Upgrades_AvailableSkillPoints = 사용할 수 있는 기술 포인트
+GUI_Upgrades_UpgradeCost = 업그레이드 비용
+GUI_Upgrades_Description = 설명
+
+//---------------------------------------------------------------------------- Shop List
+GUI_ShopList_Title = 쇼핑 목록
+
+
+//---------------------------------------------------------------------------- Menu Orders
+GUI_Orders_Title = 정비 임무
+GUI_Orders_JobDescription = 정비 설명
+GUI_Orders_MinimumCond = 최소 부위로 수리하기
+GUI_Orders_TakeOrder =  정비 수락
+GUI_Orders_Decline = 정비 거절
+
+//---------------------------------------------------------------------------- Inventory Items / Previews
+GUI_Item_Color = 색깔
+GUI_Item_Condition = 상태
+GUI_Item_Brand = 브랜드
+GUI_Item_Quality = 품질
+
+//---------------------------------------------------------------------------- Taken parts - Junk Shed
+GUI_TakenItems_Title = 선택 부품 요약
+GUI_TakenItems_Bookmark = 요약
+GUI_TakenItems_PartsPrice = 부품 가격
+GUI_TakenItems_Discount = 할인
+GUI_TakenItems_PriceToPay = 지불가격
+GUI_TakenItems_Buy = 부품 구매
+GUI_TakenItems_Quit = 부품구매없이 나가기
+
+//---------------------------------------------------------------------------- Paint Shop
+GUI_Paint_Title = 도색공장
+GUI_Paint_ColorMixer = 컬러 믹서
+GUI_Paint_PaintButton = 도색하기
+GUI_Paint_BackButton = 차고로 돌아가기
+GUI_Paint_FactoryColorButton = 공장색으로 설정
+GUI_Paint_CurrentColorButton = 현재색으로 설정
+GUI_Paint_Hue = 빛깔
+GUI_Paint_Sat = 채도
+GUI_Paint_Bri = 밝기
+GUI_Paint_QuickColor = 빠른 색
+GUI_Paint_Type = 도색 타입
+GUI_Paint_Price = 도색 가격
+GUI_Metallic = 메탈릭
+GUI_Matt = 무광
+GUI_Chameleon = 카멜레온
+GUI_Pearl = 펄
+GUI_Paint_Livery = 상징색
+
+//---------------------------------------------------------------------------- Pause Menu
+GUI_Pause_QuitMenuSaveButton = 저장후 메인 메뉴로 돌아가기
+GUI_Pause_QuitMenuButton = 저장하지 않고 메인 메뉴로 돌아가기
+GUI_Pause_QuitGarageButton = 차고로 돌아가기
+GUI_Pause_RestartButton = 재시작
+GUI_Pause_ContinueButton = 이어서 하기
+//---------------------------------------------------------------------------- Units
+
+GUI_Speed_Metric = KMH
+GUI_Speed_Imperial = MPH
+GUI_Torque_Metric = N.m
+GUI_Torque_Imperial = lbf.ft
+GUI_Power_Metric = HP
+GUI_Power_Imperial = HP
+GUI_Dist_Metric = km
+GUI_Dist_Imperial = mi
+
+//---------------------------------------------------------------------------- Access
+
+GUI_AccessFrom0 = 엔진베이에서 접근가능
+GUI_AccessFrom1 = 휠 사이드에서 접근가능(리프터 상태)
+GUI_AccessFrom2 = 차체 하단에서 접근가능(리프터 상태)
+GUI_AccessFrom3 = 차체 하단이나 휠 사이드에서 접근가능(리프터 상태)
+
+//---------------------------------------------------------------------------- Examine
+
+
+GUI_ExamineFrom1 = OBD 스캐너로 조사 가능
+GUI_ExamineFrom2 = 시범주행으로 조사 가능
+GUI_ExamineFrom3 = 차를 분해해서 조사 가능
+GUI_ExamineFrom4 = 테스트장에서 조사 가능
+GUI_ExamineFrom5 = 컴프레션 테스터로 조사 가능
+GUI_ExamineFrom6 = 전자 미터로 조사 가능
+GUI_ExamineFrom7 = 타이어 트레드 테스터로 조사 가능
+GUI_ExamineFrom8 = 연료 압력 테스터로 조사 가능
+GUI_ExamineFrom24 = 시범주행 혹은 테스트장에서 조사 가능
+GUI_ExamineFromX = 공구 조사 - 레벨 {0} 이 필요합니다
+
+//---------------------------------------------------------------------------- Repair
+
+GUI_RepairTable_Title = 수리 테이블
+GUI_RepairChance = 수리 성공 확률
+GUI_RepairCost = 수리 가격
+GUI_RepairSkillLevel = 수리 스킬 레벨
+
+GUI_RepairSuccess = 부품 수리에 성공했습니다!|수리후 부품의 상태는: {0} %
+GUI_RepairFail = 부품 수리에 실패했습니다. 부품의 상태가 나빠졌습니다.
+GUI_RepairTooMuchDamage = 수리하기에는 부품의 상태가 너무 안 좋습니다.
+
+GUI_RepairFrom0 = 수리할 수 없는 부품입니다
+GUI_RepairFromX = 수리하려면 공구레벨 {0} 이(가) 필요합니다
+GUI_RepairFrom7 = 배터리 충전기로 충전이 가능합니다
+
+//------------------------------------------------------------------------------Help Descriptions 
+GUI_Desc_Click = 클릭
+GUI_Desc_Hold = 누르고 있기
+GUI_Desc_Press = 선택
+
+GUI_Desc_TakeOff = 분해하기
+GUI_Desc_Use = 사용하기
+GUI_Desc_SitDown = 앉기
+GUI_Desc_RadioChangeStation = 라디오 주파수 변경하기
+GUI_Desc_RadioTurnOff = 라디오 끄기
+GUI_Desc_Examine = 부품 살펴보기
+GUI_Desc_Search = 찾기
+GUI_Desc_Focus = 부품 보기
+GUI_Desc_WorkOn = 수리 시작하기
+GUI_Desc_Orbit = 카메라 회전하기
+GUI_Desc_Leave_Car = 차 떠나기
+GUI_Desc_Mount = 부품 끼우기
+GUI_Desc_TakePhoto = 사진 찍기
+GUI_Desc_ChangeCamera = 카메라 시점 변경하기
+GUI_Desc_SellAll = 모든 부품 팔기
+GUI_Desc_SellJunk = 필요없는 부품 팔기
+GUI_Desc_ChangeCategory = 카테고리 변경하기
+GUI_Desc_CloseWindow = 메뉴 닫기
+GUI_Desc_ChangeSelection = 선택사항 변경하기
+GUI_Desc_Use2 =	사용
+//--------------------------------------------------------------------------- BUTTONS 
+
+GUI_Yes = 예
+GUI_No = 아니오
+GUI_OK = 확인
+GUI_Close = 닫기
+GUI_Apply = 수락
+GUI_Cancel = 취소
+GUI_Quit = 중지
+GUI_Exit = 나가기
+GUI_None = 없음
+
+// -------------------------------------------------------------------------- ORDERS
+
+GUI_MissionOrder = 스토리 정비
+GUI_NormalOrder = 일반 정비
+GUI_Bonus_To_Money = 금액 보너스
+GUI_Bonus_To_Exp = 경험치 보너스
+
+// ------------------------------------------------------------------------- MAP LOCATIONS
+GUI_Map_Title = 목적지 선택
+GUI_Map_Garage = 당신의 차고
+GUI_Map_Junkyard = 고물상
+GUI_Map_Auctions = 자동차 거래소
+GUI_Map_TestTrack = 테스트 트랙
+GUI_Map_Parking = 주차장
+GUI_Map_RaceTrack = 레이스 트랙
+GUI_Map_Barn = 부품 헛간
+GUI_Map_Salon = 자동차 전시관
+
+//--------------------------------------------------------------------------- QUESTION WINDOWS
+
+GUI_PotwierdzenieZakupu = 정말 구매하시겠습니까|<color="#FFA000">{0}</color>|for <color="#FFA000">{1}</color> ?
+GUI_PotwierdzenieNaprawy = 정말 수리하시겠습니까|<color="#FFA000">{0}</color>|for <color="#FFA000">{1}</color> ?
+GUI_PotwierdzenieSprzedazy = 정말 판매 하시겠습니까|<color="#FFA000">{0}</color>|for <color="#FFA000">{1}</color> ?
+GUI_PotwierdzenieWywazenia = 정말 균형을 맞추겠습니까|<color="#FFA000">{0}</color> ?
+GUI_PotwierdzenieZlaczenia = 정말 설치하시겠습니까|<color="#FFA000">{0}</color> on <color="#FFA000">{1}</color> ?
+GUI_PotwierdzenieRozlaczenia = 정말 분리하시겠습니까|<color="#FFA000">{0}</color> ?
+GUI_PotwierdzenieRozpoczeciaPathTest = 정말 정밀검사를 진행하시겠습니까?
+GUI_PotwierdzenieLadowania = 정말 충전하시겠습니까? |<color="#FFA000">{0}</color> ?
+
+//---------------------------------------------------------------------------POPUP
+
+PopUp_NewItem = 아이템 추가
+PopUp_TakenItem = 아이템 획득
+PopUp_MusicSong = 재생중
+PopUp_SaveGame = 저장중
+
+//---------------------------------------------------------------------------PIE MENU
+pie_battery_charge =  배터리 충전
+pie_battery_charge_bonus = 방전 배터리는 이곳에서 충전이 가능합니다
+
+pie_battery_take =  배터리 분리
+pie_battery_take_bonus = 충전된 배터리가 당신의 목록에 추가됩니다
+
+pie_spring_separate =  부품 분리
+pie_spring_separate_bonus = 스프링을 쇼크 업소버에서 분리합니다
+
+pie_spring_connect =  부품 결합
+pie_spring_connect_bonus = 스프링을 쇼크 업소버에 결합합니다
+
+pie_spring_take =  부품을 스프링 컴프레서에서 분리
+pie_spring_take_bonus =  부품이 당신의 목록에 추가됩니다
+
+pie_wheel_separate =  휠 분리
+pie_wheel_separate_bonus =  타이어를 림에서 분리합니다
+
+pie_wheel_connect =  휠 결합
+pie_wheel_connect_bonus =  타이어를 림에 결합합니다
+
+pie_wheel_take =  휠 수거
+pie_wheel_take_bonus =  타이어 교환기에서 부품을 빼냅니다
+
+pie_balancer_take =  부품 수거
+pie_balancer_take_bonus =  휠 밸런서에서 부품을 빼냅니다
+
+pie_balancer_balance =  밸런스
+pie_balancer_balance_bonus =  휠의 밸런스를 맞춥니다
+
+pie_list_add =  리스트에 추가
+pie_list_add_bonus =  부품을 노트북에 추가합니다
+
+pie_list_delete =  리스트에서 제거
+pie_list_delete_bonus =  부품을 노트북에서 제거합니다
+
+pie_list_open =  부품 요약
+pie_list_open_bonus =  부품 요약을 봅니다
+
+pie_list_locked = 부품을 부품요약에 추가하려면 커서를 부품에 올려놓으세요
+
+pie_move_car =  차 이동
+pie_move_car_bonus =  차를 차고의 다른장소로 이동합니다
+
+pie_move_dyno =  다이나모미터
+pie_move_dyno_bonus =  차의 성능체크 및 튜닝을 할 수 있습니다
+
+pie_move_paintshop =  도색샵
+pie_move_paintshop_bonus =  차량 및 부품의 도색을 할 수 있습니다
+
+pie_move_parking =  주차장
+pie_move_parking_bonus =  주차장에 차를 보관하여 차고의 공간을 확보합니다
+
+pie_move_pathTest =  정밀검사
+pie_move_pathTest_bonus =  전반적인 브레이크와 서스펜션 부품을 조사해볼때 도움이 됩니다
+
+pie_move_entrance1 =  차고입구 A
+pie_move_entrance1_bonus =  차고문 근처에 위치
+
+pie_move_entrance2 =  차고입구 B
+pie_move_entrance2_bonus =  차고문 근처에 위치
+
+pie_move_carLift1 = 차 리프터 A
+pie_move_carLift1_bonus = 첫번째 차 리프터
+
+pie_move_carLift2 = 차 리프터 B
+pie_move_carLift2_bonus = 두번째 차 리프터
+
+pie_move_carLift3 = 차 리프터 C
+pie_move_carLift3_bonus = 세번째 차 리프터
+
+pie_move_blocked = 이 위치에는 차량이 있습니다
+pie_move_locked = 이 위치는 차고 업그레이드가 필요합니다
+
+pie_settings =  설정 메뉴
+pie_settings_bonus =  전반적인 게임의 설정을 할 수 있습니다
+
+pie_settings_save =  저장하기
+pie_settings_load =  불러오기
+
+pie_settings_menu =  메뉴로 나가기
+pie_settings_menu_bonus =  저장하지 않고 나가기
+
+pie_switch_body =  탐색 모드
+pie_switch_body_bonus =  차량의 전체 부품을 볼 수 있습니다
+
+pie_tablet =  태블릿
+pie_tablet_bonus = 작업장 컴퓨터에 빠르게 접속합니다
+
+pie_inventory =  인벤토리
+pie_inventory_bonus = 부품을 둘러보거나 검색하거나 팔 수 있습니다
+
+pie_order_check =  차량 상태
+pie_order_check_bonus = 현재 차량의 상태를 체크합니다
+
+pie_order_list =  정비
+pie_order_list_bonus =  정비 가능한 임무를 확인합니다
+
+pie_examine_tools =  장비조사
+pie_examine_tools_bonus =  특별한 장비들은 차량의 상태를 빠르게 확인하는데 도움이 됩니다
+
+pie_mode_examine =  조사 모드
+pie_mode_examine_bonus =  전체화면으로 각 부품의 현재 상태를 살펴봅니다
+
+pie_mode_garage =  보통 모드
+pie_mode_garage_bonus =  일반 모드로 전환합니다
+
+pie_mode_garage_assemble =  조립 모드
+pie_mode_garage_assemble_bonus =  조립모드로 전환합니다
+
+pie_mode_group_mount =  그룹 결합
+pie_mode_group_mount_bonus =  그룹 결합모드로 전환합니다
+
+pie_mode_group_unmount =  그룹 분해
+pie_mode_group_unmount_bonus =  그룹 분해모드로 전환합니다
+
+pie_mode_part_mount =  부품 결합
+pie_mode_part_mount_bonus =  부품 결합모드로 전환합니다
+
+pie_mode_part_unmount =  부품 분해
+pie_mode_part_unmount_bonus =  부품 분해모드로 전환합니다
+
+pie_mode_photo =  포토 모드
+pie_mode_photo_bonus =  사진을 촬영하고 커뮤니티에 공유할 수 있습니다
+
+pie_mode_interior_disassemble =  인테리어 분해
+pie_mode_interior_disassemble_bonus =  인테리어 분해모드로 전환합니다
+
+pie_mode_interior_assemble = 인테리어 조립
+pie_mode_interior_assemble_bonus =  인테리어 조립모드로 전환합니다
+
+pie_engine_rotate_left =  엔진 왼쪽으로 회전
+pie_engine_rotate_right =  엔진 오른쪽으로 회전
+pie_engine_add =  엔진을 상자안에 넣기
+pie_engine_new =  새로운 엔진 만들기
+pie_engine_take = 상자에서 엔진 분해하기
+pie_car_drive =  차 운전하기
+pie_car_run =  차 시동걸기
+pie_paintshop_car =  차 도색하기
+pie_paintshop_part =  부품 도색하기
+
+pie_jukebox_change_station = 라디오 채널 변경
+pie_jukebox_turn_on_off = 라디오 켜기/끄기
+pie_jukebox_next_sound = 다음 노래
+
+pie_car_buy = 차 구매
+pie_car_buy_bonus = 차의 정보 및 금액 확인
+
+pie_settings_garage = 차고 나가기
+pie_settings_garage_bonus = 수집된 아이템 확인 및 차고에서 나감
+
+pie_settings_parking_garage = 차고 나가기
+
+pie_equipment_use = 장비 사용하기
+
+pie_equipment_move = 장비 옮기기
+pie_equipment_move_bonus = 장비를 다른 장소로 이동합니다
+
+pie_equipment_move_entrance1 =  샵 입구 A
+pie_equipment_move_entrance1_bonus =  차고문 근처에 위치
+
+pie_equipment_move_entrance2 =  샵 입구 B
+pie_equipment_move_entrance2_bonus =  차고문 근처에 위치
+
+pie_equipment_move_carLift1 = 차 리프터 A
+pie_equipment_move_carLift1_bonus = 첫번째 차 리프터
+
+pie_equipment_move_carLift2 = 차 리프터 B
+pie_equipment_move_carLift2_bonus = 두번째 차 리프터
+
+pie_equipment_move_carLift3 = 차 리프터 C
+pie_equipment_move_carLift3_bonus = 세번째 차 리프터
+
+GUI_unlock_to_use = 사용을 위해 잠금해제
+GUI_move_unavail = 이 장소는 이미 사용되고 있습니다
+
+pie_tires = 타이어 트레드 테스터
+pie_tires_bonus = 이 장비로 타이어의 상태를 파악할 수 있습니다
+
+pie_obd = OBD 스캐너
+pie_obd_bonus = OBD Scanner는 전자-컴퓨터와 관련된 수많은 부품을 조사합니다. 오래된 차에는 작동하지 않습니다!
+
+pie_cylinder = 압력(컴프레션) 테스터
+pie_cylinder_bonus = 전반적인 엔진상태에 대한 정보를 제공합니다
+
+pie_electronic = 전자(일렉트로닉) 미터
+pie_electronic_bonus = 간단하지만 유용한 장비이며 모든 전자장비의 컨디션과 내구도를 조사합니다
+
+pie_fuel = 연료 압력 테스트
+pie_fuel_bonus = 차의 연료와 관련된 모든 부품의 상태를 파악할 수 있습니다
+
+pie_equipment_return = 장비 돌려놓기
+
+//---------------------------------------------------------------------------Warehouse
+
+GUI_Warehouse_Title = 창고
+GUI_SEL_WAREHOUSE =  선택된 창고
+M_WAR_CHANGE_NAME =  창고 이름 변경
+GUI_WAR =  창고
+GUI_WAR1 =  창고 1
+GUI_WAR2 =  창고 2
+GUI_WAR3 =  창고 3
+GUI_WAR4 =  창고 4
+GUI_WAR5 =  창고 5
+GUI_WAR6 =  창고 6
+GUI_WAR7 =  창고 7
+GUI_WAR8 =  창고 8
+
+// -------------------------------------------------------------------------- garage modes
+
+mode_GarageDisassemble = 바디 분해 모드
+mode_GarageAssemble = 바디 조립 모드
+mode_Interior = 인테리어
+mode_PartSelect = 부품 보기
+mode_PartMount = 분해 모드
+mode_PartUnMount = 조립 모드
+mode_GroupUnMount = 그룹 조립 모드
+mode_GroupMount = 그룹 분해 모드
+mode_PartSelectMount = 선택된 부품
+mode_ExamineCondition = 조사 모드
+
+//--------------------------------------------------Kategorie w sklepie
+CAT_All = 모두
+CAT_Engine = 엔진
+CAT_Body = 바디
+CAT_Other = 기타
+CAT_Rims = 림
+CAT_Group =  그룹
+CAT_Brakes = 브레이크
+CAT_Exhaust = 배기관
+CAT_Gearbox = 기어박스
+CAT_Suspension = 서스펜션
+
+// -------------------------------------------------Sorting
+
+Sorting_Name = 정렬
+Sorting_ByArr = 최신순
+Sorting_ByCon = 상태순
+Sorting_ByNam = 이름순
+//--------------------------------------------------Auctions
+
+AU_Start = 경매 시작
+AU_Raise = 가격 올리기
+AU_Pass = 패스
+AU_Next = 다음 차
+AU_Quit = 나가기
+AU_TodaysCars = 오늘의 차량
+
+AU_Currentbid = 현재 입찰 금액
+AU_OveralState = 전반적 상태
+AU_Time = 시간
+AU_Sold = 판매됨
+AU_StartingPrice = 시작 가격
+AU_HighestBidder = 가장 높은 입찰자
+AU_Bidder = 입찰자
+AU_Player = 당신
+
+//--------------------------------------------------Misc
+//symbol waluty - nie ma przelicznika wiec albo € albo $
+GUI_Waluta = $
+GUI_BrakKasy = 충분한 돈이 없습니다
+GUI_PriceFrom = 최저가
+GUI_FrontWheelsDiffSize =  프론트 휠 사이즈가 다릅니다
+GUI_RearWheelsDiffSize =  리어 휠 사이즈가 다릅니다
+GUI_NieMaPrzedmiotowDoZalozenia = 함께 작업할 아이템이 없습니다
+
+GUI_CarsLimitInGarage = 공간이 없습니다. 차고는 한번에 5개의 차량만 수용이 가능합니다.
+GUI_CarsLimitInParking = 공간이 없습니다.차고는 한번에 12개의 차량만 수용이 가능합니다.
+GUI_CustomerCarInParking = 당신이 소유한 차량만이 주차 가능합니다.
+GUI_NoWheels = 차가 휠이 부족하여 이동할 수 없습니다.
+
+GUI_Buy = 구입
+GUI_TextExamineReport = {0} 개의 부품 조사를 완료했습니다
+M_SAVESTART = 게임 저장중
+M_SAVECOMPLETE = 저장되었습니다
+M_ExitWithoutItems = 부품을 획득하지 않고 나가겠습니까?
+
+GUI_Order_PartNotFound = 부품이 발견되지 않았습니다
+
+GUI_BoughtCarPlace = 구입한 차량을 어디에 놓겠습니까?
+GUI_BoughtCar_Parking = 차량 주차장
+GUI_BoughtCar_Garage = 차고
+
+GUI_Wczytywanie = 불러오는중...
+
+GUI_OilWarning = 오일팬을 분해하기전에 오일을 충분히 따라내지 않았습니다. 치우는데 100$가 지출됩니다
+GUI_EngineUnmountCrainWarning = 엔진을 제거하려면 먼저 차에서 {0} 을(를) 제거해야 합니다
+GUI_EngineMountCrainWarning = 엔진을 장착하려면 먼저 차에서 {0} 을(를) 제거해야 합니다
+GUI_EngineEmptyCrainWarning = 차에 엔진 부품이 없습니다
+GUI_MissingWheels = 차에 휠이 누락되어 있습니다
+GUI_MissingParts = 차에 {0} 개의 누락된 부분이 있습니다
+GUI_EngineDontStart = 시동이 걸리지 않습니다
+GUI_SamochodGorszyStan = 차의 상태가 처음 차고에 입고되었을때보다 나쁩니다
+GUI_SamochodOlejWSilniku = 엔진에 오일이 있습니다. 이 행동을 할 수 없습니다
+GUI_Order_FinishUncompleteJob = 이 작업이 아직 완료되지 않았습니다. 이대로 끝내겠습니까?
+GUI_rozpoaczacOdNowa = 현재 작업을 중단하고 다시 시작하겠습니까? 
+GUI_SellJunk = 폐품 아이템 팔기
+GUI_PotwierdzenieSprzedazySmieci = 쓸모없는 아이템을 판매하겠습니까?
+GUI_AuctionsFee = 경매 수수료 {0}. 정말 참가하겠습니까?
+GUI_Orders_Nojobs = 현재 수행할 수 있는 임무가 없습니다
+GUI_TestComplete = 테스트 완료
+GUI_CarNotConnected = 이곳에서 정비할 차가 없습니다
+GUI_Locked = 잠김
+GUI_RemoveCarFromArrivalPlace = 차량을 주차할 수 있도록 메인 문 근처에 공간을 마련하세요
+GUI_EngineStandOccupied = 이미 엔진 스탠드에 엔진이 있습니다
+GUI_obd_unavailable = 이 차는 OBD포트가 없습니다. 이 행동을 수행할 수 없습니다.
+GUI_junkyardfee= 고물상까지 이동은 {0} 의 비용이 발생합니다. 이동하시겠습니까?
+GUI_LicensePlate = 번호판
+GUI_SelectPart = 부품 선택
+GUI_Accessibility = 접근성
+GUI_SamochodBezBody = 차에 바디 부품이 누락되어 있습니다.
+GUI_SamochodNiezlozony = 차의 정비가 완료되지 않았습니다. 차에 {0} 가(이) 결합되어 있지 않습니다.
+GUI_SamochodOlejBrak = 엔진에 오일이 없습니다. 이 행동을 수행할 수 없습니다.
+GUI_Installed = 장착됨
+GUI_MoveCarToGarage = 차고로 이동
+GUI_TestDriveCar = 테스트 드라이브 수행
+!specialMap = 대형차고 위치 지도
+!specialCase = 통
+!specialCrowbar = 빠루
+GUI_CaseOpen = 이 통을 열기위해서는 빠루가 필요합니다
+GUI_CaseAsk = 정말 이 통을 여시겠습니까?
+GUI_MapAsk = 부품 헛간을 지도에 표시하시겠습니까?
+GUI_NieMaPrzedmiotowDoZalozeniaX = 함께 작동될 아이템이 없습니다|부품 필요 : <color=#FFA000>{0}</color>
+GUI_Tutorial_WindowTitle = 튜토리얼
+
+// ----------------------------------------------- Parking
+Park_Prev = 이전 차
+Park_Next = 다음 차
+Park_Move = 차를 차고로 이동
+Park_Quit = 차고로 돌아가기
+
+// ----------------------------------------------- Blocked Lifter
+
+GUI_BlockedLifter = 리프터가 차단되었습니다. 작동방향에 있는 물건을 치워서 안전한 곳에 놓으세요.
+
+//-------------------------------------------------- Radio
+M_Radio_WindowTitle = 라디오 방송국
+M_Radio_Current_Sound = 재생중
+Radio_Music0 = Drum & Bass Attack
+Radio_Music1 = Electro Hive
+Radio_Music2 = Hideout Street Radio
+Radio_Music3 = THE CDK
+Radio_Music4 = Classic Vibes
+Radio_Music5 = Killa Rock
+Radio_Music6 = Mixer Room
+Radio_Music7 = State of House Music
+Radio_User = 유저 라디오
+
+// ------------------------------------------------- Test Track
+GUI_TestTrackChecklist = 점검표
+GUI_SpeedTest = 가속 테스트
+GUI_SlalomTest = 회전 테스트
+GUI_BrakeTest = 브레이크 테스트
+GUI_SuspensionTest = 서스펜션 테스트
+
+// -------------------------------------------------IOs
+#hood = 후드
+#door_front_left = 전면 왼쪽 도어
+#door_front_right = 전면 오른쪽 도어
+#door_rear_left = 후면 왼쪽 도어
+#door_rear_right = 후면 오른쪽 도어
+#trunk = 트렁크
+#fender_front_left = 전면 왼쪽 펜더
+#fender_front_right = 전면 오른쪽 펜더
+#bumper_front = 전면 범퍼
+#bumper_rear = 후면 범퍼
+#headlight_left = 왼쪽 헤드라이트
+#headlight_right = 오른쪽 헤드라이트
+#taillight_left = 왼쪽 후미등
+#taillight_right = 오른족 후미등
+#taillight_left_trunk = 왼쪽 트렁크 후미등
+#taillight_right_trunk = 오른쪽 트렁크 후미등
+#fender_rear_left = 후면 왼쪽 펜더
+#fender_rear_right = 후면 오른쪽 펜더
+
+#window_front = 전면 유리창
+#window_back = 후면 유리창
+#window_back_left_1 = 후면 왼쪽 유리창 A
+#window_back_right_1 = 후면 오른쪽 유리창 A
+#window_back_left_2 = 후면 왼쪽 유리창 B
+#window_back_right_2 = 후면 오른쪽 유리창 B
+#window_door_front_left = 전면 왼쪽 도어 유리창
+#window_door_front_right = 전면 오른쪽 도어 유리창
+#window_door_rear_left = 후면 왼쪽 도어 유리창
+#window_door_rear_right = 후면 오른쪽 도어 유리창
+#window_body_left_1 = 왼쪽 바디 유리창 A
+#window_body_right_1 = 오른쪽 바디 유리창 A
+#window_body_left_2 = 왼쪽 바디 유리창 B
+#window_body_right_2 = 오른쪽 바디 유리창 B
+#window_front_left = 전면 왼쪽 유리창
+#window_front_right = 전면 오른쪽 유리창
+#window_trunk = 트렁크 유리창
+
+#window_body_left = 왼쪽 바디 유리창
+#window_body_right = 오른쪽 바디 유리창
+#window_rear_left = 후면 왼쪽 유리창 A
+#window_rear_right = 후면 오른쪽 유리창 A
+
+#mirror_left = 왼쪽 사이드 미러
+#mirror_right = 오른쪽 사이드 미러
+
+#front_end = 정면
+#bench = 작업대
+#body = 바디
+#details = 바디
+
+#map = 도시 지도
+#paintshop = 도색샵
+#parkingdoor = 주차장
+#dyno = 다이나모미터
+#pathTest = 정밀검사
+#batteryCharger = 배터리 충전기
+#computer = 컴퓨터
+#PGPlace =  폐품
+#phone = 전화기
+#toolbox = 공구박스
+#repairtable = 수리 작업대
+#wheelbalancer = 휠 밸런서
+#springClamp = 스프링 풀러
+#jukebox = 라디오
+#lifter = 차 리프트
+#customizegarage = 차고 꾸미기
+#welder = 용접
+#enginecrane = 엔진 크레인
+#warehouse = 창고
+#seatLeft = 전면 왼쪽 시트
+#seatRight = 전면 오른쪽 시트
+#engine = 엔진
+#steeringWheel = 스티어링 휠
+#suspension = 서스펜션
+#cooling = 쿨링
+#airintake = 공기 흡입구
+#brakepump = 브레이크 펌프
+#battery = 차 배터리
+#oilbin = 오일 배유
+#abs = ABS 모듈
+#driveshaft = 구동축
+#exhaust = 배기관
+#fueltank = 연료 탱크
+#engine_cover = 엔진 덮개
+#tirechanger = 타이어 체인저
+#interiorDetailingToolkit = 인테리어 장식 도구킷
+#MainGate = 정문
+#door_parking = 주차장으로 나가기
+
+#door_left = 도어
+#door_right = 도어
+
+#license_plate_rear = 후면 번호판
+#license_plate_front = 정면 번호판
+
+// ----------------------------------------------- Order Description
+
+OD_Body_General_1 = 손상된 바디 패널을 수리
+OD_Body_General_2 = 바디 부품을 수리
+OD_Body_General_3 = 바디 부품의 수리 또는 교체
+
+OD_Body_PaintOriginal_OnList = 공장색으로 차량을 도색
+OD_Body_PaintOriginal_1 = 정비소 보유색으로 차량을 재도장
+OD_Body_PaintOriginal_2 = 공장색으로 차량을 도장
+OD_Body_PaintOriginal_3 = 공장색으로 차량을 도색
+
+OD_Body_PaintCustom_OnList = 커스텀 색으로 차량을 도색
+OD_Body_PaintCustom_1 = 커스텀 색으로 차량을 재도장
+OD_Body_PaintCustom_2 = 커스텀 색으로 차량을 도장
+OD_Body_PaintCustom_3 = 멋진 커스텀색으로 지정
+
+OD_Engine_General_1 = 엔진의 총 점검 및 수리
+OD_Engine_General_2 = 엔진의 고장을 모두 찾아서 수리
+OD_Engine_General_3 = 엔진의 고장을 모두 수리
+
+OD_Engine_DontStart_1 = 차가 출발하지 않음
+OD_Engine_DontStart_2 = 차의 출발시킬 수 없음
+OD_Engine_DontStart_3 = 시동을 걸 수 없음
+
+OD_Engine_Power_1 = 엔진의 힘 부족
+OD_Engine_Power_2 = 엔진의 힘이 실패
+OD_Engine_Power_3 = 엔진이 작동하고 있지만 불안정
+OD_Engine_Power_4 = 차는 주행중이지만 불안정하고 문제가 있음
+OD_Engine_Power_5 = 가속이 느림
+OD_Engine_Power_6 = 차가 거칠게 주행
+
+OD_Engine_Noise_1 = 엔진베이에서 이상한 소리
+OD_Engine_Noise_2 = 엔진베이에서 노크 소리
+OD_Engine_Noise_3 = 엔진베이에서 탁탁 치는 소리
+OD_Engine_Noise_4 = 엔진베이에서 소음이 큼
+OD_Engine_Noise_5 = 엔진베이에서 기괴한 소리
+OD_Engine_Noise_6 = 엔진베이에서 희한한 소리
+
+OD_Engine_Oil_OnList = 오일교환(오일을 배유하고 새로 보충)
+OD_Engine_Oil_1 = 엔진 오일과 필터를 교체
+OD_Engine_Oil_2 = 엔진 오일과 필터를 교환
+OD_Engine_Oil_3 = 새로운 엔진 오일과 필터를 장착
+
+OD_Engine_Timing_1 = 타이밍과 관련된 부품을 교체
+OD_Engine_Timing_2 = 타이밍의 교체가 필요
+OD_Engine_Timing_3 = 새로운 타이밍 부품을 장착
+
+OD_Engine_Filters_1 = 모든 필터를 교체
+OD_Engine_Filters_2 = 필터의 교체가 필요
+OD_Engine_Filters_3 = 차의 필터를 점검하고 교체
+
+OD_Susp_General_1 = 구동기어의 총 점검 및 수리
+OD_Susp_General_2 = 구동기어계 문제를 모두 찾아서 수리
+OD_Susp_General_3 = 구동기어계의 고장을 모두 수리
+
+OD_Susp_Control_1 = 차의 스티어링이 헐거움
+OD_Susp_Control_2 = 차의 컨트롤이 힘듬
+OD_Susp_Control_3 = 서스펜션이 느슨
+OD_Susp_Control_4 = 스티어링이 느슨
+
+OD_Susp_Knocking_1 = 서스펜션이 덜컹거림
+OD_Susp_Knocking_2 = 서스펜션에서 노크소리
+OD_Susp_Knocking_3 = 서스펜션의 흔들림을 수리
+OD_Susp_Knocking_4 = 서스펜션의 노크소리의 원인을 찾기
+OD_Susp_Knocking_5 = 서스펜션에서 이상한 소리
+OD_Susp_Knocking_6 = 서스펜션의 소음을 수리
+
+OD_Exhaust_General_1 = 배기구에서 큰 소음
+OD_Exhaust_General_2 = 가속시 큰 소음
+OD_Exhaust_General_3 = 차의 소음이 큼
+OD_Exhaust_General_4 = 차의 소음이 존재
+OD_Exhaust_General_5 = 시끄러운 엔진
+OD_Exhaust_General_6 = 운전중 큰 소음
+
+OD_Brakes_General_1 = 브레이크 문제
+OD_Brakes_General_2 = 브레이크의 성능이 떨어짐
+OD_Brakes_General_3 = 브레이크 계통의 수리가 필요
+OD_Brakes_General_4 = 브레이크의 수리가 필요
+OD_Brakes_General_5 = 브레이크의 어딘가에 이상 발생
+OD_Brakes_General_6 = 정지거리가 증가하였음
+
+OD_Gearbox_General_1 = 기어박스의 총 점검 및 수리
+OD_Gearbox_General_2 = 기어박스계의 문제를 모두 찾아 수리
+OD_Gearbox_General_3 = 기어박스 고장을 모두 수리
+
+OD_Gearbox_Clutch_1 = 기어를 찾기가 힘듬
+OD_Gearbox_Clutch_2 = 변속기의 소리가 큼
+OD_Gearbox_Clutch_3 = 기어가 미끄러짐
+OD_Gearbox_Clutch_4 = 기어변속시 뻑뻑함
+OD_Gearbox_Clutch_5 = 운전중 악취가 발생
+OD_Gearbox_Clutch_6 = 클러치가 끌림
+
+OD_Gearbox_Unit_1 = 기어박스에 진동이 있음
+OD_Gearbox_Unit_2 = 변속기의 반응이 나쁨
+OD_Gearbox_Unit_3 = 기어변속시 뻑뻑함
+OD_Gearbox_Unit_4 = 변속기의 소리가 큼
+OD_Gearbox_Unit_5 = 기어변속이 힘듬
+OD_Gearbox_Unit_6 = 기어변속시 뻑뻑함
+
+OD_Location_Front = (전면)
+OD_Location_Rear = (후면)
+OD_Location_Front_Left = (전면-왼쪽)
+OD_Location_Front_Right = (전면-오른쪽)
+OD_Location_Rear_Left = (후면-왼쪽)
+OD_Location_Rear_Right = (후면-오른쪽)
+OD_Location_Left = (왼쪽 사이드)
+OD_Location_Right = (오른쪽 사이드)
+
+OD_EasyMode_Repair = (공급된 목록)
+
+//--------------------------------------------------czesci z wykrzyknikiem na poczatku
+!absModul_1 = ABS 모듈
+!absPompa_1 = ABS 펌프
+!akumulator = 배터리
+!alternator = 얼터네이터
+!amortyzator_double = 더블 위시본 충격 흡수 장치
+!amortyzatorPrzod_1 = 전면 쇼크 업소버
+!amortyzatorTyl_1 = 후면 충격 흡수 장치 A
+!amortyzatorTyl_2 = 후면 충격 흡수 장치 B
+!bagnet_1 = 오일 딥스틱
+!bak_1 = 연료 탱크
+!cewka_1 = 점화 코일
+!chlodnica_1 = 라디에이터 A
+!chlodnica_2 = 라디에이터 B
+!czapkaAmorPrzod_1 = 전면 충격 흡수 장치 뚜껑
+!czapkaSprezynyTyl_1 = 후면 충격 흡수 장치 뚜껑
+!docisk_sprzegla = 클러치 압력 판
+!drazekKierowniczy_1 = 안쪽 타이 로드
+!filtr_1 = 공기 필터
+!filtr_1x4_dol = 원형 공기 필터 베이스 (1 carb)
+!filtr_1x4_gora = 원형 공기 필터 덮개 (1 carb)
+!filtr_1x4_srodek = 원형 공기 필터 (1 carb)
+!filtr_2x4_dol = 원형 공기 필터 베이스 (2 carb)
+!filtr_2x4_gora = 원형 공기 필터 덮개 (2 carb)
+!filtr_2x4_srodek = 원형 공기 필터 (2 carb)
+!klips_1 = 클립 A
+!klips_2 = 클립 B
+!klockiHamulcowe_1 = 브레이크 패드
+!koncowkaDrazkaKier_1 = 아우터 타이 로드
+!kopulkaRozdzielacza_1 = 점화 배전기 뚜껑
+!korek_spustowy_1 = 오일 배유 플러그
+!korekOleju_1 = 오일 급유 플러그
+!lacznikPolosi_1 = 전면 드라이브 샤프트
+!lacznikPolosi_2 = 전면 드라이브 샤프트 (4x4)
+!lacznikStabilizatora_double = 스웨이 바 전방 링크 B
+!lacznikStabilizatoraPrzod_1 = 스웨이 바 전방 링크 A
+!lacznikStabTyl_1 = 스웨이 바 후방 링크
+!listwa_wtryskowa = 연료 레일 DI
+!listwa_wtryskowa_2 = 연료 레일 MPI
+!lozyskoDociskowe_1 = 클러치 릴리즈 베어링
+!lozyskoZwrotnicyPrzod_1 = 휠 허브 베어링
+!mostTylny_1 = 용수철 후면 구동축
+!mostTylnySztywny_1 = 코일-스프링 후면 구동축
+!obejmaPodstawka_1 = 용수철 판
+!obejmaPret_1 = 용수철 U-볼트
+!obudowaFiltra_dol_1 = 공기 필터 베이스
+!obudowaFiltra_gora_1 = 공기 필터 덮개
+!palecRozdzielacza_1 = 점화 배전기 회전자
+!piastaPrzod_1 = 전면 휠 허브
+!piastaTyl_1 = 후면 휠 허브
+!pioraTyl_1 = 용수철
+!podstawkaSprezynyTyl_1 = 스프링 뚜껑
+!pokrywa_lozyska = 크랭크샤프트 베어링 뚜껑
+!pokrywaBeben_1 = 브레이크 드럼
+!polosNapedowa_1 = 전면 구동축 A
+!polosNapedowa_2 = 전면 구동축 B
+!polosNapedowa_3 = 후면 구동축
+!polosNapedowa_4 = 전면 구동축 C
+!polosNapedowaTylna_1 = 솔리드 후면 구동축
+!pompa_1 = 연료 펌프
+!pompa_wspomagania = 파워 스티어링 펌프 (V8)
+!przekladnia_1 = 스티어링 랙
+!r4_blok = 엔진 블록 (I4)
+!r4_filtr_oleju = 오일 필터 (I4)
+!r4_gearbox_4x4 = 기어박스 (I4 4x4)
+!r4_gearbox_rwd = 기어박스 (I4 RWD)
+!r4_gearbox_short = 기어박스 (I4)
+!r4_glowica_2 = 엔진 헤드 (I4)
+!r4_glowica_sohc_1 = 엔진 헤드 (I4 SOHC)
+!r4_glowica_sohc_wkladka_1 = 캠샤프트 뚜껑
+!r4_kable_sohc_1 = 점화 케이블 (I4 SOHC)
+!r4_kolektor_dolotowy3 = 흡기 매니폴드 (I4 DI)
+!r4_kolektor_dolotowy4 = 흡기 매니폴드 (I4 MPI)
+!r4_kolektor_wydechowy = 배기 매니폴드
+!r4_kolektor_wydechowy_oslona = 배기 매니폴드 덮개
+!r4_kolektor_wydechowy_sohc_1 = 배기 매니폴드 (I4 SOHC)
+!r4_kolektor_wydechowy2 = 배기 매니폴드 (I4 TURBO)
+!r4_kolo_pasowe_walu = 크랭크샤프트 풀리 (I4)
+!r4_miska_olejowa = 오일 팬 (I4)
+!r4_modul_zaplonowy_sohc_1 = 점화 코일 (I4 SOHC)
+!r4_oslona = 타이밍 벨트 덮개 (I4)
+!r4_oslona_sohc = 타이밍 덮개 (I4 SOHC)
+!r4_pasek1 = 서펀틴 벨트 A
+!r4_pasek2 = 서펀틴 벨트 B
+!r4_pasek2_sohc = 서펀틴 벨트 (I4 SOHC)
+!r4_pasek3 = 타이밍 벨트
+!r4_pasek3_sohc = 타이밍 벨트 (I4 SOHC)
+!r4_pokrywa_glowicy = 엔진 헤드 덮개 (I4)
+!r4_pokrywa_glowicy_sohc_1 = 엔진 헤드 덮개
+!r4_pompa_wody = 워터 펌프 (I4)
+!r4_pompa_wspomagania = 파워 스티어링 펌프 (I4)
+!r4_przepustnica = 스로틀 (I4)
+!r4_rozrusznik_1 = 시동장치
+!r4_walek_rozrzadu = 캠샤프트
+!r4_walek_rozrzadu_sohc_1 = 캠샤프트 (I4 SOHC)
+!rolka_gladka = 아이들러 롤러 A
+!rolka_pompy_wody = 워터 펌프 풀리
+!rolka_prowadzaca = 아이들러 롤러 B
+!rolka_walka = 캠 기어
+!rolka_walka_sohc = 캠 기어 (I4 SOHC)
+!rozdzielaczZaplonu_1 = 점화 배전기
+!sankiPrzod_1 = 전면 서스펜션 크로스멤버
+!sankiPrzod_2 = ^!sankiPrzod_1 B
+!sankiTyl_1 = 후면 서스펜션 크로스멤버
+!sankiTyl_2 = 후면 서스펜션 크로스멤버 (RWD)
+!serwoHamulca_1 = 브레이크 서보
+!sondaLambda_1 = 람다 프로브
+!sprezynaTyl_1 = 후면 스프링
+!sprezynnaPrzod_1 = 전면 스프링
+!stabilizatorPrzod_1 = 전면 스웨이 바
+!stabilizatorTyl_1 = 후면 스웨이 바 A
+!stabilizatorTyl_2 = 후면 스웨이 바 B
+!swieca_1 = 점화 플러그
+!szczeki_1 = 브레이크 슈
+!szczekiCylinder_1 = 드럼 휠 실린더
+!tarcza_sprzegla = 클러치 판
+!tarczaHamulcowa_1 = 브레이크 디스크
+!tarczaWentylowana_1 = 배기 브레이크 디스크
+!tlok_1 = 피스톤 로드
+!tuleja_1 = 고무 부싱
+!tulejaMala_1 = 작은 고무 부싱
+!turbo_2 = 터보 과급기
+!v8_blok = 엔진 블록 (V8)
+!v8_blok_stary = 엔진 블록 (V8 OHV)
+!v8_dzwigniazaworu = 록커 암
+!v8_filtr_oleju = 오일 필터 (V8)
+!v8_filtr_oleju_stary = 오일 필터 (V8 OHV)
+!v8_gaznik_1 = 카뷰레터 (4-barrel)
+!v8_gearbox = 기어박스 (V8)
+!v8_gearbox_4x4 = 기어박스 (V8 4x4)
+!v8_gearbox_stary = 기어박스 (V8 OHV)
+!v8_glowica = 엔진 헤드 (V8)
+!v8_glowica_stara = 엔진 헤드 (V8 OHV)
+!v8_kable_stary = 점화 케이블 (V8)
+!v8_kolektor = 흡기 매니폴드 (V8)
+!v8_kolektor_wydechowy = 배기 매니폴드 (V8)
+!v8_kolektor_wydechowy_stary_1 = 배기 매니폴드 (V8 OHV)
+!v8_kolektordolotowy_1x4 = 흡기 매니폴드 (1 carb)
+!v8_kolektordolotowy_2x4 = 흡기 매니폴드 (2 carb)
+!v8_kolo_pasowe_walu = 크랭크샤프트 풀리 (V8)
+!v8_kolo_pasowe_walu_stare = 크랭크샤프트 풀리 (V8 OHV)
+!v8_kolo_zamachowe = 플라이휠
+!v8_lancuch_stary = 타이밍 체인 (V8 OHV)
+!v8_miska_olejowa = 오일 팬 (V8)
+!v8_miska_olejowa_stara = 오일 팬 (V8 OHV)
+!v8_napinacz = 벨트 죔쇠
+!v8_pasek_stary_1 = 서펀틴 벨트 A (V8 OHV)
+!v8_pasek_stary_2 = 서펀틴 벨트 B (V8 OHV)
+!v8_pasek1 = 서펀틴 벨트 A (V8)
+!v8_pasek2b = 서펀틴 벨트 B (V8)
+!v8_pasek3 = 타이멩 벨트 (V8)
+!v8_pokrywa_glowicy_stara_1 = 엔진 헤드 덮개 A (V8 OHV)
+!v8_pokrywa_glowicy_stara_2 = 엔진 헤드 덮개 B (V8 OHV)
+!v8_pokrywa_glowicy1 = 엔진 헤드 덮개 A (V8)
+!v8_pokrywa_glowicy2 = 엔진 헤드 덮개 B (V8)
+!v8_pokrywa_swiec = 코일 덮개 (V8)
+!v8_pompa_wody = 워터 펌프 (V8)
+!v8_pompaWody_stara = 워터 펌프 (V8 OHV)
+!v8_popychacz = 밸브 밀대
+!v8_przepustnica = 스로틀 (V8)
+!v8_rolkaWalka_stara = 캠 기어 (V8 OHV)
+!v8_rozrusznik_1 = 시동장치 (V8)
+!v8_rozrzad_oslona = 타이밍 덮개 (V8)
+!v8_rozrzad_oslona_stara = 타이밍 덮개 (V8 OHV)
+!v8_walek_rozrzadu = 캠샤프트 (V8)
+!v8_walek_stary = 캠샤프트 (V8 OHV)
+!v8_walKorbowy_stary = 크랭크샤프트 (V8 OHV)
+!w_katalizator = 촉매 컨버터
+!w_r4_poczatkowy = 전면 배기 구간
+!w_r4_poczatkowy_wzdluzny = 전면 배기 구간 (I4 SOHC)
+!w_r4_turbo_poczatkowy = 전면 배기 구간 (TURBO)
+!w_ruraLaczaca = 배기 파이프
+!w_tlumik_koncowy = 후면 배기통 (I4)
+!w_tlumik_srodkowy_B = 중앙 배기통
+!w_tlumik_wzdluzny = 후면 배기통
+!w_v8_koncowy = 후면 배기통 (V8)
+!w_v8_koncowy_stary = 후면 배기통 (V8 OHV)
+!w_v8_poczatkowy = 전면 배기 파이프 (V8)
+!w_v8_poczatkowy_stary = 전면 배기 파이프 (V8 OHV)
+!wahaczDlugiTyl_1 = 후면 서스펜션 암
+!wahaczDol_double = 최하단 서스펜션 암
+!wahaczDolny_1 = 하단 서스펜션 암
+!wahaczGora_double = 상단 서스펜션 암
+!wahaczKrotkiTyl_1 = 후면 서스펜션 어퍼 암
+!wahaczMost_1 = 솔리드-액슬 컨트롤 암
+!wahaczTyl_1 = 후면 서스펜션 암 A
+!wahaczTyl_2 = 후면 서스펜션 암 B
+!walKorbowy_1 = 크랭크샤프트 (V8)
+!walKorbowy_2 = 크랭크샤프트 (I4)
+!walNapedowy_1 = 드라이브 샤프트
+!wentylator_1 = 라디에이터 팬
+!wentylator_2 = 라디에이터 팬 (V8 OHV)
+!zaciskHamulcowy_1 = 브레이크 칼리퍼
+!zaslepkaZwrotnicaTyl_1 = 휠 허브 뚜껑
+!zwrotnicaPrzod_1 = 전면 스티어링 너클 A
+!zwrotnicaPrzod_double = 전면 스티어링 너클 B
+!zwrotnicaTyl_1 = 후면 액슬 너클 하우징 A
+!zwrotnicaTylBeben_1 = 후면 액슬 너클 하우징 B
+!zwrotnicaTylSztywna_1 = 후면 액슬 너클 하우징 C
+!filtr_paliwa_1 = 연료 필터
+!cewkaZaplonowa_1 = 점화 코일 B
+
+// -------------------------------------------------bench
+
+BenchName = 벤치
+
+!bench_FMW_Panther = ^BenchName 표범
+!bench_FMW_Panther_leather1 = ^BenchName 표범 가죽 1
+!bench_FMW_Panther_leather2 = ^BenchName 표범 가죽 2
+!bench_bandit = ^BenchName 밴딧
+!bench_bianco = ^BenchName 비앙코
+!bench_bianco_leather1 = ^BenchName 비앙코 가죽 1
+!bench_bianco_leather2 = ^BenchName 비앙코 가죽 2
+!bench_bowen1 = ^BenchName 보웬 전면
+!bench_bowen2 = ^BenchName 보웬 후면
+!bench_cape1 = ^BenchName 케이프 전면
+!bench_cape2 = ^BenchName 케이프 후면
+!bench_chapman1 = ^BenchName 채프먼 전면
+!bench_chapman2 = ^BenchName 채프먼 후면
+!bench_charger = ^BenchName 차져
+!bench_continental = ^BenchName 콘티넨탈
+!bench_continental_leather1 = ^BenchName 콘티넨탈 가죽 1
+!bench_continental_leather2 = ^BenchName 콘티넨탈 가죽 2
+!bench_crown = ^BenchName 크라운
+!bench_crown_leather1 = ^BenchName 크라운 가죽 1
+!bench_crown_leather2 = ^BenchName 크라운 가죽 2
+!bench_cuda = ^BenchName 쿠다
+!bench_cuda_leather1 = ^BenchName 쿠다 가죽 1
+!bench_cuda_leather2 = ^BenchName 쿠다 가죽 1
+!bench_custom = ^BenchName 커스텀
+!bench_custom_leather1 = ^BenchName 커스텀 가죽 1
+!bench_custom_leather2 = ^BenchName 커스텀 가죽 2
+!bench_earthquake = ^BenchName 어스퀘이크
+!bench_earthquake_leather1 = ^BenchName 어스퀘이크 가죽 1
+!bench_earthquake_leather2 = ^BenchName 어스퀘이크 가죽 2
+!bench_earthquake_rex = ^BenchName 어스퀘이크 렉스
+!bench_earthquake_rex_leather1 = ^BenchName 어스퀘이크 렉스 가죽 1
+!bench_earthquake_rex_leather2 = ^BenchName 어스퀘이크 렉스 가죽 2
+!bench_fastback = ^BenchName 패스트백
+!bench_fastback_leather1 = ^BenchName 패스트백 가죽 1
+!bench_fastback_leather2 = ^BenchName 패스트백 가죽 2
+!bench_flamo = ^BenchName 플라모
+!bench_flamo_leather1 = ^BenchName 플라모 가죽 1
+!bench_flamo_leather2 = ^BenchName 플라모 가죽 2
+!bench_grand_club = ^BenchName 그랜드 클럽
+!bench_grand_club_leather1 = ^BenchName 그랜드 클럽 가죽 1
+!bench_grand_club_leather2 = ^BenchName 그랜드 클럽 가죽 2
+!bench_hellcat = ^BenchName 헬캣
+!bench_hellcat_leather1 = ^BenchName 헬캣 가죽 1
+!bench_hellcat_leather2 = ^BenchName 헬캣 가죽 1
+!bench_imperator = ^BenchName 대장군
+!bench_imperator_leather1 = ^BenchName 대장군 가죽 1
+!bench_imperator_leather2 = ^BenchName 대장군 가죽 2
+!bench_katsumoto = ^BenchName 카츠모토
+!bench_katsumoto_leather1 = ^BenchName 카츠모토 가죽 1
+!bench_katsumoto_leather2 = ^BenchName 카츠모토 가죽 2
+!bench_kieran = ^BenchName 키어런
+!bench_kieran_leather1 = ^BenchName 키어런 가죽 1
+!bench_kieran_leather2 = ^BenchName 키어런 가죽 2
+!bench_lotz = ^BenchName 로츠
+!bench_magnum = ^BenchName 매그넘 가죽
+!bench_magnum_leather1 = ^BenchName 매그넘 가죽 1
+!bench_magnum_leather2 = ^BenchName 매그넘 가죽 2
+!bench_mayenm6 = ^BenchName M6
+!bench_mayenm6_leather1 = ^BenchName M6 가죽 1
+!bench_mayenm6_leather2 = ^BenchName M6 가죽 2
+!bench_mayenm8 = ^BenchName M8
+!bench_mayenm8_leather1 = ^BenchName M8 가죽 1
+!bench_mayenm8_leather2 = ^BenchName M8 가죽 2
+!bench_mojave = ^BenchName 모하비
+!bench_mojave_leather1 = ^BenchName 모하비 가죽 1
+!bench_mojave_leather2 = ^BenchName 모하비 가죽 2
+!bench_moon = ^BenchName 달빛
+!bench_moon_leather1 = ^BenchName 달빛 가죽 1
+!bench_moon_leather2 = ^BenchName 달빛 가죽 2
+!bench_quattroporte = ^BenchName 콰트로포르테
+!bench_rinopiccolo = ^BenchName 피콜로
+!bench_rinopiccolo_leather1 = ^BenchName 피콜로 가죽 1
+!bench_rinopiccolo_leather2 = ^BenchName 피콜로 가죽 2
+!bench_roadrunner = ^BenchName 로드러너
+!bench_rollett = ^BenchName 롤렛 가죽 1
+!bench_rx-3 = ^BenchName RX-3 가죽 1
+!bench_rx-7 = ^BenchName RX-7 가죽 1
+!bench_sebring = ^BenchName 세브링
+!bench_sebring_leather1 = ^BenchName 세브링 가죽 1
+!bench_sebring_leather2 = ^BenchName 세브링 가죽 2
+!bench_sec = ^BenchName Sec
+!bench_sec_leather1 = ^BenchName Sec 가죽 1
+!bench_sec_leather2 = ^BenchName Sec 가죽 2
+!bench_seriesT = ^BenchName T 시리즈
+!bench_seriesT_leather1 = ^BenchName T Series 가죽 1
+!bench_seriesT_leather2 = ^BenchName T Series 가죽 2
+!bench_spectre = ^BenchName 스펙터
+!bench_spectre_leather1 = ^BenchName 스펙터 가죽 1
+!bench_spectre_leather2 = ^BenchName 스펙터 가죽 2
+!bench_stradale = ^BenchName 스트라달
+!bench_tbx = ^BenchName TBX
+!bench_urs = ^BenchName Urs
+!bench_urs_leather1 = ^BenchName Urs 가죽 1
+!bench_urs_leather2 = ^BenchName Urs 가죽 2
+!bench_avalanche = ^BenchName 아발란체
+!bench_jeepwillys = ^BenchName 지프 윌리
+!bench_m3 = ^BenchName M3
+
+//------------------------------------------------- seats
+
+SeatName = 좌석
+
+!seat_1_fabric1 = ^SeatName 1 천 A
+!seat_1_fabric2 = ^SeatName 1 천 B
+!seat_1_leather1 = ^SeatName 1 가죽 A
+!seat_1_leather2 = ^SeatName 1 가죽 B
+!seat_1_leather3 = ^SeatName 1 가죽 C
+!seat_1_leather4 = ^SeatName 1 가죽 D
+
+!seat_2_fabric1 = ^SeatName 2 천 A
+!seat_2_fabric2 = ^SeatName 2 천 B
+!seat_2_leather1 = ^SeatName 2 가죽 A
+!seat_2_leather2 = ^SeatName 2 가죽 B
+!seat_2_leather3 = ^SeatName 2 가죽 C
+!seat_2_leather4 = ^SeatName 2 가죽 D
+
+!seat_3_fabric1 = ^SeatName 3 천 A
+!seat_3_fabric2 = ^SeatName 3 천 B
+!seat_3_leather1 = ^SeatName 3 가죽 A
+!seat_3_leather2 = ^SeatName 3 가죽 B
+!seat_3_leather3 = ^SeatName 3 가죽 C
+!seat_3_leather4 = ^SeatName 3 가죽 D
+
+!seat_4_fabric1 = ^SeatName 4 천 A
+!seat_4_fabric2 = ^SeatName 4 천 B
+!seat_4_leather1 = ^SeatName 4 가죽 A
+!seat_4_leather2 = ^SeatName 4 가죽 B
+!seat_4_leather3 = ^SeatName 4 가죽 C
+!seat_4_leather4 = ^SeatName 4 가죽 D
+
+!seat_5_fabric1 = ^SeatName 5 천 A
+!seat_5_fabric2 = ^SeatName 5 천 B
+!seat_5_leather1 = ^SeatName 5 가죽 A
+!seat_5_leather2 = ^SeatName 5 가죽 B
+!seat_5_leather3 = ^SeatName 5 가죽 C
+!seat_5_leather4 = ^SeatName 5 가죽 D
+
+!seat_6_fabric1 = ^SeatName 6 천 A
+!seat_6_fabric2 = ^SeatName 6 천 B
+!seat_6_leather1 = ^SeatName 6 가죽 A
+!seat_6_leather2 = ^SeatName 6 가죽 B
+!seat_6_leather3 = ^SeatName 6 가죽 C
+!seat_6_leather4 = ^SeatName 6 가죽 D
+
+!seat_7_fabric1 = ^SeatName 7 천 A
+!seat_7_fabric2 = ^SeatName 7 천 B
+!seat_7_leather1 = ^SeatName 7 가죽 A
+!seat_7_leather2 = ^SeatName 7 가죽 B
+!seat_7_leather3 = ^SeatName 7 가죽 C
+!seat_7_leather4 = ^SeatName 7 가죽 D
+
+!seat_8_fabric1 = ^SeatName 8 천 A
+!seat_8_fabric2 = ^SeatName 8 천 B
+!seat_8_leather1 = ^SeatName 8 가죽 A
+!seat_8_leather2 = ^SeatName 8 가죽 B
+!seat_8_leather3 = ^SeatName 8 가죽 C
+!seat_8_leather4 = ^SeatName 8 가죽 D
+
+!seat_9_fabric1 = ^SeatName 9 천 A
+!seat_9_fabric2 = ^SeatName 9 천 B
+!seat_9_leather1 = ^SeatName 9 가죽 A
+!seat_9_leather2 = ^SeatName 9 가죽 B
+!seat_9_leather3 = ^SeatName 9 가죽 C
+!seat_9_leather4 = ^SeatName 9 가죽 D
+
+!seat_10_fabric1 = ^SeatName 10 천 A
+!seat_10_fabric2 = ^SeatName 10 천 B
+!seat_10_leather1 = ^SeatName 10 가죽 A
+!seat_10_leather2 = ^SeatName 10 가죽 B
+!seat_10_leather3 = ^SeatName 10 가죽 C
+!seat_10_leather4 = ^SeatName 10 가죽 D
+
+!seat_11_fabric1 = ^SeatName 11 천 A
+!seat_11_fabric2 = ^SeatName 11 천 B
+!seat_11_leather1 = ^SeatName 11 가죽 A
+!seat_11_leather2 = ^SeatName 11 가죽 B
+!seat_11_leather3 = ^SeatName 11 가죽 C
+!seat_11_leather4 = ^SeatName 11 가죽 D
+
+!seat_atlanta = ^SeatName 아틀란타
+!seat_continental = ^SeatName 컨티넨탈 GT
+!seat_cuda = ^SeatName 쿠다
+!seat_delorean = ^SeatName 들로리안
+!seat_gullwing = ^SeatName 걸윙
+!seat_quattroporte = ^SeatName 콰트로포르테
+!seat_rx3 = ^SeatName RX3
+!seat_rx7 = ^SeatName RX7
+!seat_sebring = ^SeatName 세브링
+!seat_sec = ^SeatName Sec
+!seat_seriesT = ^SeatName T 시리즈
+!seat_stradale = ^SeatName 스트라데일
+!seat_willys = ^SeatName 윌리
+!seat_bandit = ^SeatName 밴딧
+!seat_typhoon = ^SeatName 타이푼
+!seat_reptiliar2 = ^SeatName 렙틸리아 R2
+!seat_lotz = ^SeatName 로츠
+!seat_rollett = ^SeatName 롤렛
+!seat_tbx = ^SeatName TBX
+!seat_charger = ^SeatName 차져
+!seat_avalanche = ^SeatName 아발란체
+!seat_m3 = ^SeatName M3
+
+//------------------------------------------------- steering wheels
+
+SteeringWheelName = 스티어링 휠
+!steering_wheel1 = ^SteeringWheelName 1
+!steering_wheel10 = ^SteeringWheelName 10
+!steering_wheel11 = ^SteeringWheelName 11
+!steering_wheel12 = ^SteeringWheelName 12
+!steering_wheel13 = ^SteeringWheelName 13
+!steering_wheel14 = ^SteeringWheelName 14
+!steering_wheel15 = ^SteeringWheelName 15
+!steering_wheel16 = ^SteeringWheelName 16
+!steering_wheel17 = ^SteeringWheelName 17
+!steering_wheel2 = ^SteeringWheelName 2
+!steering_wheel3 = ^SteeringWheelName 3
+!steering_wheel4 = ^SteeringWheelName 4
+!steering_wheel5 = ^SteeringWheelName 5
+!steering_wheel6 = ^SteeringWheelName 6
+!steering_wheel7 = ^SteeringWheelName 7
+!steering_wheel8 = ^SteeringWheelName 8
+!steering_wheel9 = ^SteeringWheelName 9
+!steering_wheel_old1 = ^SteeringWheelName 18
+
+!steering_wheel_atlanta = ^SteeringWheelName 아틀란타
+!steering_wheel_bowen = ^SteeringWheelName 보웬
+!steering_wheel_cape = ^SteeringWheelName 케이프
+!steering_wheel_chapman = ^SteeringWheelName 채프먼
+!steering_wheel_continental = ^SteeringWheelName 컨티넨탈
+!steering_wheel_cuda = ^SteeringWheelName 쿠다
+!steering_wheel_delorean = ^SteeringWheelName 들로리안
+!steering_wheel_delorean2 = ^SteeringWheelName 들로리안 2
+!steering_wheel_gullwing = ^SteeringWheelName 걸윙
+!steering_wheel_lotz = ^SteeringWheelName 로츠
+!steering_wheel_quattroporte = ^SteeringWheelName 콰트로포르테
+!steering_wheel_reptiliar2 = ^SteeringWheelName 레틸리아 R2
+!steering_wheel_rx3 = ^SteeringWheelName RX3
+!steering_wheel_rx7 = ^SteeringWheelName RX7
+!steering_wheel_sebring = ^SteeringWheelName 세브링
+!steering_wheel_sec = ^SteeringWheelName Sec
+!steering_wheel_seriesT = ^SteeringWheelName T 시리즈
+!steering_wheel_stradale = ^SteeringWheelName 스트라데일
+!steering_wheel_tbx = ^SteeringWheelName TBX
+!steering_wheel_typhoon = ^SteeringWheelName 타이푼
+!steering_wheel_rollett = ^SteeringWheelName 롤렛
+!steering_wheel_bandit = ^SteeringWheelName 밴딧
+!steering_wheel_charger = ^SteeringWheelName 차져
+!steering_wheel_m3 = ^SteeringWheelName M3
+
+//------------------------------------------------- rims
+
+RimName = 림
+
+!rim_2 = ^RimName 클래식 01
+!rim_3 = ^RimName 클래식 02
+!rim_4 = ^RimName 레트로 01
+!rim_5 = ^RimName 레트로 02
+!rim_6 = ^RimName 클래식 03
+!rim_7 = ^RimName 클래식 04
+!rim_8 = ^RimName 클래식 05
+!rim_10 = ^RimName 모던 01
+!rim_11 = ^RimName 레트로 03
+!rim_12 = ^RimName 레트로 04
+!rim_13 = ^RimName 레트로 05
+!rim_14 = ^RimName 클래식 06
+!rim_15 = ^RimName 레트로 06
+!rim_16 = ^RimName 클래식 07
+!rim_17 = ^RimName 기본 01
+!rim_18 = ^RimName 기본 02
+!rim_19 = ^RimName 클래식 08
+!rim_20 = ^RimName 레트로 07
+!rim_21 = ^RimName 레트로 08
+!rim_22 = ^RimName 클래식 09
+!rim_23 = ^RimName 클래식 10
+!rim_24 = ^RimName 레트로 09
+!rim_25 = ^RimName 레트로 10
+!rim_26 = ^RimName 레트로 11
+!rim_31 = ^RimName 레트로 12
+!rim_32 = ^RimName 레트로 13
+!rim_33 = ^RimName 모던 02
+!rim_34 = ^RimName 모던 03
+!rim_35 = ^RimName 클래식 11
+!rim_36 = ^RimName 클래식 12
+!rim_37 = ^RimName 클래식 13
+!rim_38 = ^RimName 모던 04
+!rim_39 = ^RimName 클래식 14
+!rim_40 = ^RimName 모던 05
+!rim_41 = ^RimName 클래식 15
+!rim_42 = ^RimName 클래식 16
+!rim_43 = ^RimName 클래식 17
+!rim_44 = ^RimName 클래식 18
+!rim_45 = ^RimName 클래식 19
+!rim_46 = ^RimName 모던 06
+!rim_100 = ^RimName 클래식 20
+!rim_101 = ^RimName 모던 07
+!rim_102 = ^RimName 모던 08
+!rim_103 = ^RimName 모던 09
+!rim_104 = ^RimName 모던 10
+
+!rim_roadrunner = ^RimName 로드러너
+!rim_willys = ^RimName 지프 윌리
+!rim_grand_cherokee = ^RimName 지프 그랜드 체로키
+!rim_bentley_continentalB = ^RimName 벤틀리 컨티넨탈
+!rim_rx7_1 = ^RimName 마쯔다 RX7 A
+!rim_rx7_2 = ^RimName 마쯔다 RX7 B
+!rim_atlanta = ^RimName 아틀란타
+!rim_bowen = ^RimName 보웬
+!rim_cape = ^RimName 케이프
+!rim_typhoon = ^RimName 타이푼
+!rim_chapman = ^RimName 채프먼
+!rim_reptiliar2 = ^RimName 레틸리다 R2
+!rim_lotz = ^RimName 로츠
+!rim_tbx = ^RimName TBX
+!rim_rollett = ^RimName 롤렛
+!rim_avalanche = ^RimName 아발란체
+!rim_gullwing = ^RimName 300 SL
+!rim_sec = ^RimName 560 SEC
+
+!rim_25B = ^!rim_25 B
+!rim_5B = ^!rim_5 B
+!rim_11B = ^!rim_11 B
+!rim_20B = ^!rim_20 B
+!rim_43B = ^!rim_43 B
+!rim_33B = ^!rim_33 B
+!rim_25P = ^!rim_25 B
+!rim_4B = ^!rim_4 B
+!rim_37B = ^!rim_37 B
+!rim_34B = ^!rim_34 B
+!rim_34C = ^!rim_34 C
+!rim_35B = ^!rim_35 B
+!rim_36B = ^!rim_36 B
+!rim_38B = ^!rim_38 B
+!rim_44B = ^!rim_44 B
+!rim_45B = ^!rim_45 B
+!rim_46B = ^!rim_46 B
+!rim_46C = ^!rim_46 C
+!rim_11C = ^!rim_11 C
+!rim_22C = ^!rim_22 C
+
+//---------------------------------------------- dodane dlc maluch
+!kaszlak_zwrotnicaPrzod_1 = 전면 스니어링 너클 (Maluch)
+!kaszlak_drazekKierowniczy_1 = 안쪽 타이 로드 (Maluch)
+!kaszlak_drazekBoczny_1 = 바깥쪽 타이 로드 (Maluch)
+!kaszlak_ramionaWahaczaPrzod_1 = 전면 서스펜션 암 (Maluch)
+!kaszlak_szczeki_1 = 브레이크 슈 (Maluch)
+!kaszlak_gumowyPrzod_1 = 전면 고무 버퍼 (Maluch)
+!kaszlak_pierscienGumowy_1 = 고무 링 버퍼 (Maluch)
+!kaszlak_piastaPrzod_1 = 전면 휠 허브 (Maluch)
+!kaszlak_polos_2 = 후면 구동축 (Maluch)
+!kaszlak_amortyzatorTyl_1 = 후면 충격 흡수 장치 (Maluch)
+!kaszlak_cylinderek_1 = 드럼 휠 실린더 (Maluch)
+!kaszlak_gumowyTyl_1 = 후면 고무 버퍼 (Maluch)
+!kaszlak_sworzenWahaczaPrzod_1 = 전면 너클 핀 (Maluch)
+!kaszlak_wahaczTyl_1 = 후면 서스펜션 암 (Maluch)
+!kaszlak_resory_1 = 용수철 (Maluch)
+!kaszlak_przekladnia_1 = 스티어링 랙 (Maluch)
+!kaszlak_tarczaTyl_1 = 후면 너클 디스크 (Maluch)
+!kaszlak_obejmaElastyczna_1 = 플렉서블 클램프 (Maluch)
+!kaszlak_gniazdoPierscienia_1 = 링 버퍼 소켓 (Maluch)
+!kaszlak_bebenPrzod_1 = 전면 브레이크 드럼 (Maluch)
+!kaszlak_dekielek_1 = 뚜껑 (Maluch)
+!kaszlak_babenTyl_1 = 후면 브레이크 드럼 (Maluch)
+!kaszlak_wspornikWahacza_1 = 서포트 브라켓 (Maluch)
+!kaszlak_sprezyna_1 = 스프링 (Maluch)
+!kaszlak_tulejkaMala_1 = 작은 고무 부시 (Maluch)
+!kaszlak_przegubPolosi_1 = 구동축 조인트 (Maluch)
+!kaszlak_amortyzatorPrzod_1 = 전면 충격 흡수 장치 (Maluch)
+!kaszlak_tuleja_1 = 고무 부시 (Maluch)
+!kaszlak_piastaTyl_1 = 후면 휠 허브 (Maluch)
+!kaszlak_lozysko_1 = 휠 허브 베어링 (Maluch)
+!kaszlak_klips_1 = 클립 (Maluch)
+!kaszlak_cylinder_1 = 실린더 (Maluch)
+!kaszlak_lancuch_1 = 타이밍 체인 (Maluch)
+!kaszlak_oslonaKolaZamachowego_1 = 플라이휠 덮개 (Maluch)
+!kaszlak_tlok_1 = 연결봉 리스트 (Maluch)
+!kaszlak_walKorbowy_1 = 크랭크샤프트 (Maluch)
+!kaszlak_tarczaSprzegla_1 = 클려치 판 (Maluch)
+!kaszlak_cewkaZaplonowa_1 = 점화 코일 (Maluch)
+!kaszlak_wydech_1 = 배기통 (Maluch)
+!kaszlak_palecRozdzielacza_1 = 점화 배전기 회전자 (Maluch)
+!kaszlak_walRozrzadu_1 = 캠샤프트 (Maluch)
+!kaszlak_ruraCieplegoPowietrza_1 = 열기 파이프 (Maluch)
+!kaszlak_swieca_1 = 점화 플러그 (Maluch)
+!kaszlak_ruraDmuchawy_1 = 냉기 파이프 (Maluch)
+!kaszlak_pokrywaRozrzadu_1 = 타이밍 덮개 (Maluch)
+!kaszlak_rozrusznik_1 = 시동장치 (Maluch)
+!kaszlak_rozdzielaczZaplonu_1 = 점화 배전기 (Maluch)
+!kaszlak_pompaPaliwa_1 = 연료 펌프 (Maluch)
+!kaszlak_przewodOlejGlowica_1 = 오일 튜브 (Maluch)
+!kaszlak_popychacz_1 = 밸브 밀대 (Maluch)
+!kaszlak_pokyrwaKolaPasowego_1 = 원심력 오일 필터 (Maluch)
+!kaszlak_pokrywaGlowicy_1 = 엔진 헤드 덮개 (Maluch)
+!kaszlak_pokrywaFiltra_1 = 공기 필터 덮개 (Maluch)
+!kaszlak_pasek_1 = 서펀틴 벨트 (Maluch)
+!kaszlak_panewkaGlownaTylna_1 = 후면 크랭크샤프트 베어링 (Maluch)
+!kaszlak_panewkaGlownaPrzednia_1 = 전면 크랭크샤프트 베어링 (Maluch)
+!kaszlak_oslonaPrzewodu_1 = 오일 튜브 덮개 (Maluch)
+!kaszlak_oslonaPopychacza_1 = 밸브 밀대 덮개 (Maluch)
+!kaszlak_obudowaWentylatoraTyl_1 = 후면 팬 덮개 (Maluch)
+!kaszlak_obudowaWentylatoraPokrywa_1 = 상단 팬 덮개 (Maluch)
+!kaszlak_obudowaTermostatu_1 = 서모스탯 덮개 (Maluch)
+!kaszlak_korekOleju_1 = 오일 급유 플러그 (Maluch)
+!kaszlak_obudowaWentylatoraPrzod_1 = 전면 팬 덮개 (Maluch)
+!kaszlak_lozyskoDociskowe_1 = 클러치 해제 베어링 (Maluch)
+!kaszlak_miskaOlejowa_1 = 오일 팬 (Maluch)
+!kaszlak_kopulkaRozdzielacza_1 = 점화 배전기 뚜껑 (Maluch)
+!kaszlak_koloRozrzaduMale_1 = 작은 캠 기어 (Maluch)
+!kaszlak_koloZamachowe_1 = 플라이휠 (Maluch)
+!kaszlak_koloRozrzaduDuze_1 = 캠 기어 (Maluch)
+!kaszlak_koloPasowe_1 = 크랭크샤프트 풀리 (Maluch)
+!kaszlak_kolektorWydechowy_1 = 배기 매니폴드 (Maluch)
+!kaszlak_kolankoLaczace_1 = 카뷰레터 엘보우 (Maluch)
+!kaszlak_kable_1 = 점화 케이블 (Maluch)
+!kaszlak_glowica_1 = 엔진 헤드 (Maluch)
+!kaszlak_gaznik_1 = 카뷰레터 (Maluch)
+!kaszlak_gearbox_1 = 기어박스 (Maluch)
+!kaszlak_filtrPowietrza_1 = 공기 필터 (Maluch)
+!kaszlak_dzwignieZaworu_1 = 록커 암 (Maluch)
+!kaszlak_dociskSprzegla_1 = 클러치 압력판 (Maluch)
+!kaszlak_blok_1 = 엔진 블록 (Maluch)
+!kaszlak_bak_1 = 연료 탱크 (Maluch)
+!kaszlak_bagnet_1 = 오일 계량봉 (Maluch)
+!kaszlak_alternator_1 = 제네레이터 (Maluch)
+!kaszlak_pompaHamulcowa_1 = 브레이크 펌프 (Maluch)
+!kaszlak_filtr_paliwa_1 = 연료 필터 (Maluch)
+!kaszlak_rim_1 = 림 Maluch
+
+!mostPrzedni_1 = 전면 구동축 D
+!walNapedowy_2 = 전면 드라이블 샤프트 B
+!skrzyniaRozdzielcza_1 = 트랜스퍼 케이스 (4x4)
+!w_v8_poczatkowy_2 = 전면 배기 파이프 B (V8)
+!v8_pokrywa_glowicy1B = 엔진 헤드 덮개 A 블랙 (V8)
+!v8_pokrywa_glowicy2B = 엔진 헤드 덮개 B 블랙 (V8)
+!r6_wal_korbowy = 크랭크샤프트 (I6)
+!r6_blok = 엔진 블록 (I6)
+!r6_kopulkaRozdzielacza = 점화 배전기 뚜껑 (I6)
+!r6_miska_olejowa = 오일 팬 (I6)
+!r6_kable = 점화 케이블 (I6)
+!r6_glowica_dohc = 엔진 헤드 (I6)
+!r6_glowica_dohc_wkladka = 캠샤프트 뚜껑 (I6)
+!r6_walek_rozrzadu = 캠샤프트 (I6)
+!r6_rolkaWalka = 캠 기어 (I6)
+!r6_gaznik_plaski = 카뷰레터 (2-배럴 사이드 드래프트)
+!r6_filtr = 원형 공기 필터 (사이드 드래프트)
+!r6_kolektor_wydechowy = 배기 매니폴드 (I6)
+!r6_rolkaLancucha = 타이밍 체인 스프로켓 (I6)
+!r6_lancuch = 타이밍 체인 (I6)
+!r6_pompaWody = 워터 펌프 (I6)
+!r6_oslona_rozrzadu = 타이밍 덮개 (I6)
+!r6_kolo_pasowe_walu = 크랭크샤프트 풀리 (I6)
+!r6_pasek_1 = 서펀틴 벨트 A (I6)
+!r6_pasek_2 = 서펀틴 벨트 B (I6)
+!r6_filtr_oleju = 오일 필터 (I6)
+!r6_pokrywa_glowicy = 엔진 헤드 덮개 (I6)
+!r6_wydech_poczatkowy = 전면 배기 구간 (I6)
+!sankiPrzod_4 = ^!sankiPrzod_1 C
+!stabilizatorPrzod_2 = 전면 스웨이 바 B
+!zwrotnicaPrzod_double3 = 전면 스티어링 너클 C
+!r6_2_kolektor_dolotowy = 흡입 매니폴드 (300SL)
+!r6_2_wtrysku_walek = 기계 연료 주입 드라이버
+!r6_2_glowica = 실린더 헤드 (300SL)
+!r6_2_kolektor_wydechowy_oslona = 배기 매니폴드 덮개 (300SL)
+!r6_2_glowica_wkladka = 캠샤프트 베어링
+!r6_2_wtrysk = 기계식 연료 주입 (300SL)
+!r6_2_pokrywa_glowicy = 실린더 헤드 덮개 (300SL)
+!r6_2_lancuch = 타이밍 체인 (300SL)
+!r6_2_dzwignia_zaworu = 록커 암 (300SL)
+!r6_2_walek_rozrzadu = 캠샤프트 (300SL)
+!r6_2_blok = 엔진 블록 (300SL)
+!r6_2_przepustnica = 스로틀 (300SL)
+!r6_2_kable = 점화 케이블 (300SL)
+!r6_2_oslonaRozrzadu = 타이밍 덮개 (300SL)
+!r6_2_kolektor_wydechowy = 배기 매니폴드 (300SL)
+!r6_2_miska_olejowa = 오일 팬 (300SL)
+!w_r6_2_koncowy = 후면 배기통 (300SL)
+!w_r6_2_poczatkowy = 전면 배기 구간 (300SL)
+!w_r6_2_ruraLaczaca = 중앙 배기 파이프 (300SL)
+!wentylator_3 = 라디에이터 팬 B
+!v8_2_lancuch = 타이밍 체인 (560SEC)
+!v8_2_walKorbowy = 크랭크샤프트 (560SEC)
+!v8_2_filtr_sec_gora = 원형 공기 필터 덮개 (560SEC)
+!v8_2_kable = 점화 케이블 (560SEC)
+!v8_2_rolkaLancucha = 타이밍 체인 스프로켓 (560SEC)
+!v8_2_pokrywa_dystrybutora = 점화 배전기 덮개 (560SEC)
+!v8_2_filtr_sec_srodek = 원형 공기 필터 (560SEC)
+!v8_2_walekdystrybutora = 점화 배전기 캠샤프트 (560SEC)
+!v8_2_rozrzad_oslona = 타이밍 덮개 (560SEC)
+!v8_2_rolkaWalka = 캠 기어 (560SEC)
+!v8_2_pokrywa_glowicy_2 = 실린더 헤드 덮개 B (560SEC)
+!v8_2_przeplywomierz = 공기 흐름 센서 (560SEC)
+!v8_2_kolektordolotowy = 흡입 매니폴드 (560SEC)
+!v8_2_filtr_sec_dol = 원형 공기 필터 베이스 (560SEC)
+!v8_2_glowica = 실린더 헤드 (560SEC)
+!v8_2_blok = 엔진 블록 (560SEC)
+!v8_2_wtrysk = 기계식 연료 주입 (560SEC)
+!v8_2_walek_rozrzadu = 캠샤프트 (560SEC)
+!v8_2_pokrywa_glowicy_1 = 실린더 헤드 덮개 A (560SEC)
+!w_v8_2_koncowy = 후면 배기통 (560SEC)
+!w_v8_2_tlumik_srodkowy = 중앙 배기 파이프 (560SEC)
+!w_v8_2_rezonator = 배기 공명기 (560SEC)
+!v8_supercharger_stary = 과급기 (V8 OHV)
+!v8_supercharger_kolektor_dolotowy_stary = 과급기 흡입 매니폴드 (V8 OHV)
+!v8_supercharger_pasek_stary = 과급기 서펀틴 벨트 (V8 OHV)
+!v8_supercharger_pasek2b = 과급기 서펀틴 벨트 (V8)
+!v8_supercharger_kolektor_dolotowy = 과급기 흡밉 매니폴드 (V8)
+!v8_supercharger = 과급기 (V8)
+!rolka_pompy_wody_supercharger = 과급기 워터 펌프 풀리 (V8 OHV)
+!v8_filtr_1 = 공기 흡입 필터 (V8 OHV)
+!v8_scoop_1 = 공기 흡입구 (V8 OHV)
+!stradale_kolektor = 흡입 매니폴드 (스트라데일)
+!stradale_obudowaFiltra_dol = 공기 필터 베이스 (스트라데일)
+!stradale_obudowaFiltra_gora = 공기 필터 덮개 (스트라데일)
+!stradale_pokrywa_glowicy1 = 엔진 헤드 덮개 A (스트라데일)
+!stradale_pokrywa_glowicy2 = 엔진 헤드 덮개 B (스트라데일)
+!stradale_przepustnica = 스로틀 (스트라데일)
+!sebring_kopulkaRozdzielacza = 점화 배전기 뚜껑 (세브링)
+!sebring_wydech_poczatkowy = 전면 배기 구간 (세브링)
+!sebring_pokrywa_glowicy2 = 엔진 헤드 덮개 B (세브링)
+!sebring_pokrywa_glowicy1 = 엔진 헤드 덮개 A (세브링)
+!sebring_oslona_rozrzadu = 타이밍 덮개 (세브링)
+!sebring_lancuch = 타이밍 체인 (세브링)
+!sebring_kable = 점화 케이블 (세브링)
+!sebring_glowica = 엔진 헤드 (세브링)
+!sebring_blok = 엔진 블록 (세브링)
+!rim_maserati = 림 스트라데일
+!rim_maserati_old = 림 세브링
+!zwrotnicaPrzod_3 = 전면 스티어링 너클 D
+!w_koncowy_sebring = 후면 배기통 (세브링)
+!w_ruraLaczaca_stradale = 배기 파이프 (스트라데일)
+!stradale_tlumik_koncowy = 후면 배기통 (스트라데일)
+!delorean_rolka_pompy_wody = 워터 펌프 풀리 (V6)
+!delorean_walek_rozrzadu = 캠샤프트 (V6)
+!delorean_glowica_2 = 엔진 헤드 B (V6)
+!delorean_glowica_1 = 엔진 헤드 A (V6)
+!delorean_popychacze = 록커 암 (V6)
+!delorean_rolka_walka = 캠 기어 (V6)
+!delorean_slizg_2 = 타이밍 가이드 B (V6)
+!delorean_slizg_1 = 타이밍 가이드 A (V6)
+!delorean_lancuch_1 = 타이밍 체인 A (V6)
+!delorean_lancuch_2 = 타이밍 체인 B (V6)
+!delorean_miska_olejowa = 오일 팬 (V6)
+!delorean_pokrywa_glowicy_2 = 헤드 덮개 B (V6)
+!delorean_pokrywa_glowicy_1 = 헤드 덮개 A (V6)
+!delorean_pasek_2 = 서펀틴 벨트 B (V6)
+!delorean_walKorbowy = 크랭크샤프트 (V6)
+!delorean_filtr_srodek = 공기 필터 (V6)
+!delorean_pasek_1 = 서펀틴 벨트 C (V6)
+!delorean_gearbox = 기어박스 (V6)
+!delorean_kopulkaRozdzielacza = 점화 배전기 뚜껑 (V6)
+!delorean_filtr_dol = 공기 필터 베이스 (V6) 
+!delorean_kolo_pasowe_walu = 크랭크샤프트 풀리 (V6)
+!delorean_pokrywa_rozrzadu = 타이밍 덮개 (V6)
+!delorean_kolektor_dolotowy = 흡입 매니폴드 (V6)
+!delorean_blok = 엔진 블록 (V6)
+!delorean_filtr_gora = 공기 필터 덮개 (V6) 
+!delorean_wtrysk = 기계식 연료 주입
+!delorean_kolektor_wylotowy = 배기 매니폴드 (V6)
+!delorean_przeplywomierz = 혼합 유닛 스로틀 (V6)
+!delorean_filtr_oleju = 오일 필터 (V6) 
+!delorean_pompa_wody = 워터 펌프 (V6)
+!delorean_kable = 점화 케이블 (V6)
+!w_tlumik_koncowy_delorean = 후면 배기통 (V6)
+!wahaczDol_double_2 = 최하단 서스펜션 암 B
+!zwrotnicaTyl_double_2 = 후면 액슬 너클 하우징 D
+!polosNapedowaTylna_2 = 후면 구동축 B
+!rim_delorean = 림 들로리안
+!piastaTyl_2 = 후면 휠 허브 B
+!delorean_gearbox_v8 = 기어박스 B (V8)
+!delorean_kolektor_wydechowy_v8 = 배기 매니폴드 B (V8)
+!tire_raceplus = 레이스 타이어 플러스
+!w_koncowy_quattroporte = 후면 배기통 (콰트로포르테)
+!w_ruraLaczaca_quattroporte = 배기 파이프 (콰트로포르테)
+!v8_quattroporte_przepustnica = 스로틀 (콰트로포르테)
+!v8_quattroporte_kolektorturbo = 터보 배기 매니폴드 (콰트로포르테)
+!v8_quattroporte_kolektor = 흡입 매니폴드 (콰트로포르테)
+!v8_quattroporte_blok = 엔진 블록 (콰트로포르테)
+!rim_quattroporte = 림 콰트로포르테
+!quattroporte_pokrywa_glowicy1 = 엔진 헤드 덮개 A (콰트로포르테)
+!quattroporte_pokrywa_glowicy2 = 엔진 헤드 덮개 B (콰트로포르테)
+!w_v8_poczatkowy_stary2 = 전면 배기 구간 (T-시리즈)
+!v8_walek_stary2 = 캠샤프트 (T-시리즈)
+!v8_rozrzad_oslona_stary2 = 타이밍 덮개 (T-시리즈)
+!v8_mocowanieRolki_stary2 = 아이들러 롤러 브라켓 (T-시리즈)
+!v8_lapa_stary2 = 교류 발전기 브라켓 (T-시리즈)
+!v8_alternator_stary2 = 교류 발전기 (T-시리즈)
+!v8_pasek_1_stary2 = 서펀틴 벨트 A (T-시리즈)
+!v8_pasek_2_stary2 = 서펀틴 벨트 B (T-시리즈)
+!v8_miska_olejowa_stary2 = 오일 팬 (T-시리즈)
+!v8_kolektor_wydechowy_stary2 = 배기 매니폴드 (T-시리즈)
+!v8_pompa_wspomagania_stary2 = 파워 스티어링 펌프 (T-시리즈)
+!v8_popychacz_stary2 = 밸브 푸시 로드 (T-시리즈)
+!v8_dzwigniezaworu_stary2 = 록커 암 (T-시리즈)
+!v8_walKorbowy_stary2 = 크랭크샤프트 (T-시리즈)
+!v8_gearbox_stary2 = 기어박스 (T-시리즈)
+!v8_korekOleju_stary2 = 오일 급유 플러그 (T-시리즈)
+!v8_wtryski_stary2 = 연료 레일 (T-시리즈)
+!v8_pokrywa_glowicy_1_stary2 = 엔진 헤드 덮개 (T-시리즈)
+!v8_pokrywa_glowicy_2_stary2 = 엔진 헤드 덮개 (T-시리즈)
+!v8_blok_stary2 = 엔진 블록 (T-시리즈)
+!v8_kable_stary2 = 점화 케이블 (T-시리즈)
+!v8_pompaWody_stary2 = 워터 펌프 (T-시리즈)
+!v8_glowica_2_stary2 = 엔진 헤드 A (T-시리즈)
+!v8_glowica_1_stary2 = 엔진 헤드 B (T-시리즈)
+!v8_kolektordolotowy_stary2 = 흡입 매니폴드 (T-시리즈)
+!v8_gaznik_stary2 = 듀얼 카뷰레터 (T-시리즈)
+!v8_przepustnica_stary2 = 스로틀 (T-시리즈)
+!v8_filtrDol_stary2 = 원형 공기 필터 덮개 (T-시리즈)
+!v8_ruraFiltra_stary2 = 공기 필터 파이프 (T-시리즈)
+!v8_filtr_stary_2 = 원형 공기 필터 (T-시리즈)
+!w_w12_poczatkowy = 전면 배기 구간 (W12)
+!w_w12_koncowy = 후면 배기통 (W12)
+!w12_rolka_lancucha_rozrzadu = 타ㅣ밍 체인 스프로켓 (W12)
+!w12_filtr = 공기 필터 (W12)
+!w12_obudowaFiltra_gora_1 = 공기 필터 덮개 A (W12)
+!w12_przepustnica = 스로틀 (W12)
+!w12_walKorbowy = 크랭크샤프트 (W12)
+!w12_blok = 엔진 블록 (W12)
+!w12_lancuch_1 = 타이밍 체인 A (W12)
+!w12_walek_rozrzadu = 캠샤프트 (W12)
+!w12_pokrywaLogo = 흡입 매니폴드 덮개 (W12)
+!w12_obudowaFiltra_gora_2 = 공기 필터 덮개 B (W12)
+!w12_napinacz = 벨트 죔쇠 (W12)
+!w12_rolka_pompy_wody = 워터 펌프 풀리 (W12)
+!w12_miskaOlejowa = 오일 팬 (W12)
+!w12_pasek = 서펀틴 벨트 (W12)
+!w12_tlok = 피스톤 로드 (W12)
+!w12_glowica_wkladka = 캠샤프트 뚜껑 (W12)
+!w12_listwaWtryskowa = 연료 레일 (W12)
+!w12_termostat = 서모스탯 (W12)
+!w12_glowica = 엔진 헤드 (W12)
+!w12_gearbox = 기어박스 (W12)
+!w12_pokrywaRozrzadu = 타이밍 덮개 (W12)
+!w12_lancuch_2 = 타이밍 체인 B (W12)
+!w12_korekOleju = 오일 급유 플러그 (W12)
+!w12_rolkaWalka = 캠 기어 (W12)
+!w12_filtr_oleju = 오일 필터 (W12)
+!w12_obudowaFiltra_dol = 공기 필터 베이스 (W12)
+!w12_pokrywa_2 = 엔진 헤드 덮개 B (W12)
+!w12_kolektor_wydechowy = 배기 매니폴드 (W12)
+!w12_pompa_wody = 워터 펌프 (W12)
+!w12_kolektor_dolotowy_gorny = 흡입 매니폴드 A (W12)
+!w12_pokrywa_1 = 엔진 헤드 덮개 A (W12)
+!w12_kolektor_dolotowy_dolny = 흡입 매니폴드 B (W12)
+!w12_turbo = 터보과급기 (W12)
+!w12_kolo_zamachowe = 플라이휠 (W12)
+!rim_bentley_77 = 림 T-시리즈
+!rim_bentley_continental = 림 컨티넨탈l GT
+!polosNapedowa_7 = 전면 구동축 E
+!walNapedowy_4 = 전면 드라이브 샤프트 C
+!w12_dyferPrzod = 전면 차동장치 (W12)
+!skrzyniaRozdzielcza_2 = 트랜스퍼 케이스 (W12)
+
+//---CMS18
+
+!wentylatorChlodnicy_1 = 라디에이터 팬 하우징
+!wentylatorChlodnicy_1_fan_1 = ^!wentylatorChlodnicy_1 팬
+!wentylatorChlodnicy_2 = ^!wentylatorChlodnicy_1 B
+!wentylatorChlodnicy_2_fan_1 = ^!wentylatorChlodnicy_2 팬 1
+!wentylatorChlodnicy_2_fan_2 = ^!wentylatorChlodnicy_2 팬 2
+!tlok_1_pokrywa_stopy = 로드 뚜껑
+!tlok_1_pierscienie_1 = 피스톤 링
+!zwrotnicaPrzod_oslona_1 = 전면 액슬 너클러 덮개
+!zwrotnicaTyl_oslona_1 = 후면 액슬 너클러 덮개
+!w12_tlok_1_pierscienie_1 = 피스톤 링 (W12)
+!chlodnica_2 = 라디에이터 C
+!chlodnica_2_nakretka = 라디에이터 C 뚜껑
+
+!zaciskHamulcowy_tloczek_1 = 브레이크 캘리퍼 실린더
+!zwrotnicaPrzodBeben_1_double = 휠 허브 1
+!zwrotnicaPrzodBeben_oslona_1 = 휠 허브 2
+!zwrotnicaTyl_oslona_2 = 휠 허브 3
+!zwrotnicaTylBeben_oslona_1 = 휠 허브 4
+
+!amortyzator_double_rear = ^!amortyzator_double 후면
+!w_v8_poczatkowy_h1 = ^!w_v8_poczatkowy A
+!w_v8_poczatkowy_h2 = ^!w_v8_poczatkowy B
+!w_v8_poczatkowy_h3 = ^!w_v8_poczatkowy C
+!w_v8_poczatkowy_stary_h1 = ^!w_v8_poczatkowy_stary A
+!w_v8_poczatkowy_stary_h2 = ^!w_v8_poczatkowy_stary B
+!w_v8_poczatkowy_stary_h3 = ^!w_v8_poczatkowy_stary C
+!sankiPrzod_5 = ^!sankiPrzod_1 D
+!sankiPrzod_6 = ^!sankiPrzod_1 E
+
+//--------------------------------------------------Engines
+!engine_r4 = I4 DOHC
+!engine_r4_sohc = I4 SOHC
+!engine_r4_sohc_4x4 = I4 SOHC 4x4
+!engine_r4_sohc_wzdluzny = I4 SOHC
+!engine_r6_dohc_wzdluzny = I6 DOHC
+!engine_r4_turbo = I4 DOHC 터보차져
+!engine_v8 = V8 DOHC
+!engine_v8_stary = V8 1carb OHV
+!engine_v8_stary_2carb = V8 2carb OHV
+!engine_v8_4x4 = V8 DOHC 4x4
+!engine_r6_sohc = I6 SOHC
+!engine_v8_sec = V8 SOHC
+!engine_v8_stary_scharged = V8 2carb OHC 슈퍼차져
+!engine_v8_scharged = V8 DOHC 슈퍼차져
+!engine_v8_stradale = V8 DOHC
+!engine_r6_sebring = I6 SOHC
+!engine_v6_delorean = V6 SOHC
+!engine_v8_delorean = V8 DOHC
+!engine_w12 = W12 트윈-터보
+!engine_v8_bentley = V8 OHV
+!engine_i3 = I3 DOHC
+!engine_i4 = I4 DOHC 
+!engine_i4_4x4 = I4 DOHC 4x4
+!engine_i6_old = I6 OHV
+!engine_rot_new = ROTARY 1
+!engine_rot_old = ROTARY 2
+!engine_v6_30 = V6 DOHC
+!engine_v8zz = V8 OHV ZZ
+!engine_v12 = V12 DOHC
+!engine_v8_quattroporte = V8 트윈-터보 DOHC
+!engine_i3_turbo = I3 DOHC 터보차져
+!engine_v8_hemi = V8 OHV HEMI
+!engine_v8_sixpack = V8 OHV 6P
+!engine_v8_magnum = V8 OHV MAG
+!engine_v8_409 = V8 OHV SS
+
+//--------------------------------------------------PhotoMode
+GUI_PM_TakePhoto = 사진 촬영
+GUI_PM_Focus = 포커스
+GUI_PM_Up = 위로 이동
+GUI_PM_Down = 아래로 이동
+GUI_PM_Fov = 시야각 [누르고 있기]
+GUI_PM_Roll = 돌리기 [누르고 있기]
+GUI_PM_Aperture = 조리개 [누르고 있기]
+
+//--------------------------------------------------TIRES
+!tire_standard = 일반 타이어
+!tire_standard_2 = ^!tire_standard B
+!tire_sport = 스포츠 타이어
+!tire_race = 경주용 타이어
+!tire_race_2 = ^!tire_race B
+!tire_slick = 슬릭 타이어
+!tire_slick_2 = ^!tire_slick B
+!tire_4x4 = 오프로드 타이어
+!tire_4x4_2 = ^!tire_4x4 B
+!tire_vintage = 빈티지 타이어
+!tire_vintage_2 = ^!tire_vintage B
+!tire_vintage_wall1 = ^!tire_vintage 월 A
+!tire_vintage_wall2 = ^!tire_vintage 월 B
+!tire_vintage_wall3 = ^!tire_vintage 월 C
+
+//--- START do not translate!
+//--------------------------------------------------TUNING
+!t_filtr_paliwa_1 = ^!filtr_paliwa_1
+!t_w_v8_2_tlumik_srodkowy = ^!w_v8_2_tlumik_srodkowy
+!t_w_v8_poczatkowy = ^!w_v8_poczatkowy
+!t_w_r6_2_poczatkowy = ^!w_r6_2_poczatkowy
+!t_w_r6_2_ruraLaczaca = ^!w_r6_2_ruraLaczaca
+!t_w_v8_poczatkowy_2 = ^!w_v8_poczatkowy_2
+!t_w_r4_poczatkowy = ^!w_r4_poczatkowy
+!t_w_tlumik_srodkowy_B = ^!w_tlumik_srodkowy_B
+!t_w_ruraLaczaca = ^!w_ruraLaczaca
+!t_w_v8_2_rezonator = ^!w_v8_2_rezonator
+!t_w_r4_turbo_poczatkowy = ^!w_r4_turbo_poczatkowy
+!t_w_v8_poczatkowy_stary = ^!w_v8_poczatkowy_stary
+!t_w_r4_poczatkowy_wzdluzny = ^!w_r4_poczatkowy_wzdluzny
+!t_cewkaZaplonowa_1 = ^!cewkaZaplonowa_1
+!t_tarcza_sprzegla = ^!tarcza_sprzegla
+!t_listwa_wtryskowa_2 = ^!listwa_wtryskowa_2
+!t_r4_walek_rozrzadu = ^!r4_walek_rozrzadu
+!t_r4_walek_rozrzadu_sohc_1 = ^!r4_walek_rozrzadu_sohc_1
+!t_v8_walek_rozrzadu = ^!v8_walek_rozrzadu
+!t_cewka_1 = ^!cewka_1
+!t_listwa_wtryskowa = ^!listwa_wtryskowa
+!t_v8_2_filtr_sec_srodek = ^!v8_2_filtr_sec_srodek
+!t_r4_modul_zaplonowy_sohc_1 = ^!r4_modul_zaplonowy_sohc_1
+!t_v8_2_walek_rozrzadu = ^!v8_2_walek_rozrzadu
+!t_r6_2_walek_rozrzadu = ^!r6_2_walek_rozrzadu
+!t_filtr_1x4_srodek = ^!filtr_1x4_srodek
+!t_swieca_1 = ^!swieca_1
+!t_pompa_wspomagania = ^!pompa_wspomagania
+!t_filtr_1 = ^!filtr_1
+!t_r6_filtr = ^!r6_filtr
+!t_pompa_1 = ^!pompa_1
+!t_filtr_2x4_srodek = ^!filtr_2x4_srodek
+!t_tlok_1 = ^!tlok_1
+!t_r6_kolektor_wydechowy = ^!r6_kolektor_wydechowy
+!t_r4_kolektor_dolotowy3 = ^!r4_kolektor_dolotowy3
+!t_w_katalizator = ^!w_katalizator
+!t_v8_przepustnica = ^!v8_przepustnica
+!t_v8_kable_stary = ^!v8_kable_stary
+!t_kaszlak_gaznik_1 = ^!kaszlak_gaznik_1
+!t_v8_kolo_zamachowe = ^!v8_kolo_zamachowe
+!t_v8_glowica = ^!v8_glowica
+!t_r4_kable_sohc_1 = ^!r4_kable_sohc_1
+!t_r6_kable = ^!r6_kable
+!t_v8_kolektor_wydechowy_stary_1 = ^!v8_kolektor_wydechowy_stary_1
+!t_v8_2_kable = ^!v8_2_kable
+!t_v8_kolektordolotowy_2x4 = ^!v8_kolektordolotowy_2x4
+!t_w_tlumik_wzdluzny = ^!w_tlumik_wzdluzny
+!t_rozdzielaczZaplonu_1 = ^!rozdzielaczZaplonu_1
+!t_r6_gaznik_plaski = ^!r6_gaznik_plaski
+!t_v8_2_glowica = ^!v8_2_glowica
+!t_kaszlak_wydech_1 = ^!kaszlak_wydech_1
+!t_docisk_sprzegla = ^!docisk_sprzegla
+!t_kaszlak_glowica_1 = ^!kaszlak_glowica_1
+!t_v8_glowica_stara = ^!v8_glowica_stara
+!t_kopulkaRozdzielacza_1 = ^!kopulkaRozdzielacza_1
+!t_v8_gaznik_1 = ^!v8_gaznik_1
+!t_r6_2_glowica = ^!r6_2_glowica
+!t_r4_kolektor_wydechowy2 = ^!r4_kolektor_wydechowy2
+!t_r6_glowica_dohc = ^!r6_glowica_dohc
+!t_r6_2_kable = ^!r6_2_kable
+!t_r4_przepustnica = ^!r4_przepustnica
+!t_turbo_2 = ^!turbo_2
+!t_v8_kolektor_wydechowy = ^!v8_kolektor_wydechowy
+!t_r4_kolektor_dolotowy4 = ^!r4_kolektor_dolotowy4
+!t_palecRozdzielacza_1 = ^!palecRozdzielacza_1
+!t_r4_glowica_2 = ^!r4_glowica_2
+!t_w_r6_2_koncowy = ^!w_r6_2_koncowy
+!t_alternator = ^!alternator
+!t_r4_glowica_sohc_1 = ^!r4_glowica_sohc_1
+!t_r4_kolektor_wydechowy_sohc_1 = ^!r4_kolektor_wydechowy_sohc_1
+!t_kaszlak_kable_1 = ^!kaszlak_kable_1
+!t_r4_kolektor_wydechowy = ^!r4_kolektor_wydechowy
+!t_w_tlumik_koncowy = ^!w_tlumik_koncowy
+!t_w_v8_2_koncowy = ^!w_v8_2_koncowy
+!t_w_v8_koncowy = ^!w_v8_koncowy
+!t_w_v8_koncowy_stary = ^!w_v8_koncowy_stary
+!t_r4_pompa_wspomagania = ^!r4_pompa_wspomagania
+!t_r6_walek_rozrzadu = ^!r6_walek_rozrzadu
+!t_r6_kopulkaRozdzielacza = ^!r6_kopulkaRozdzielacza
+!t_r6_wydech_poczatkowy = ^!r6_wydech_poczatkowy
+!t_v8_walek_stary = ^!v8_walek_stary
+!t_sebring_glowica = ^!sebring_glowica
+!t_sebring_kable = ^!sebring_kable
+!t_sebring_kopulkaRozdzielacza = ^!sebring_kopulkaRozdzielacza
+!t_sebring_wydech_poczatkowy = ^!sebring_wydech_poczatkowy
+!t_stradale_kolektor = ^!stradale_kolektor
+!t_stradale_przepustnica = ^!stradale_przepustnica
+!t_stradale_tlumik_koncowy = ^!stradale_tlumik_koncowy
+!t_w_koncowy_sebring = ^!w_koncowy_sebring
+!t_w_ruraLaczaca_stradale = ^!w_ruraLaczaca_stradale
+!t_delorean_filtr_srodek = ^!delorean_filtr_srodek
+!t_delorean_glowica_1 = ^!delorean_glowica_1
+!t_delorean_glowica_2 = ^!delorean_glowica_2
+!t_delorean_kable = ^!delorean_kable
+!t_delorean_kolektor_dolotowy = ^!delorean_kolektor_dolotowy
+!t_delorean_kolektor_wydechowy_v8 = ^!delorean_kolektor_wydechowy_v8
+!t_delorean_kolektor_wylotowy = ^!delorean_kolektor_wylotowy
+!t_delorean_kopulkaRozdzielacza = ^!delorean_kopulkaRozdzielacza
+!t_delorean_walek_rozrzadu = ^!delorean_walek_rozrzadu
+!t_v8_quattroporte_kolektor = ^!v8_quattroporte_kolektor
+!t_v8_quattroporte_kolektorturbo = ^!v8_quattroporte_kolektorturbo
+!t_v8_quattroporte_przepustnica = ^!v8_quattroporte_przepustnica
+!t_w_koncowy_quattroporte = ^!w_koncowy_quattroporte
+!t_w_ruraLaczaca_quattroporte = ^!w_ruraLaczaca_quattroporte
+!t_w_tlumik_koncowy_delorean = ^!w_tlumik_koncowy_delorean
+!t_v8_alternator_stary2 = ^!v8_alternator_stary2
+!t_v8_filtr_stary_2 = ^!v8_filtr_stary_2
+!t_v8_gaznik_stary2 = ^!v8_gaznik_stary2
+!t_v8_glowica_1_stary2 = ^!v8_glowica_1_stary2
+!t_v8_glowica_2_stary2 = ^!v8_glowica_2_stary2
+!t_v8_kable_stary2 = ^!v8_kable_stary2
+!t_v8_kolektor_wydechowy_stary2 = ^!v8_kolektor_wydechowy_stary2
+!t_v8_kolektordolotowy_stary2 = ^!v8_kolektordolotowy_stary2
+!t_v8_pompa_wspomagania_stary2 = ^!v8_pompa_wspomagania_stary2
+!t_v8_przepustnica_stary2 = ^!v8_przepustnica_stary2
+!t_v8_walek_stary2 = ^!v8_walek_stary2
+!t_w12_filtr = ^!w12_filtr
+!t_w12_glowica = ^!w12_glowica
+!t_w12_kolektor_dolotowy_gorny = ^!w12_kolektor_dolotowy_gorny
+!t_w12_turbo = ^!w12_turbo
+!t_w12_kolektor_dolotowy_dolny = ^!w12_kolektor_dolotowy_dolny
+!t_w12_kolektor_wydechowy = ^!w12_kolektor_wydechowy
+!t_w12_walek_rozrzadu = ^!w12_walek_rozrzadu
+!t_w12_przepustnica = ^!w12_przepustnica
+!t_w12_listwaWtryskowa = ^!w12_listwaWtryskowa
+!t_w12_tlok = ^!w12_tlok
+!t_w_w12_poczatkowy = ^!w_w12_poczatkowy
+!t_w_w12_koncowy = ^!w_w12_koncowy
+!t_w_v8_poczatkowy_stary2 = ^!w_v8_poczatkowy_stary2
+//--- END do not translate!
+
+//------------------------------------------------------------------------ Story Missions=
+=
+MissionDesc1=1년 반 전에 이 차를 아들녀석에게 사주었는데, 그 녀석은 주유소에서 휘발유 넣는것 말고는 아무 관심도 없다고 했었지. 오일과 타이어를 좀 체크해주면 고맙겠습니다.
+MissionDesc2=신문을 보니 타이밍은 제조사 권장보다 더 자주 교체해야 한다고 합니다. 오일도 마찬가지구요! 타이밍과 오일을 체크해주시고 그에 따라 조치를 좀 해주세요.
+MissionDesc3=안녕! 나는 로드마스터1234야. 인터넷에서 사람들이 부르는 닉네임이지. 난 게임에서는 핸들뒤의 마스터라고 불려. 그런데, 이젠 진짜 차를 샀고 내 실력을 믿지 않는 녀석들에게 본때를 보여줘야해. 그런데 이 차가 바퀴 때문에 속도가 안나는 것 같아. 엔진쪽에서도 이상한 소리가 나는 것도 같고. 부탁좀 할께!
+MissionDesc4=운전해서 옆마을로 가고 있는데, 과속방지턱을 확인하지 못했어요. 프론트 서스펜션쪽 손상이 있는것 같은데 확인좀 해주세요. 그때 이후로 차가 뭔가 이상해요.
+MissionDesc5=친구가 급전이 필요하다고 해서 이 차를 제가 사게 되었어요. 친구녀석은 차가 괜찮다고 했지만 차가 묘하게 오른쪽으로 쏠려요. 그리고 운행시 버섯냄새도 납니다. 그녀석은 영업직도 아니고 사무직 샌님이예요. 뭐가 문제인지 체크하고 고쳐주세요.
+MissionDesc6=제 차에 시동이 안걸려요. 생각해보니 그 전에 시동이 걸릴때도 이상한 소리가 났었던 것 같아요. 아침에 시동걸때마다 이웃들을 제가 다 깨워서 미안해요. 차 좀 봐주셔서 시동이 걸리게 해주시고 예전처럼 큰 소리도 안나게 해주세요.
+MissionDesc7=이 차는 자동차 딜러에게 샀어요. 싸진 않았지만 좋은 가격에 구매했죠. 단 한가지 문제는 기어를 변속할때 매우 어려워요. 무거운것 같기도 하고... 그리고 차 왼쪽에서 때때로 무슨 소리가 들려요. 아, 오른쪽에서도 가끔씩 나요. 딜러는 거의 모든게 새거라고 했는데...일단 상태를 체크해주시고 수리가 필요하면 조치해주세요.
+MissionDesc8=이 차는 올샌 그랜드 클럽에서 샀습니다. 훌륭한 차라고 생각합니다만, 광고에 보니까 오프로드에 기가 막히다고 하는데 모래언덕에서 운전해보았더니 영 아니었어요. 뭔가가 부스럭거리는 소리가 나고 새는것 같아요. 어떻게 좀 해주세요. 정비사님. 이번 주말에 친구들이랑 오프로드 여행 가기로 했단 말이예요!
+MissionDesc9=정비사님, 제발 도와주세요. 이 차를 끌고 파티 갔다가 돌아오는길에 웅덩이에 한번 빠진것 같아요. 대충 어느정도 부서진지 견적좀 내주시고 수리도 부탁드려요. 이거 우리 새아버지 차라서 걸리면 죽어요...
+MissionDesc10=안녕하세요. 고속도로에서 사고가 났어요. 트럭때문에 도로에서 이탈하게 생겼어요. 좋은차가 아니란것도 알고 있습니다만 제가 지금 여유가 없어요. 그냥 차가 갈 수 있게만 해주세요. 부탁합니다. 정비사님.
+MissionDesc11=안녕하세요...저 또 왔어요. 이번 여행이 좀 힘들었던 것 같아요. 차체도 좀 가벼워 진 것 같구요. 이번에 자동차 전시장에서 다른 사람들이랑 얘기하다가 알았어요.차를 고쳐주시고 차를 다시 운전할 수 있게 해주세요. 전시장 사람들이 얘기하길 타이어가 잘못된거라고 하더군요. 그러니 이번에는 오프로드 타이어를 장착해주세요. 2주후에 시베리아를 달릴수 있도록요!
+MissionDesc12=전 차 결함의 희생자예요. 제조사에서는 ABS펌프 문제와 브레이크 잼 현상으로요 제 문제래요.. 차가 미끄러지고 저도 약간 부상당했지만 다행히 전 괜찮긴 해요. 전체 차량의 상태를 점검해서 손상된 곳을 수리해 주세요. 사고날때 브레이크를 밟은뒤에 생각이 드는게 스티어링 휠과 에어백을 교체하는게 매우 좋을 것 같아요.
+MissionDesc13=정비사님. 2주동안 출장을 다녀오면서 제 차를 남편에게 빌려주었는데, 제 실수였어요. 차에 문제가 있는지 좀 봐주세요. 자세히 살펴볼 여유가 없어요. 전 바쁜 여자니까요. 변호사 만나서 이혼서류를 내고 와야하거든요. 돌아올때까지 다 고쳐 놓았으면 좋겠네요.
+MissionDesc14=정비사님. 저 또 왔어요. 정비사님의 도움이 한번 더 필요합니다. 제 스트리트 레이서로서의 경력이 매우 빠르게 향상되고 있어요. 제 운전 동영상을 유튜브에 올려서 돈을 벌고 있거든요. 최근에 신호에서 출발해서 가속할때 더 어려워진 것 같고 승차감이 많이 떨어진 것 같아요. 시간을 좀 내서 전체적인 점검 부탁해요! 그럼 이만!
+MissionDesc15=안녕! 얼마전에 멈춰버린 차를 어찌어찌 얻게 되었어.차에 뭔일이 있는지는 잘 모르겠어. 내가 차에 대해서 잘 아는것도 아니구. 내 전 와이프는 내가 아는것도 없어서 패배자래. 뭐, 차가 움직이는데 필요한건 기름이고 기름 넣어줄 것 맞지? 아, 그리고 자동차에 빠진 부품같은게 있다면 최대한 장착해주고 수리도 부탁해!
+MissionDesc16=저 또 왔어요. 지난번 마지막 구매가 썩 좋진 않았지만 요새 특별히 제 와이프를 위해 구매 노하우가 많이 좋아졌어요. 인터넷 구매는 최고의 차들을 구매할 수 있는 보물창고 같아요.게다가 편한 내집 소파에서 구매도 가능하구요. 아직 구매한 차를 보진 못했지만 그 차를 바로 정비사님에게 보내라고 했어요. 점검해야할 부분이 있는지, 충분한 오일은 있는지 봐주세요. 차 사진으로 미루어 보건데 많은 문제가 있을 것 같진 않아요.
+MissionDesc17=제가 차를 팔 수 있게 좀 도와주세요. 차 자체가 새거이기도 하지만, 뭔지 아시죠? 사람들은 겉모습만 보고 차를 사잖아요. 외관을 좀 멋있게 해주세요. 당신에겐 일도 아니잖아요. 그렇죠?
+MissionDesc18=제 친구랑 폐품 더미에서 쓸만한 차량을 하나 발견했어요. 우린 이 차를 다시 경주트랙에 설 수 있게 하고 싶어요. 하지만 그걸 위해선 적어도 이차가 앞으로 갈 순 있어야 겠죠. 그게 아니면 날거나. 어떻게 해야할지 아시죠? 외형은 크게 따지지 않을께요. 성능만 깔쌈하게 손봐주세요.
+MissionDesc19=저 왔어요! 반갑죠? 정비사님! 저예요. 오프로드 매니아. 저희 클럽에서 여행을 갔다가 혼쭐을 당했어요. 오프로드에 맞지 않는건가? 게다가 여행중에 곰이 올라타기도 했어요. 부족한 부품이 있으면 장착해주시고, 수리가 필요하다면 해주세요.
+MissionDesc20=이 차는 저희 가문에서 대대로 물려져 내려오고 있습니다. 저희 아버지가 제 나이즈음에 할아버지로부터 받은 차예요. 불행히도 저희 아버지는 면허가 없었고 차는 내내 차고에 있었어요. 이 차가 갈 수 있게 필요한 조치를 좀 해주시고, 이 골동품이 새 것처럼 달릴 수 있게 해주세요.
+MissionDesc21=안녕하세요. 전 이 차에 대한 인증서를 제출할 곳이 있습니다. 이 차의 기술적 결함이 없고 상태가 양호하다는 것을 증명해야 해요. 자동차의 전체 검사를 수행해 주세요.
+MissionDesc22=제 자동차가 스티어링에 심각한 문제가 있는 것 같아요. 제 생각에는 매우 심각한 것 같거든요. 싹 고쳐주세요.
+MissionDesc23=전 이 차를 제 포도원에서 작업용으로 쓰고 있어요. 단도직입적으로 말하면 최근들어 승차감이 점점 나빠지고 있어요. 더불어 차 인테리어도 좀 새로웠으면 좋겠어요. 잘 할 수 있는지 지켜볼꺼예요.
+MissionDesc24=먼저 이 차 판매원이 매우 정직하지 못했다는 것을 말해주고 싶어요. 제 차가 날이 갈수록 이상해지고 있어요. 올바른 점검과 문제를 일으키는 부품들을 모두 교체해 주세요.
+MissionDesc25=이 차는 한정판이구요, 정상적인 방법을 통해서 구입했어요. 하긴, 큰 차고에 방치되어 있었으니까요. 근데, 이 가격이 할인이었는지 사기였는지 알고 싶긴 해요. 차에서 어떤 점을 발견하더라도 비용 걱정 하지 마시구요 이 꿈의 차를 깔끔하게 해주세요.
+MissionDesc26=전 운전학원 선생님입니다. 우리 학생들이 클러치에 대해서 엄청 불만을 얘기해요. 최근에 작은 일이 있었고, 고속으로 커브시에 연석에 충돌했어요. 그때부터 뭔가 새는 것 같은 느낌이 들어요. 차량의 전반적인 상태를 체크해주시구요, 저희 학생들이 이 차를 운전할때 두려움 안느낄 수 있도록 해주세요.
+MissionDesc27=저 또 왔어요. 또다른 차를 가지고 말이죠. 이 전 차인 비앙코는 불행하게도 인터넷 찐따들에게 지고 말았어요. 하지만 전 새로운 차를 구했죠. 제가 보기에 약간의 녹이 슬어있는 것 같지만,정비사님에게는 사소한 일이겠죠? 정비하는김에 후드 밑에 부품들이 잘 작동하는지도 봐주세요! 그럼 이따 뵈요!
+MissionDesc28=그냥 긴 장거리 여행에서 돌아왔어요. 여행간 아무 문제도 없었지만, 그냥 차량의 상태를 확인하고 싶어요.
+MissionDesc29=지금 정비사님의 도움이 급하게 필요해요! 정비사님이 이분야 최고라고도 들었어요. 출근길에 차에서 뭔가 부러지는 소리가 나는걸 들었고 잠시 후에 차가 멈췄어요.아스팔트에 길게 뭘 흘렸나봐요. 길게 얼룩이 생겼어요. 제 차에 무슨 문제가 있는지 좀 알아봐 주세요.
+MissionDesc30=이 고물차를 지금 막 샀어요. 이걸 판놈이 몇몇 부품에 문제가 있어요. 라고 했는데 가격도 엄청 괜찮은 가격이어서 그냥 유머라고 생각하며 사고 말았어요. 이 차를 전체적으로 점검해 주세요.
+MissionDesc31=안녕! 내 친구가 정비업계에서는 정비사님를 따라올 사람이 없다더군. 최근에 이 차를 옥션에서 구매했어. 이 차는 부품을 기부해야할 운명이었지만, 내가 구입해서 다시 달리게 하고 싶었어. 이 차를 달릴 수 있게 전체 점검을 해줘.
+MissionDesc32=내 SUV는 일반 도로에서는 아무 문제가 없어. 내가 이 차가 오프로드에 맞을거라고 생각했으면 안됐는데...저축을 조금씩 해서 친구에게 적당히 큰 차를 샀지. 이제 이 차가 예전 주인이 하던것처럼 오프로드에서 힘을 보여줄 차례인것 같아. 뭘 교체해야 할지 체크해줘. 그리고 인테리어도 변경해줘. 내스타일이 아니야
+MissionDesc33=안녕? 잘 나간다는 소문은 많이 들었어. 나도 너처럼 정비사야. 적어도 내 손으로 수리를 하려고 노력하고 있지. 그런데 내 와이프는 내가 아무것도 모른다고 생각해. 난 그런걸 원치 않고. 그녀는 내가 여기 온 것을 모르고 있어. 이 차의 상태가 제대로인지 확인좀 해봐줄래?
+MissionDesc34=트랙에서 미친듯이 질주를 하고 싶어서 이 오래된 경주용 차를 구입했어. 당연히 이 차는 최고의 상태를 유지해야 할 거야. 무엇을 해야할 지는 당신이 더 잘 알고 있다고 생각해. 그럼 이만.
+MissionDesc35=안녕. 저 또 왔어요. 제 아내가 빗길에서 중심을 잃었어요. 다행히 아무일도 일어나진 않았어요. 하지만 혹시 차량의 스티어링 시스템에 문제가 있는지 싶어서요.휠에서 이상한 소리가 나는것 같고 차가 종종 당겨진다는 느낌이 들어요. 제발 어떻게 좀 해주세요. 새 차를 다시 구매하긴 싫다구요.
+MissionDesc36=요새 어떻게 지내세요? 전 최근에 이녀석을 또 구입했어요. 대박 세일이 있었거든요. 전반적인 차량의 점검이 필요합니다. 끝나면 알려줘요!
+MissionDesc37=좋은 아침입니다. 이곳에 온 이유는 정비사님처럼 차를 잘 알고 있다는 사람이 없다는 소문을 들었거든요.제 딸이 조부모님으로부터 이 차를 받았어요. 딸아이는 차 외관만 신경쓰고 있지만 제 생각에는 차의 내부가 더더욱 문제가 의심이 가요. 딸아이가 최근에 잘못된 오일을 넣었는데 정비사님은 무슨 일이 있어났는지 상상이 가실거예요.점검을 철저히 해주셔서 지금 문제가 있는 부품을 완벽히 수리해주세요.
+MissionDesc38=최근에 스폰서로부터 큰 돈을 받았어. 지금이야말로 뭔가 기분전환을 할 시점이라고 생각해. 내 차를 도색해줘! 얼핏 듣기에 차가 붉은색이면 더 빨리 달린대! 차 도색하면서 휠과 메카닉 부품들도 점검해주고.최근에 기어변속할때나 가속할때 뭔가 덜컹하는 소리가 들려. 흠....할수 있는 조치를 해줘! 부탁해!
+MissionDesc39=안녕하세요. 저희 조부모님 밭에 뭍혀있는 이 차를 제가 찾았어요. 듣기로 이 차가 고모 차였다는것 같은데 제가 가져도 상관없다고 해서 제가 가져왔어요.지금 이 상태로는 아무 도움도 안되는 쓰레기지만 정비사님이 이 분야 최고 장인이라고 들었어요. 이 낡아빠진 놈에게 제2의 청춘을 불어넣어 주세요.
+MissionDesc40=반갑습니다. 당신이 매우 신뢰할 수 있는 사람이라고 듣고 찾아왔습니다. 오늘 제가 당신에게 제 작은 친구DC 태풍호를 소개해 드릴께요. 진정한 토네이도였었죠. 이 차를 새 차 처럼 만들어주세요. 믿고 있을께요!
+MissionDesc41=최근에 아주 잘 구입한 차량입니다. 이 차는 내 SUV보다 훨씬 오프로드에 좋을 것 같아서 나갔었는데 불행히도 나쁜운이 저한테 작용해서 숲에서 길을 잃고 헤메게 되었어요. 뭐 말하자면 긴 얘기일꺼예요. 뭔지 아시죠? 차 좀 점검해 주세요. 당신께는 어려운 일이 아닐거예요! 부탁드려요!
+MissionDesc42=안녕하세요! 잘 지내시죠? 제가 오랫동안 여기 못들렸어요. 근데 그건 차를 아주 잘 봐주셨다는 증거겠죠? 제차와 제 아내의 차 모두 아주 좋은 상태예요. 다름이 아니고 오늘 내 딸이 산 차를 가져왔어요..내가 봐도 최악의 상태인것 같아요. 딸아이가 아빠보다 좀 현명하길 바랬건만...이 차를 한번 판단해 주길 바랄께요.
+MissionDesc43=전 이 차를 경매장에서 샀어요. 전반적인 차의 상태는 괜찮은 것 같은데 엔진이 문제를 일으키는 것 같아요.제가 혼자 점검을 할 수 있을거라고 생각했는데 생각대로 잘 안되네요. 부품들을 분리해봤는데 상당수 잃어버리고 일부는 손상을 입은 것 같습니다.제 차의 후드를 열어서 어떤 부품들이 없고 어떤 부품을 갈아야 하는지 전반적인 수리좀 부탁드립니다.
+MissionDesc44=이 차는 돈이 급한 어떤 어르신에게 뺏다시피 구입했습니다. 이 차가 가치가 있는지 잘 모르겠어요. 전반적으로 차를 한번 봐주시면 제가 판단하도록 하겠습니다.
+MissionDesc45=잘 지내시죠? 전 벌써 구독자가 500만이나 되는 빅 유투버가 되었어요. 당연히 새로운 휠을 장착해야 할 타이밍이라고 생각해요.당연히 여길 제일 먼저 와야하죠. 제 새차 칼리오페예요. 이 조그마한 괴물은 저한테 매우 이상적이죠!겉보기에는 좀 초라하고 엔진 소리가 훌륭하진 않고, 차의 명성에 비해서 약간 못미치는 것 같지만, 정비사님이라면 잘 해주실 것이라고 믿습니다! 신경좀 써주세요!
+MissionDesc46=정비사님 안녕하세요! 큰차가 급하게 필요해서 사게 되었어요. 가족수가 늘어나서 작은 쿠페로는 감당할 수가 없었거든요.얼마전에 한 모델을 선택해서 샀는데, 제가 산차가 뭐랄까...뭔가 이상한 것 같아요. 이 차를 얼른 고쳐주셔서 저와 제 가족이 편안하게 탈 수 있게 해주세요.
+MissionDesc47=정비사님 전 자동차 박물관에서 근무하는 사람입니다. 저희 박물관에 전시되어 있는 매우 아름다운 클래식카의 수리를 의뢰하고자 왔어요.일이 잘 되면 보다 장기적인 비즈니스 관계로 발전해 나아갈 수 있겠죠. 저희는 수리가 필요한 클래식 차량이 매우 많아요. 돈은 전혀 문제가 되지 않습니다. 그럼 이만.
+MissionDesc48=정비사님 저예요. 안녕하세요. 곧 휴가라고 들었어요. 하.지.만. 제가 전해드릴 좋은 소식이 하나 있습니다. 저 로또 당첨 됐어요! 마침내 저에게도 행운이 찾아왔어요.제 옛날차는 이미 팔아버리고 이 렉스를 새로 구입했어요. 제가 너무 흥분한 나머지 새 차를 안차고 중고를 구매했지만, 이 렉스의 차 색상이 너무 마음에 들어요.정비사님이시면 이 차를 잘 살펴봐 주실꺼라 믿어요. 물론 전체적으로 점검해주시구요. 아마 여기저기 잔고장이 발생할 수도 있겠지요? 부탁좀 드릴께요.
+MissionDesc49=반갑습니다. 제 꿈의 자동차를 드디어 경매장에서 구입했어요. 매우 훌륭한 상태는 아니지만, 정비사님이라면 이 차에 숨겨져있는 문제들을 찾아낼 수 있지 않을까 싶어서요.
+MissionDesc50=정비사님 저예요 마이크. 이번 방문이 올해는 마지막이 될꺼라고 약속합니다. 휴가전에 차 정비를 맡겨서 죄송하지만, 신경써서 좀 봐주세요.아시다시피 제가 개인적으로 사용하는 차니까요, 모든것이 완벽해야 해요! 정비사님은 뭐 제가 항상 믿고 있으니까요. 차 후드를 열때 두려워하지 마시구요! 그럼 이만.
+=
+//------------------------------------------------------------------------ End Story Missions=
+//------------------------------------------------------------------------ Tutorial=
+TutorialDesc1=카 메카닉 시뮬레이터 2018에 오신것을 환영합니다. 새로운 차고의 모든것을 경험하고 수많은 부품들을 확인해보세요. 여러분은 언제든지 차를타고 시범 주행을 선택함으로서 본 튜토리얼을 종료할 수 있습니다. 그럼 행운을 빕니다!
+TutorialDesc2=마우스 오른쪽 버튼을 누르고 PIE메뉴에서 정비를 선택하세요. 그런뒤에 관심이 있는 정비 임무를 선택하시면 됩니다. 정비 임무를 선택하시면 해당 차량이 자동으로 차고에 나타납니다. 차로 다가가 PIE메뉴를 이용할 수 있습니다.
+TutorialDesc3=새로운 부품을 구매하려면 컴퓨터를 이용하세요.
+TutorialDesc4=경험치를 받아 레벨업을 하여 얻은 레벨스킬 포인트를 이용하여 사용할 수 있습니다.
+TutorialDesc5=차량의 성능을 조사할 때 사용 됩니다. 차의 스티어링, 서스펜션, 그리고 브레이크를 테스트합니다.
+TutorialDesc6=차량를 들어올릴때 사용합니다. 엔진의 하부등 육안으로 볼 수 없는 차체의 하부는 리프트를 사용해야 합니다.
+TutorialDesc7=마모된 부품을 수리할 수 있습니다.
+TutorialDesc8=사용하지 않는 부품의 보관이 가능합니다. 수요가 증가함에 따라 창고 면적을 늘릴 수 있습니다.
+TutorialDesc9=다양한 도색, 도장 작업을 할 수 있습니다.
+TutorialDesc10=차량의 인테리어를 수리하고 정비할 수 있습니다.
+TutorialDesc11=충격 흡수 장치의 압축에 사용합니다.
+TutorialDesc12=제거되지 않는 차체 부품을 수리할 수 있습니다.
+TutorialDesc13=이곳에서 레벨업해서 얻는 포인트로 기술을 향상시킬 수 있습니다.
+TutorialDesc14=엔진을 차량에서 분리하는데 사용합니다.
+TutorialDesc15=타이어를 림에 장착하고 휠 전체의 균형을 잡는데 사용합니다.
+TutorialDesc16=지도를 사용하면 운전하고 싶은 장소를 선택할 수 있습니다. 테스트 트랙을 선택해서 차량을 테스트하세요.
+TutorialDesc17=자동차의 브레이크와 서스펜션을 테스트 할 수 있습니다.
+TutorialDesc18=사용된 오일을 처분할 수 있습니다. 사용법이 잘못되면 기름 유출 청소에 대한 추가 요금이 부과됩니다.
+TutorialDesc19=엔진의 장착 및 사용이 가능합니다.
+=
+TutorialTitle1=환영합니다 / 카 메카닉 시뮬레이터 2018 한글번역 By 일편단신
+TutorialTitle2=정비
+TutorialTitle3=컴퓨터
+TutorialTitle4=장비 테스팅
+TutorialTitle5=테스트 트랙
+TutorialTitle6=차 리프트
+TutorialTitle7=수리 테이블
+TutorialTitle8=부품 창고
+TutorialTitle9=도색/도장 샵
+TutorialTitle10=인테리어 디테일 장비키트
+TutorialTitle11=스프링 컴프레셔
+TutorialTitle12=용접
+TutorialTitle13=공구박스
+TutorialTitle14=엔진 크레인
+TutorialTitle15=타이어 체인저 / 휠 밸런서
+TutorialTitle16=정문 / 지도
+TutorialTitle17=정밀 검사
+TutorialTitle18=오일 배유
+TutorialTitle19=엔진 스탠드
+=
+//--------------- Upgrades=
+=
+UPGname_fast_examine=매의 눈
+UPGdesc_fast_examine.1=부품 검사가 50% 빨라집니다
+UPGdesc_fast_examine.2=부품 검사가 100% 빨라집니다
+UPGdesc_fast_examine.3=부품 검사가 150% 빨라집니다
+=
+UPGname_fast_partremove=굳센 팔
+UPGdesc_fast_partremove.1=부품 분리 및 설치가 50% 빨라집니다
+UPGdesc_fast_partremove.2=부품 분리 및 설치가 100% 빨라집니다
+UPGdesc_fast_partremove.3=부품 분리 및 설치가 150% 빨라집니다
+=
+UPGname_fast_mount=민첩한 손
+UPGdesc_fast_mount.1=나사 조임과 분리가 50% 빨라집니다
+UPGdesc_fast_mount.2=나사 조임과 분리가 100% 빨라집니다
+UPGdesc_fast_mount.3=나사 조임과 분리가 150% 빨라집니다
+=
+UPGname_fast_movement=바람과 같이
+UPGdesc_fast_movement.1=걸음걸이가 10% 빨라집니다
+UPGdesc_fast_movement.2=걸음걸이가 25% 빨라집니다
+UPGdesc_fast_movement.3=걸음걸이가 50% 빨라집니다
+=
+UPGname_shop_discount=사랑스러운 그대
+UPGdesc_shop_discount.1=상점에서 5% 할인혜택을 받습니다
+UPGdesc_shop_discount.2=상점에서 10% 할인혜택을 받습니다
+UPGdesc_shop_discount.3=상점에서 15% 할인혜택을 받습니다
+=
+UPGname_fix=재활용
+UPGdesc_fix.1=부품 수리 성공 확률이 55%까지 늘어납니다
+UPGdesc_fix.2=부품 수리 성공 확률이 65%까지 늘어납니다
+UPGdesc_fix.3=부품 수리 성공 확률이 75%까지 늘어납니다
+UPGdesc_fix.4=부품 수리 성공 확률이 85%까지 늘어납니다
+UPGdesc_fix.5=부품 수리 성공 확률이 95%까지 늘어납니다
+UPGdesc_fix.6=바디 부품 수리가 가능해집니다
+=
+UPGname_instant_examine=고학력
+UPGdesc_instant_examine.1=차량을 처음 봤을때(정비,차고,고물상,옥션) 즉시 3개의 부품검사가 가능해 집니다
+UPGdesc_instant_examine.2=차량을 처음 봤을때(정비,차고,고물상,옥션) 즉시 9개의 부품검사가 가능해 집니다
+UPGdesc_instant_examine.3=차량을 처음 봤을때(정비,차고,고물상,옥션) 즉시 20개의 부품검사가 가능해 집니다
+=
+UPGname_unlock_tablet=태블릿
+UPGdesc_unlock_tablet.1=태블릿을 사용할 수 있습니다. 태블릿으로 차고의 어디에서건 상점에 접속할 수 있습니다. PIE메뉴에서 T를 눌러서 바로 접속할 수 있습니다
+=
+UPGname_unlock_tires=타이어 트레드 테스터
+UPGdesc_unlock_tires.1=타이어 트레트 테스터를 사용할 수 있습니다. 이 장비로 타이어의 상태를 파악할 수 있습니다. 탐색모드시 PIE메뉴에서 이 장비를 사용할 수 있습니다
+=
+UPGname_unlock_obd=OBD 스캐너
+UPGdesc_unlock_obd.1=OBD 스캐너를 사용할 수 있습니다. 전자-컴퓨터와 관련된 장비들을 조사할 수 있습니다. 오래된 차에서는 사용할 수 없습니다. 탐색모드시 PIE메뉴에서 이 장비를 사용할 수 있습니다
+=
+UPGname_unlock_cylinder=컴프레션 테스터
+UPGdesc_unlock_cylinder.1=컴프레션 테스터를 사용할 수 있습니다.이 장비로 전반적인 엔진의 상태를 조사할 수 있습니다. 헤드,블록,피스톤도 조사됩니다. 탐색모드시 PIE메뉴에서 이 장비를 사용할 수 있습니다
+=
+UPGname_unlock_electronic=일렉트로닉 미터
+UPGdesc_unlock_electronic.1=일렉트로닉 미터를 사용할 수 있습니다. 간단하지만 유용한 장비이며 모든 전자장비의 컨디션과 내구도를 조사합니다. 탐색모드시 PIE메뉴에서 이 장비를 사용할 수 있습니다
+=
+UPGname_unlock_fuel=연료 압력 테스트
+UPGdesc_unlock_fuel.1=연료 압력 테스트를 실행할 수 있습니다.차의 연료와 관련된 모든 부품의 상태를 파악할 수 있습니다. 탐색모드시 PIE메뉴에서 이 장비를 사용할 수 있습니다
+=
+UPGname_bigger_income=당신의 가치
+UPGdesc_bigger_income.1=정비완료 후 출고시 5%의 추가 수입을 얻습니다
+=
+UPGname_rhetoric=수다쟁이
+UPGdesc_rhetoric.1=차량 구입시 좀 더 할인을 받을 수 있습니다.(대형차고)
+=
+UPGname_expected_price=경험많은 경매꾼
+UPGdesc_expected_price.1=당신 차량의 경매장 가치를 보여줍니다
+=
+UPGname_cheaper_parking=넓은 마당
+UPGdesc_cheaper_parking.1=주차레벨이 50% 저렴해집니다
+=
+UPGname_cheaper_tow=나의 친구...
+UPGdesc_cheaper_tow.1=고물상이나 대형차고로 이동시 50% 저렴해집니다
+=
+UPGname_luck=선택받은 자
+UPGdesc_luck.1=운이 좋다는것은 매우 좋습니다
+=
+UPGname_garage_upgrade=I 공간이 더 필요해
+UPGdesc_garage_upgrade.1=차고를 확장합니다. 정밀검사와 수리 테이블을 차고에 추가합니다.
+UPGdesc_garage_upgrade.2=차고를 확장합니다. 추가 리프터와 창고, 그리고 주차공간을 차고에 추가합니다.
+UPGdesc_garage_upgrade.3=차고를 확장합니다. 도색샵과 다이나모미터, 그리고 추가 리프터를 차고에 추가합니다.
+
+//------------------ Parts
+
+!i3_blok = 엔진 블록 (I3)
+!i3_filtr_dol = 공기 필터 베이스 (I3)
+!i3_filtr_srodek = 공기 필터 (I3)
+!i3_gearbox = 기어박스 (I3)
+!i3_glowica = 엔진 헤드 (I3)
+!i3_glowica_2 = 엔진 헤드 B (I3)
+!i3_glowica_wkladka = 캠샤프트 뚜껑 (I3)
+!i3_kolektor_dolotowy = 흡기 메니폴드 (I3)
+!i3_kolektor_wydechowy = 배기 매니폴드 (I3)
+!i3_listwa_wtryskowa = 연료 레일 (I3)
+!i3_miska_olejowa = 오일 팬 (I3)
+!i3_oslona_rozrzadu = 타이밍 덮개 (I3)
+!i3_pasek1 = 서펀틴 벨트 A (I3)
+!i3_pasek2 = 서펀틴 벨트 B (I3)
+!i3_pokrywa_glowicy = 엔진 헤드 덮개 (I3)
+!i3_przepustnica = 쓰로틀 (I3)
+!i3_rolkaWalka = 캠 기어 (I3)
+!i3_termostat = 서모스탯 (I3)
+!i3_turbo = 터보 (I3)
+!i3_walek_rozrzadu = 캠샤프트 (I3)
+!i3_walKorbowy = 크랭크샤프트 (I3)
+
+!i4_blok = 엔진 블록 (I4 B)
+!i4_filtr_dol = 공기 필터 베이스 (I4 B)
+!i4_filtr_gora = 공기 필터 덮개 (I4 B)
+!i4_filtr_srodek = 공기 필터 (I4 B)
+!i4_glowica = 엔진 헤드 (I4 B)
+!i4_glowica_wkladka = 캠샤프트 뚜껑 (I4 B)
+!i4_kolektor_dolotowy = 흡기 매니폴드 (I4 B)
+!i4_kolektor_wydechowy = 배기 매니폴드 (I4 B)
+!i4_lancuch = 타이밍 체인 (I4 B)
+!i4_miska_olejowa = 오일 팬 (I4 B)
+!i4_oslona_rozrzadu = 타이밍 덮개 A (I4 B)
+!i4_oslona_rozrzadu_tyl = 타이밍 덮개 B (I4 B)
+!i4_pasek_1 = 서펀틴 벨트 A (I4 B)
+!i4_pasek_2 = 서펀틴 벨트 B (I4 B) 
+!i4_pokrywa_glowicy = 엔진 헤드 덮개 (I4 B)
+!i4_pompa_wody =  워터 펌프 (I4 B)
+!i4_pompa_wspomagania = 파워 스티어링 펌프 (I4 B)
+!i4_rolkaWalka_1 = 캠 기어 A (I4 B)
+!i4_rolkaWalka_2 = 캠 기어 B (I4 B)
+!i4_turbo = 터보 (I4 B)
+!i4_walek_rozrzadu = 캠샤프트 (I4 B)
+!i4_walKorbowy = 크랭크샤프트 (I4 B)
+!i4_wtrysk = 연료 레일 (I4 B)
+
+!i6_old_alternator = 얼터네이터 (I6 B)
+!i6_old_blok = 엔진 블록 (I6 B)
+!i6_old_filtr_dol = 공기 필터 베이스 (I6 B)
+!i6_old_filtr_gora = 공기 필터 덮개 (I6 B)
+!i6_old_filtr_srodek = 공기 필터 (I6 B)
+!i6_old_gearbox = 기어박스 (I6 B)
+!i6_old_glowica = 엔진 헤드 (I6 B)
+!i6_old_kable = 점화 케이블 (I6 B)
+!i6_old_kolektor_dolotowy = 흡기 매니폴드 (I6 B)
+!i6_old_kolektor_wydechowy = 배기 매니폴드 (I6 B)
+!i6_old_lancuch = 타이밍 체인 (I6 B)
+!i6_old_miska_olejowa = 오일 팬 (I6 B)
+!i6_old_oslona_rozrzadu = 타이밍 덮개 (I6 B)
+!i6_old_pasek1 = 서펀틴 벨트 A (I6 B)
+!i6_old_pasek_2 = 서펀틴 벨트 B (I6 B)
+!i6_old_pokrywa_glowicy = 엔진 헤드 덮개 (I6 B)
+!i6_old_pompaWody = 워터 펌프 (I6 B)
+!i6_old_pompaWspomagania = 파워 스티어링 펌프 (I6 B)
+!i6_old_popychacz = 밸브 밀대 (I6 B)
+!i6_old_przepustnica = 카뷰레터 (I6 B)
+!i6_old_raczka1 = 암 A (I6 B)
+!i6_old_raczka2 = 암 B (I6 B)
+!i6_old_rolkaWalka = 캠 기어 (I6 B)
+!i6_old_termostat = 서모스탯Thermostat (I6 B)
+!i6_old_walek = 캠샤프트 (I6 B)
+!i6_old_walKorbowy = 크랭크샤프트 (I6 B)
+
+!rot_new_blok_przod = 전면 사이드 하우징 (ROT A)
+!rot_new_blok_srodek_1 = 로터 하우징 (ROT A)
+!rot_new_blok_srodek_2 = 중간 하우징 (ROT A)
+!rot_new_blok_tyl = 후면 사이드 하우징 블록 (ROT A)
+!rot_new_cewki = 점화 코일 (ROT A)
+!rot_new_element_nakladka = 스프로켓 (ROT A)
+!rot_new_filtr_dol = 공기 필터 베이스 (ROT A)
+!rot_new_filtr_gora = 공기 필터 덮개 (ROT A)
+!rot_new_filtr_srodek = 공기 필터 (ROT A)
+!rot_new_gearbox = 기어박스 (ROT A)
+!rot_new_kable = 점화 케이블 (ROT A)
+!rot_new_kolektor_dolotowy_dolny = 흡기 매니폴드 B (ROT A)
+!rot_new_kolektor_dolotowy_gorny = 흡기 매니폴드 A (ROT A)
+!rot_new_kolektor_wydechowy = 배기 매니폴드 (ROT A)
+!rot_new_lancuch = 타이밍 체인 (ROT A)
+!rot_new_listwa_wtryskowa = 연료 레일 (ROT A)
+!rot_new_miska_olejowa = 오일 팬 (ROT A)
+!rot_new_oslona_rozrzadu = 타이밍 덮개 (ROT A)
+!rot_new_pasek_1 = 서펀틴 벨트 A (ROT A)
+!rot_new_pasek_2 = 서펀틴 벨트 B (ROT A)
+!rot_new_pompa_wody = 워터 펌프 (ROT A)
+!rot_new_przepustnica = 스로틀 (ROT A)
+!rot_new_raczka_1 = 암 A (ROT A)
+!rot_new_raczka_2 = 암 B (ROT A)
+!rot_new_tlok = 로터 (ROT A)
+!rot_new_wahadlo = 크랭크샤프트 카운터웨이트 (ROT A)
+!rot_new_walKorbowy = 크랭크샤프트 (ROT A)
+
+!rot_old_filtr_dol = 공기 필터 베이스 (ROT B)
+!rot_old_filtr_gora = 공기 필터 덮개 (ROT B)
+!rot_old_filtr_srodek = 공기 필터 (ROT B)
+!rot_old_kable = 점화 케이블 (ROT B)
+!rot_old_kolektor_dolotowy = 흡기 매니폴드 (ROT B)
+!rot_old_kopulkaRozdzielacza = 점화 배전기 뚜껑 (ROT B)
+!rot_old_oslona_rozrzadu = 타이밍 덮개 (ROT B)
+!rot_old_pasek_1 = 서펀틴 벨트 (ROT B)
+!rot_old_raczka = 암 (ROT B)
+!rot_old_wentylator = 라디에이터 팬 (ROT B)
+
+!v6_30_blok = 엔진 블록 (V6 B)
+!v6_30_filtr_dol = 공기 필터 베이스 (V6 B)
+!v6_30_filtr_gora = 공기 필터 덮개 (V6 B)
+!v6_30_filtr_srodek = 공기 필터 (V6 B)
+!v6_30_gearbox = 기어박스 (V6 B)
+!v6_30_glowica_1 = 엔진 헤드 (V6 B)
+!v6_30_glowica_2 = 엔진 헤드 (V6 B)
+!v6_30_glowica_raczka = 캠샤프트 베어링 (V6 B)
+!v6_30_kolektor_dolotowy = 흡기 매니폴드 A (V6 B)
+!v6_30_kolektor_dolotowy_dolny = 흡기 매니폴드 B (V6 B)
+!v6_30_kolektor_wydechowy = 배기 매니폴드 (V6 B)
+!v6_30_listwa_wtryskowa = 연료 레일 (V6 B)
+!v6_30_miska_olejowa = 오일 팬 (V6 B)
+!v6_30_oslona_rozrzadu_1 = 타이밍 덮개 A (V6 B)
+!v6_30_oslona_rozrzadu_2 = 타이밍 덮개 B (V6 B)
+!v6_30_oslona_rozrzadu_3 = 타이밍 덮개 C (V6 B)
+!v6_30_pasek_1 = 서펀틴 벨트 A (V6 B)
+!v6_30_pasek_2 = 서펀틴 벨트 B (V6 B)
+!v6_30_pokrywa_glowicy_1 = 엔진 헤드 덮개 A (V6 B)
+!v6_30_pokrywa_glowicy_2 = 엔진 헤드 덮개 B (V6 B)
+!v6_30_pokrywa_glowicy_3 = 엔진 헤드 커버 C (V6 B)
+!v6_30_pompaWspomagania = 파워 스티어링 펌프 (V6 B)
+!v6_30_pompa_wody = 워터 펌프 (V6 B)
+!v6_30_przepustnica = 스로틀 (V6 B)
+!v6_30_raczka_1 = 암 (V6 B)
+!v6_30_rolkaWalka = 캠 기어 (V6 B)
+!v6_30_termostat = 서모스탯 (V6 B)
+!v6_30_walek_rozrzadu = 캠샤프트 (V6 B)
+!v6_30_walKorbowy = 크랭크샤프트 (V6 B)
+
+!v8_409_blok = 엔진 블록 (V8 OHV B)
+!v8_409_filtr_gora = 공기 필터 덮개 (V8 OHV B)
+!v8_409_glowica_1 = 엔진 헤드 (V8 OHV B)
+!v8_409_glowica_2 = 엔진 헤드 (V8 OHV B)
+!v8_409_kable = 점화 케이블 (V8 OHV B)
+!v8_409_kolektor_dolotowy = 흡기 매니폴드 (V8 OHV B)
+!v8_409_kolektor_wydechowy = 배기 매니폴드 (V8 OHV B)
+!v8_409_miska_olejowa = 오일 팬 (V8 OHV B)
+!v8_409_oslona_rozrzadu = 타이밍 덮개 (V8 OHV B)
+!v8_409_pasek_1 = 서펀틴 벨트 A (V8 OHV B)
+!v8_409_pasek_2 = 서펀틴 벨트 B (V8 OHV B)
+!v8_409_pokrywa_glowicy = 엔진 헤드 덮개 (V8 OHV B)
+!v8_409_pompa_wody = 워터 펌프 (V8 OHV B)
+!v8_409_raczka_1 = 암 (V8 OHV B)
+!v8_409_tlok = 피스톤 로드 (V8 OHV B)
+!v8_409_walek_popychaczy = 캠샤프트 (V8 OHV B)
+!v8_409_walKorbowy = 크랭크샤프트 (V8 OHV B)
+!v8_409_tlok_pierscienie_1 = 피스톤 링 (V8 OHV B)
+
+!v8_hemi_blok = 엔진 블록 (V8 OHV C)
+!v8_hemi_dzwignia_zaworu = 록커 암 (V8 OHV C)
+!v8_hemi_filtr_dol = 공기 필터 베이스 (V8 OHV C)
+!v8_hemi_filtr_gora = 공기 필터 덮개 (V8 OHV C)
+!v8_hemi_filtr_srodek = 공기 필터 (V8 OHV C)
+!v8_hemi_gaznik_1 = 카뷰레터 A (V8 OHV C)
+!v8_hemi_gaznik_2 = 카뷰레터 B (V8 OHV C)
+!v8_hemi_glowica_1 = 엔진 헤드 (V8 OHV C)
+!v8_hemi_glowica_2 = 엔진 헤드 (V8 OHV C)
+!v8_hemi_kable = 점화 케이블 (V8 OHV C)
+!v8_hemi_kolektor_dolotowy = 흡기 매니폴드 (V8 OHV C)
+!v8_hemi_kolektor_wydechowy = 배기 매니폴드 (V8 OHV C)
+!v8_hemi_miska_olejowa = 오일 팬 (V8 OHV C)
+!v8_hemi_oslona_rozrzadu = 타이밍 덮개 (V8 OHV C)
+!v8_hemi_pasek_1 = 서펀틴 벨트 A (V8 OHV C)
+!v8_hemi_pasek_2 = 서펀틴 벨트 B (V8 OHV C)
+!v8_hemi_pokrywa_glowicy_1 = 엔진 헤드 덮개 A (V8 OHV C)
+!v8_hemi_pokrywa_glowicy_2 = 엔진 헤드 덮개 B (V8 OHV C)
+!v8_hemi_pompa_wody = 워터 펌프 (V8 OHV C)
+!v8_hemi_raczka_1 = 암 A (V8 OHV C)
+!v8_hemi_raczka_2 = 암 B (V8 OHV C)
+!v8_hemi_tlok = 피스톤 로드 (V8 OHV C)
+!v8_hemi_walek_popychaczy = 캠샤프트Camshaft (V8 OHV C)
+!v8_hemi_walKorbowy = 크랭크샤프트 (V8 OHV C)
+!v8_hemi_tlok_pierscienie_1 = 피스톤 링 (V8 OHV C)
+
+!v8_magnum_dzwignia_zaworu = 록커 암 (V8 OHV D)
+!v8_magnum_filtr_gora = 공기 필터 덮개 (V8 OHV D)
+!v8_magnum_glowica_1 = 엔진 헤드 (V8 OHV D)
+!v8_magnum_glowica_2 = 엔진 헤드 (V8 OHV D)
+!v8_magnum_kable = 점화 케이블 (V8 OHV D)
+!v8_magnum_kolektor_dolotowy = 흡기 매니폴드 (V8 OHV D)
+!v8_magnum_kolektor_wydechowy = 배기 매니폴드 (V8 OHV D)
+!v8_magnum_pokrywa_glowicy_1 = 엔진 헤드 덮개 A (V8 OHV D)
+!v8_magnum_pokrywa_glowicy_2 = 엔진 헤드 덮개 B (V8 OHV D)
+
+!v8_sixpack_filtr_dol = 공기 필터 베이스 (V8 OHV E)
+!v8_sixpack_filtr_gora = 공기 필터 덮개 (V8 OHV E)
+!v8_sixpack_filtr_srodek = 공기 필터  (V8 OHV E)
+!v8_sixpack_gaznik = 카뷰레터 A (V8 OHV E)
+!v8_sixpack_gaznik_1 = 카뷰레터 B (V8 OHV E)
+!v8_sixpack_gaznik_2 = 카뷰레터 C (V8 OHV E)
+!v8_sixpack_kolektor_dolotowy = 흡기 매니폴드 (V8 OHV E)
+
+!v8_zz_blok = 엔진 블록 (V8 OHV F)
+!v8_zz_filtr_dol = 공기 필터 베이스 (V8 OHV F)
+!v8_zz_filtr_gora = 공기 필터 덮개 (V8 OHV F)
+!v8_zz_filtr_srodek = 공기 필터 (V8 OHV F)
+!v8_zz_gaznik = 카뷰레터 (V8 OHV F)
+!v8_zz_gearbox = 기어박스 (V8 OHV F)
+!v8_zz_glowica = 엔진 헤드 (V8 OHV F)
+!v8_zz_kable = 점화 케이블 (V8 OHV F)
+!v8_zz_kolektor_dolotowy = 흡기 매니폴드 (V8 OHV F)
+!v8_zz_kolektor_wydechowy = 배기 매니폴드 (V8 OHV F)
+!v8_zz_lancuch = 타이밍 체인 (V8 OHV F)
+!v8_zz_miska_olejowa = 오일 팬 (V8 OHV F)
+!v8_zz_oslona_rozrzadu = 타이밍 덮개 (V8 OHV F)
+!v8_zz_pasek_1 = 서펀틴 벨트 (V8 OHV F)
+!v8_zz_pokrywa_glowicy_1 = 엔진 헤드 덮개 A (V8 OHV F)
+!v8_zz_pokrywa_glowicy_2 = 엔진 헤드 덮개 B (V8 OHV F)
+!v8_zz_pompa_wody = 워터 펌프 (V8 OHV F)
+!v8_zz_pompa_wspomagania = 파워 스티어링 펌프 (V8 OHV F)
+!v8_zz_popychacz = 밸브 밀대 (V8 OHV F)
+!v8_zz_przepustnica = 스로틀 (V8 OHV F)
+!v8_zz_raczka_1 = 암 A (V8 OHV F)
+!v8_zz_raczka_2 = 암 B (V8 OHV F)
+!v8_zz_walek_popychaczy = 캠샤프트 (V8 OHV F)
+!v8_zz_walKorbowy = 크랭크샤프트 (V8 OHV F)
+
+!w_i3_poczatkowy_2 = 전면 배기 구간 A (I3)
+!w_i3_poczatkowy = 전면 배기 구간 B (I3)
+!w_i4_4x4_poczatkowy = 전면 배기 구간 A (I4 B)
+!w_i4_poczatkowy = 전면 배기 구간  B (I4 B)
+!w_i6_old_poczatkowy = 전면 배기 구간 (I6 B)
+!w_v6_30_koncowy = 후면 배기통 (V6 B)
+!w_v6_30_poczatkowy_1 = 전면 배기 구간 A (V6 B)
+!w_v6_30_poczatkowy_2 = 전면 배기 구간 B (V6 B)
+!w_v8_409_poczatkowy = 전면 배기 구간 (V8 OHV B)
+!w_v8_magnum_poczatkowy = 전면 배기 구간 (V8 OHV D)
+!w_v8_zz_poczatkowy = 전면 배기 구간 (V8 OHV F)
+!w_tlumik_koncowy_2 = 후면 배기통 B
+!w_tlumik_koncowy_3 = 후면 배기통 C
+!w_tlumik_koncowy_4 = 후면 배기통 D
+!w_koncowy_challenger = 후면 배기통 E
+!w_v6_30_koncowy = 후면 배기통 F
+!w_v6_30_poczatkowy_1 = 전면 배기 구간 A (V6 B)
+!w_v6_30_poczatkowy_2 = 전면 배기 구간 B (V6 B)
+
+//--------------- Rebind
+GUI_Rebind_PressToAssign = 지정할 키를 누르세요...
+GUI_Rebind_CannotAssign = 이 키를 지정할 수 없습니다
+GUI_Rebind_None = 없음
+GUI_Rebind_W = 앞으로 가기 / 차 가속하기 / 카메라 이동하기
+GUI_Rebind_S = 뒤로 가기 / 차 브레이크 / 카메라 이동하기
+GUI_Rebind_A = 왼쪽으로 걷기 / 차 좌회전 / 카메라 이동하기
+GUI_Rebind_D = 오른쪽으로 걷기 / 차 우회전 / 카메라 이동하기
+GUI_Rebind_LMC = 동작
+GUI_Rebind_RMC = 퀵 메뉴
+GUI_Rebind_ESC = 돌아가기 / 나가기
+GUI_Rebind_C = 앉기 / 차 카메라 변경
+GUI_Rebind_Q = 카메라 줌 인
+GUI_Rebind_E = 카메라 줌 아웃
+GUI_Rebind_T = 빠른 타블렛
+GUI_Rebind_I = 빠른 인벤토리
+GUI_Rebind_U = 빠른 차 정보
+GUI_Rebind_O = 빠른 임무목록
+GUI_Rebind_ENTER = 수락
+GUI_Rebind_SHIFT = 특수 옵션
+GUI_Rebind_SPACE = 차 핸드 브레이크
+
+//----------- Added=
+GUI_TutorialFinishAsk=튜토리얼을 종료하고 게임을 시작하겠습니까?
+TutorialTitle20=배터리 충전기
+TutorialDesc20=배터리 충전에 사용합니다
+!i3_filtr_oleju=오일 필터 (I3)
+!seat_challenger=^SeatName 도전자
+pie_equipment_mount=장착
+pie_equipment_mount_bonus=엔진을 차에 장착합니다
+pie_equipment_unmount=탈착
+pie_equipment_unmount_bonus=엔진을 차에서 꺼냅니다
+!rot_filtr_oleju=오일 필터 (ROT)																								
+#IntercoolerS=작은 인터쿨러
+#IntercoolerM=중간 인터쿨러
+#IntercoolerL=큰 인터쿨러
+!intercooler_small_1=작은 인터쿨러
+!intercooler_medium_1=중간 인터쿨러
+!intercooler_big_1=큰 인터쿨러
+#AirIntake_RotNew=^#airintake
+!polosNapedowa_5=전면 구동축 D
+!w_rot_old_poczatkowy = 전면 배기 구간 (ROT B)
+!w_rot_new_poczatkowy = 전면 배기 구간 (ROT A)
+mode_InteriorDisassemble = 인테리어 분해 모드
+mode_InteriorAssemble = 인테리어 조립 모드
+PopUp_TakenGroup = 선택된 그룹
+GUI_EngineOilCrain = 엔진 크레인에 장착하기 전에 엔진에서 오일을 따라낸다
+GUI_CollectedItems = 수집한 아이템
+GUI_FoundItems = 발견한 아이템
+!v6_30_gearbox_2 = 기어박스 B(V6 B)
+GUI_NoDLC = |{0}에 필요한 DLC를 보유하고 있지 않습니다.
+GUI_CarFileCorrupted = 차의 데이터 파일이 오염 되었습니다. 차가 삭제될 예정이니, 세이브를 하여 파일을 보관하세요.
+GUI_SellAll = 모두 팔기
+!bench_challenger=^BenchName 도전자
+!steering_wheel_charger=^SteeringWheelName 차져
+GUI_AccelerateToStart = 가속하여 시작하십시오
+MM_MouseAcceleration = 마우스 가속
+MM_MouseInvert = Invert 마우스
+MM_MouseSensitivity = 마우스 민감도
+GUI_LapNo = 랩
+GUI_Checkpoint = 체크 포인트
+GUI_LastLap = 마지막 랩
+GUI_NoOilPan=오일팬이 없습니다. 작동을 할 수 없습니다.
+GUI_AskSellJunk=모든 잡템을 파시겠습니까?
+GUI_AskSellAll=모든 부품을 파시겠습니까?
+
+GUI_Parking_Window = 주차장
+GUI_Parking_GoTo = 주차장으로 가기
+GUI_Parking_Buy = 주차장 구매하기
+GUI_Parking_Name = 주차장 : 레벨 {0}
+GUI_Parking_StoredCars = 보관된 차량
+
+M_OpcjeOther9 = 탑승/하차시 줌하기
+GUI_Map_FunTrack = 버려진 공항
+GUI_PotwierdzenieAkcjiKoszt = 비용은 {0} 입니다. 확실합니까?
+#enginestand=Engine Stand
+GUI_TextFrameCondition = 프레임 상태
+GUI_TextInteriorCondition = 내부 조건
+GUI_CaseOpenConfirm=케이스를 여시겠습니까?
+GUI_MapReadConfirm=맵에 헛간을 추가하시겠습니까?
+GUI_BarnFull=맵에 헛간이 가득찼습니다. 선택하여 헛간에 방문하세요.
+
+M_OpcjeGrafiki9=꽃
+M_OpcjeGrafiki10=스크린 역광
+M_OpcjeGrafiki12=그림자 거리
+
+MM_Rebind = 컨트롤 재배치
+
+MM_stat_bolts=볼트 해제
+MM_stat_balancedwheels=벨런스 휠
+MM_stat_carfix=자동차 고정
+MM_stat_ordercanceled=버려진 주문
+MM_stat_bodyfix=바디 부품 고정
+MM_stat_partfix=자동차 부품 고정
+MM_stat_paintcar=Painted Cars
+MM_stat_testride=완료된 테스트 드라이브
+MM_stat_examine=검사된 부품
+MM_stat_salon=살롱에서 구입 한 자동차
+MM_stat_dealer=자동차 판매
+MM_stat_songs=노래 듣기
+MM_stat_classic=고정 된 오래된 자동차
+
+!engine_v6_30_rwd = V6 DOHC
+!engine_i4_l134 = I4
+!engine_v8_392hemi = V8 HEMI
+!engine_v6_pentastar = V6 DOHC
+
+!w_v6_30_poczatkowy_h1 = 전면 배기 구간 C (V6 B)
+
+!i4_l134_blok=엔진 블록 (I4 C)
+!i4_l134_filtr_gora=공기 필터 덮개 (I4 C)
+!i4_l134_filtr_srodek=공기 필터 (I4 C)
+!i4_l134_glowica=엔진 헤드 (I4 C)
+!i4_l134_kable=점화 케이블 (I4 C)
+!i4_l134_kolektor_dolotowy=흡기 매니폴드 (I4 C)
+!i4_l134_kolektor_wydechowy=배기 매니폴드 (I4 C)
+!i4_l134_kopulkaRozdzielacza_1=점화 배전기 뚜껑 (I4 C)
+!i4_l134_miska_olejowa=오일 팬 (I4 C)
+!i4_l134_obudowa_filtra_dol=공기 필터 베이스 (I4 C)
+!i4_l134_obudowa_filtra_gora=공기 필터 덮개 B (I4 C)
+!i4_l134_pompaWody=워터 펌프 (I4 C)
+!i4_l134_walek=캠샤프트 (I4 C)
+!i4_l134_walKorbowy_1=크랭크샤프트 (I4 C)
+
+!v6_pentastar_blok=엔진 블록 (V6 C)
+!v6_pentastar_cewka=점화 코일 (V6 C)
+!v6_pentastar_glowica_1=엔진 헤드 A (V6 C)
+!v6_pentastar_glowica_2=엔진 헤드 B (V6 C)
+!v6_pentastar_glowica_wkladka=캠 샤프트 (V6 C)
+!v6_pentastar_kolektor_dolotowy=흡기 매니폴드 A (V6 C)
+!v6_pentastar_kolektor_dolotowy_dolny=흡기 매니폴드 B (V6 C)
+!v6_pentastar_kolektor_wydechowy=배기 매니폴드 (V6 C)
+!v6_pentastar_lancuch_1=타이밍 체인 A (V6 C)
+!v6_pentastar_lancuch_2=타이밍 체인 B (V6 C)
+!v6_pentastar_lancuch_3=타이밍 체인 C (V6 C)
+!v6_pentastar_oslona_rozrzadu=타이밍 덮게 (V6 C)
+!v6_pentastar_pasek=서펀틴 벨트 (V6 C)
+!v6_pentastar_pokrywa_glowicy_1=엔진 헤드 덮개 A (V6 C)
+!v6_pentastar_pokrywa_glowicy_2=엔진 헤드 덮개 B (V6 C)
+!v6_pentastar_pompa_wody=워터 펌프 (V6 C)
+!v6_pentastar_slizg_1=타이밍 체인 슈 (V6 C)
+!v6_pentastar_walek_rozrzadu=캠샤프트 (V6 C)
+!v6_pentastar_walKorbowy=크랭크샤프트 (V6 C)
+
+!v8_392_blok=엔진 블록 (V8 OHV G)
+!v8_392_cewka_1=점화 코일 (V8 OHV G)
+!v8_392_dzwignia_zaworu=록커 암 (V8 OHV G)
+!v8_392_glowica_1=엔진 헤드 A (V8 OHV G)
+!v8_392_glowica_2=엔진 헤드 B (V8 OHV G)
+!v8_392_kolektor_dolotowy=흡기 매니폴드 (V8 OHV G)
+!v8_392_kolektor_wydechowy=배기 매니폴드 (V8 OHV G)
+!v8_392_oslona_1=타이밍 체인 A (V8 OHV G)
+!v8_392_oslona_2=타이밍 체인 B (V8 OHV G)
+!v8_392_oslona_rozrzadu=타이밍 덮개 (V8 OHV G)
+!v8_392_pasek=Serpentine Belt (V8 OHV G)
+!v8_392_pokrywa_glowicy_1=Engine Head Cover A (V8 OHV G)
+!v8_392_pompa_wody=Water Pump (V8 OHV G)
+
+!i4_l134_obudowa_filtraOleju=오일 필터 베이스 (I4 C)
+!i4_l134_pokrywa_obudowy_filtraOleju=오일 필터 덮개 (I4 C)
+!i4_l134_filtrOleju=오일 필터 (I4 C)
+!i4_l134_gearbox=기어박스 (I4 C)
+!i4_l134_oslona_rozrzadu=타이밍 덮개 (I4 C)
+!v8_392_miska_olejowa=오일 팬 (V8 OHV G)
+!walNapedowy_3=전면 드라이브 샤프트 D
+!w_v6_30_poczatkowy_h4=전면 배기 구간 C (V6 B)
+!v8_hemi_tlok_pierscienie_1=피스톤 링 (V8 OHV C)
+!skrzyniaRozdzielcza_3=트렌스퍼 케이스 (I4 C)
+!v8_392_pokrywa_glowicy_2=엔진 헤드 덮개 B (V8 OHV G)
+!walNapedowy_5=전면 드라이브 샤프트 G
+!steering_wheel_jeep=^SteeringWheelName 지프
+!walNapedowy_6=전면 드라이브 샤프트 F
+!mostPrzedni_2=전면 구동축 E
+!zwrotnicaPrzodBeben_2=전면 스티어링 너클 E
+!zwrotnicaPrzodBeben_2_pierscien=전면 스티어링 너클 E Ring
+!polosNapedowa_8=전면 구동축 F
+!w_v8_392hemi_poczatkowy=전면 배기 구간 (V8 OHV G)
+!w_i4_l134_poczatkowy=전면 배기 구간 (I4 C)
+!rim_wrangler=^RimName 엥글러
+!seat_wrangler=^SeatName 엥글러
+!bench_wrangler=^BenchName 엥글러
+!seat_cherokeesrt=^SeatName Cherokee
+!bench_cherokeesrt=^BenchName Cherokee
+GUI_Map_OffroadTrack = 오프로드 트랙
+!w_ruraLaczaca2=배기 파이프 B
+GUI_CaseContent = 사례 내용
+GUI_CaseInfo = 축하합니다.! 주문을 완료하면 더 많은 사례를 얻을 수 있습니다.
+GUI_CaseButton = 수집 항목
+
+GUI_EngineInfo_A = Chiptuning / Carburettor 튜닝
+GUI_EngineInfo_B = 측정 엔진 파워
+GUI_EngineInfo_C = 공장 엔진 파워
