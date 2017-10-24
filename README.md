@@ -2,6 +2,11 @@
 
 원본 링크: [http://bbs.ruliweb.com/news/board/1003/read/2135001](http://bbs.ruliweb.com/news/board/1003/read/2135001)
 
+## 관련 용어
+- Car Mechanic Simulator 2018
+- cms2018
+- 카 메카닉 시뮬레이터 2018
+
 ```
 한글 패치 최초 작성자는 루리웹의 일편단신님입니다.
 ```
