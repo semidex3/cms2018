@@ -934,7 +934,7 @@ OD_EasyMode_Repair = (공급된 목록)
 !akumulator = 배터리
 !alternator = 얼터네이터
 !amortyzator_double = 더블 위시본 충격 흡수 장치
-!amortyzatorPrzod_1 = 전면 쇼크 업소버
+!amortyzatorPrzod_1 = 전면 쇼크 업소버 A
 !amortyzatorTyl_1 = 후면 충격 흡수 장치 A
 !amortyzatorTyl_2 = 후면 충격 흡수 장치 B
 !bagnet_1 = 오일 딥스틱
@@ -2633,3 +2633,5 @@ GUI_EngineInfo_B = 측정 엔진 파워
 GUI_EngineInfo_C = 공장 엔진 파워
 GUI_EngineInfo_D = 이득 / 손실
 GUI_RunDyno = 다이노 실행
+
+!amortyzatorPrzod_2 = 전면 쇼크 업소버 B
