@@ -2659,3 +2659,8 @@ GUI_PotwierdzenieRozpoczeciaDyno=Are you sure you want to proceed with the dyno 
 !t_rot_new_cewki=^!rot_new_cewki
 !t_i6_old_glowica=^!i6_old_glowica
 !t_rot_new_filtr_srodek=^!rot_new_filtr_srodek
+
+M_Backup_Recover = Recover from backup
+M_Backup_RecoverAsk = Do you want to recover save from backup?| Backup date : {0}
+M_OpcjeOther10=Unrealistic wheel sizes
+M_OpcjeOther11=Enable travel fees

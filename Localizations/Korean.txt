@@ -2659,3 +2659,8 @@ GUI_PotwierdzenieRozpoczeciaDyno=다이나모미터 테스트를 계속 진행 �
 !t_rot_new_cewki=^!rot_new_cewki
 !t_i6_old_glowica=^!i6_old_glowica
 !t_rot_new_filtr_srodek=^!rot_new_filtr_srodek
+
+M_Backup_Recover = 백업 복구
+M_Backup_RecoverAsk = 백업 파일을 복구하시겠습니까?| 백업 일자 : {0}
+M_OpcjeOther10=비현실적인 바퀴 크기
+M_OpcjeOther11=여행 경비 사용
