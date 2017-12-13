@@ -32,6 +32,8 @@
 ![InteriorShop](https://github.com/semidex3/cms2018/blob/master/Images/InteriorShop.jpg)
 ![LicensePlateShop](https://github.com/semidex3/cms2018/blob/master/Images/LicensePlateShop.jpg)
 ![MainShop](https://github.com/semidex3/cms2018/blob/master/Images/MainShop.jpg)
+![TuningShop](https://github.com/semidex3/cms2018/blob/master/Images/TuningShop.jpg)
+![BodyTuningShop](https://github.com/semidex3/cms2018/blob/master/Images/BodyTuningShop.jpg)
 ![Menu_1](https://github.com/semidex3/cms2018/blob/master/Images/Menu_1.jpg)
 ![Menu_2](https://github.com/semidex3/cms2018/blob/master/Images/Menu_2.jpg)
 ![Menu_3](https://github.com/semidex3/cms2018/blob/master/Images/Menu_3.jpg)

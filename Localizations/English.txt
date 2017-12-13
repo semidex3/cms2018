@@ -2664,3 +2664,34 @@ M_Backup_Recover = Recover from backup
 M_Backup_RecoverAsk = Do you want to recover save from backup?| Backup date : {0}
 M_OpcjeOther10=Unrealistic wheel sizes
 M_OpcjeOther11=Enable travel fees
+
+AssetError1 = There are problem with following assets
+AssetError2 = Choose between 2 options :|1) Quit to menu leaving save game intact (try to install dlc or mod again, check if Steam is in online mode and <color=#ff0000ff>try load game again</color>)||2) Continue playing without missing mods/dlc's (missing cars/parts will be <color=#ff0000ff>permanently</color> deleted from your save game)
+AssetErrorButton1 = Quit to menu (1)
+AssetErrorButton2 = Continue playing (2)
+
+GUI_Map_SpeedTrack=Speed Track
+!v8_hemi_gaznik_1=Carburetor A (V8 OHV H)
+!v8_hemi_gaznik_2=Carburetor B (V8 OHV H)
+!v8_hemi_glowica_1=Engine Head A (V8 OHV H)
+!v8_hemi_glowica_2=Engine Head B (V8 OHV H)
+!v8_hemi_kable=Ignition Wires (V8 OHV H)
+!v8_hemi_kolektor_dolotowy=Intake Manifold (V8 OHV H)
+!v8_hemi_kolektor_wydechowy=Exhaust Manifold (V8 OHV H)
+!v8_cuda_filtr_2carb_dol=Air Filter Base (Hemi Cuda)
+!v8_cuda_filtr_2carb_gora=Air Filter Cover (Hemi Cuda)
+!v8_cuda_filtr_2carb_srodek=Air Filter (Hemi Cuda)
+!v8_cuda_shaker=Shaker (Hemi Cuda)
+!v8_hemi_dzwignia_zaworu=Rocker Arms (V8 OHV H)
+!v8_hemi_pokrywa_glowicy_1=Engine Head Cover A
+!v8_hemi_pokrywa_glowicy_2=Engine Head Cover B
+!v8_hemi_filtr_dol=Air Filter Base (V8 OHV H)
+!v8_hemi_filtr_gora=Air Filter Cover (V8 OHV H)
+!v8_hemi_filtr_srodek=Air Filter (V8 OHV H)
+!w_v8_hemicuda_koncowy=Rear Muffler (Hemi Cuda)
+!engine_v8_hemiShaker=V8 OHV HEMI SHAKER
+#benchFront = Front Bench
+#intercooler = Intercooler
+!tire_vintage_race = Vintage Race Tire
+!tire_vintage_race_2 = ^!tire_vintage_race B
+GUI_WorkshopBodyShop=Community Cars Body Shop
