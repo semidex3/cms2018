@@ -16,7 +16,7 @@
 패치 경로
 > steamlibrary\steamapps\Car mechanic Simulator 2018\cms2018_Data\StreamingAssets\Localizations
 
-1. 한글 패치 파일 Korean.txt 패치 경로에 복사합니다.
+1. 한글 패치 파일 [Korean.txt](https://raw.githubusercontent.com/semidex3/cms2018/master/Localizations/Korean.txt) 패치 경로에 복사합니다.
 2. 옵션 메뉴에서 Settings - Game Settings - Game Language 에서 Korean 을 선택후 apply 합니다.
 
 ### 한글 패치 설정 위치
