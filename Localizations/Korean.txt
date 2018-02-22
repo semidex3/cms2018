@@ -2702,3 +2702,41 @@ GUI_CompleteEngineNeeded= 이 작업을 수행하려면 엔진을 완료해야�
 !rim_bentley_continental_2 = 왼쪽 림 콘티넨탈 GT
 !zaciskHamulcowy_2 = 브레이크 칼리퍼 B
 !zwrotnicaPrzod_double4 = 전면 스티어링 너클 F
+
+MM_Reset = 재설정
+
+#front_clamshell = 전면 클램쉘
+#rear_clamshell = 후면 클램쉘
+
+GUI_Desc_PhotoZoom = 확대/축소
+GUI_Desc_PhotoRotate = 회전
+GUI_Desc_PhotoHeight = 높이 변경
+
+GL_Option = 옵션
+GL_Section0 = 바닥 A
+GL_Section1 = 바닥 B
+GL_Section2 = 오일 제거기
+GL_Section3 = 벽 A
+GL_Section4 = 벽 B
+GL_Section5 = 벽 C
+GL_Section6 = 벽 D
+GL_Section7 = 문 A
+GL_Section8 = 문 B
+GL_Section9 = 문 C
+GL_Section10 = 문 D
+GL_Section11 = 캐비넷
+GL_Section12 = 사무실
+GL_Section13 = 컬럼 A
+GL_Section14 = 컬럼 B
+GL_Section15 = 컬럼 C
+GL_Section16 = 자동차 리프터 A
+GL_Section17 = 자동차 리프터 B
+GL_Section18 = 자동차 리프터 C
+GL_Section19 = 얼룩 A
+GL_Section20 = 얼룩 B
+GL_Section21 = 얼룩 C
+GL_Section22 = 얼룩 D
+GL_Section23 = 쓰레기통
+
+MM_Benchmark = 벤치 마크 실행
+#garageLook = 차고 커스터마이징

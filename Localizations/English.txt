@@ -110,7 +110,7 @@ Diag_FrontSuspension = Front Suspension
 Diag_RearSuspension = Rear Suspension
 
 //--------------------------------------------------------------------------- Car Info
-GUI_CarInfoTitle = Car Informations
+GUI_CarInfoTitle = Car Information
 GUI_TextBodyCondition = Global body condition
 GUI_TextPartsCondition = Global parts condition
 GUI_TextOddo = Mileage
@@ -2702,3 +2702,41 @@ GUI_CompleteEngineNeeded= Engine needs to be complete to perform this action.
 !rim_bentley_continental_2 = Rim Continental GT Left Side
 !zaciskHamulcowy_2 = Brake Caliper B
 !zwrotnicaPrzod_double4 = Front Steering Knuckle F
+
+MM_Reset = Reset
+
+#front_clamshell = Front Clamshell
+#rear_clamshell = Rear Clamshell
+
+GUI_Desc_PhotoZoom = to zoom
+GUI_Desc_PhotoRotate = to rotate
+GUI_Desc_PhotoHeight = to change height
+
+GL_Option = Option
+GL_Section0 = Floor A
+GL_Section1 = Floor B
+GL_Section2 = Drain Grates
+GL_Section3 = Wall A
+GL_Section4 = Wall B
+GL_Section5 = Wall C
+GL_Section6 = Wall D
+GL_Section7 = Gate A
+GL_Section8 = Gate B
+GL_Section9 = Gate C
+GL_Section10 = Gate D
+GL_Section11 = Cabinets
+GL_Section12 = Office
+GL_Section13 = Column A 
+GL_Section14 = Column B
+GL_Section15 = Column C
+GL_Section16 = Car Lifter A
+GL_Section17 = Car Lifter B
+GL_Section18 = Car Lifter C
+GL_Section19 = Stains A
+GL_Section20 = Stains B
+GL_Section21 = Stains C
+GL_Section22 = Stains D
+GL_Section23 = Garbage
+
+MM_Benchmark = Run Benchmark
+#garageLook = Garage Look Customization
