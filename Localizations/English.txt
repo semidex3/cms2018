@@ -2705,8 +2705,8 @@ GUI_CompleteEngineNeeded= Engine needs to be complete to perform this action.
 
 MM_Reset = Reset
 
-#front_clamshell = Front Clamshell
-#rear_clamshell = Rear Clamshell
+#clamshell_front = Front Clamshell
+#clamshell_rear = Rear Clamshell
 
 GUI_Desc_PhotoZoom = to zoom
 GUI_Desc_PhotoRotate = to rotate
@@ -2726,7 +2726,7 @@ GL_Section9 = Gate C
 GL_Section10 = Gate D
 GL_Section11 = Cabinets
 GL_Section12 = Office
-GL_Section13 = Column A 
+GL_Section13 = Column A
 GL_Section14 = Column B
 GL_Section15 = Column C
 GL_Section16 = Car Lifter A
@@ -2740,3 +2740,62 @@ GL_Section23 = Garbage
 
 MM_Benchmark = Run Benchmark
 #garageLook = Garage Look Customization
+MM_Reset=Reset
+
+!r4_2_blok = Engine Block (I4 D)
+!r4_2_kable = Ignition Wires (I4 D)
+!r4_2_glowica = Engine Head (I4 D)
+!r4_2_lozyskowanie_walka = Camshaft With Bearing (I4 D)
+!r4_2_miska_olejowa = Oil Pan (I4 D)
+!r4_2_kolektor_dolotowy = Intake Manifold (I4 D)
+!r4_2_kolektor_wydechowy = Exhaust Manifold (I4 D)
+!r4_2_oslona_rozrzadu_przod_1 = Timing Cover Front A (I4 D)
+!r4_2_oslona_rozrzadu_przod_2 = Timing Cover Front B (I4 D)
+!r4_2_oslona_rozrzadu_tyl_1 = Timing Cover Back A (I4 D)
+!r4_2_oslona_rozrzadu_tyl_2 = Timing Cover Back B (I4 D)
+!r4_2_pasek_1 = Serpentine Belt A (I4 D)
+!r4_2_pasek_2 = Serpentine Belt B (I4 D)
+!r4_2_pokrywa_kabli = Ignition Wires Cover (I4 D)
+!r4_2_walek_rozrzadu = Camshaft (I4 D)
+!r4_2_walKorbowy = Crankshaft (I4 D)
+!r4_2_gearbox = Gearbox (I4 D)
+!r4_2_pokrywa_glowicy = Engine Head Cover (I4 D)
+!w_r4_2_koncowy_elise = Rear Exhaust Section (Elise)
+!w_r4_2_poczatkowy_elise = Front Exhaust Section (Elise)
+
+!r4_old_blok = Engine Block (I4 E)
+!r4_old_gearbox = Gearbox (I4 E)
+!r4_old_kable = Ignition Wires (I4 E)
+!r4_old_glowica = Engine Head A (I4 E)
+!r4_old_glowica_2_1 = Engine Head B (I4 E)
+!r4_old_glowica_2_2 = Engine Head C (I4 E)
+!r4_old_kopulkaRozdzielacza = Ignition Distributor Cap (I4 E)
+!r4_old_kolektor_dolotowy = Intake Manifold (I4 E)
+!r4_old_kolektor_wydechowy = Exhaust Manifold (I4 E)
+!r4_old_pasek_1 = Serpentine Belt A (I4 E)
+!r4_old_pasek_2 = Serpentine Belt B (I4 E)
+!r4_old_walKorbowy = Crankshaft (I4 E)
+!r4_old_pokrywa_glowicy_1 = Engine Head Cover A (I4 E)
+!r4_old_pokrywa_glowicy_2 = Engine Head Cover B (I4 E)
+!r4_old_pompaWody = Water Pump (I4 E)
+!r4_old_miska_olejowa = Oil Pan (I4 E)
+!r4_old_puszkaFiltra_tyl = Air Filter Base (I4 E)
+!r4_old_puszkaFiltra_przod = Air Filter Cover (I4 E)
+!w_r4_old_koncowy_esprit = Rear Exhaust Section (Esprit)
+!w_r4_old_poczatkowy_esprit = Front Exhaust Section (Esprit)
+
+!rim_elise = Rim Elise
+!rim_esprit = Rim Esprit
+!seat_elise = Seat Elise
+!seat_esprit = Seat Esprit
+!steering_wheel_elise = Steering Wheel Elise
+!steering_wheel_esprit = Steering Wheel Esprit
+
+!engine_r4_2 = I4 DOHC
+!engine_r4_old = I4 DOHC
+
+GUI_SellParts = Sell Parts
+GUI_SellPerCondition = Sell parts that condition is BELOW OR EQUAL to
+GUI_Desc_Photo = to operate camera functions
+GUI_Desc_PhotoFocus = to focus camera when using DOF
+GUI_SelectEngine = Select engine
