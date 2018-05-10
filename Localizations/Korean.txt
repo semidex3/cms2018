@@ -2905,3 +2905,66 @@ GUI_Difficulty_Expert = 전문가 모드
 !t_v12_huayra_przepustnica = ^!v12_huayra_przepustnica
 !t_v12_huayra_turbo = ^!v12_huayra_turbo
 !t_v12_glowica_2 = ^!v12_glowica_2
+
+!t_v8_gearbox_stary = ^!v8_gearbox_stary
+!t_v8_gearbox = ^!v8_gearbox
+!t_r4_gearbox_short = ^!r4_gearbox_short
+
+!w_v12_huayratempesta_koncowy = 후면 배기 구간 (Huayra Tempesta)
+!rim_huayratempesta = 림 Huayra Tempesta
+
+GUI_GearboxShop = 커스텀 기어박스 상점
+
+pie_tune_menu = 부품 튜닝
+pie_tune_menu_bonus = 특수 부품 설정을 변경하십시오.
+GUI_TuneWindow = 튜닝
+GUI_ResetTune = 튜닝 초기화
+GUI_SaveTune = 튜닝 저장
+GUI_ForwardGears = 전진 기어
+GUI_Ratio = 비율
+GUI_MaxSpeed = 최고 속도
+GUI_NumberOfGears = 기어 수
+
+GUI_NoTuneGearbox = 맞춤 기어 박스가 설치되어 있지 않습니다.
+GUI_NoTuneCarFromOrder = 튜닝은 자신이 소유 한 자동차에서만 할 수 있습니다.
+GUI_GearsFR = 최종 비율
+GUI_Gears1 = 1번
+GUI_Gears2 = 2번
+GUI_Gears3 = 3번
+GUI_Gears4 = 4번
+GUI_Gears5 = 5번
+GUI_Gears6 = 6번
+GUI_Gears7 = 7번
+GUI_Gears8 = 8번
+GUI_Gears9 = 9번
+GUI_Gears10 = 10번
+
+!t_v8_gearbox_stary = ^!v8_gearbox_stary
+!t_v8_gearbox = ^!v8_gearbox
+!t_r4_gearbox_short	= ^!r4_gearbox_short
+!t_i6_old_gearbox = ^!i6_old_gearbox
+!t_v6_30_gearbox = ^!v6_30_gearbox
+!t_r4_2_gearbox = ^!r4_2_gearbox
+!t_w12_gearbox = ^!w12_gearbox
+!t_v8_gearbox_stary2 = ^!v8_gearbox_stary2
+!t_r4_old_gearbox = ^!r4_old_gearbox
+!t_i4_l134_gearbox = ^!i4_l134_gearbox
+!t_rot_new_gearbox = ^!rot_new_gearbox
+!t_r4_gearbox_rwd = ^!r4_gearbox_rwd
+!t_v6_30_gearbox_2 = ^!v6_30_gearbox_2
+!t_i3_gearbox = ^!i3_gearbox
+!t_v8_gearbox_4x4 = ^!v8_gearbox_4x4
+!t_r4_gearbox_4x4 = ^!r4_gearbox_4x4
+!t_v8_zz_gearbox = ^!v8_zz_gearbox
+!t_v12_zonda_gearbox = ^!v12_zonda_gearbox
+!t_v12_huayra_gearbox = ^!v12_huayra_gearbox
+!t_w_i3_poczatkowy = ^!w_i3_poczatkowy
+!t_i3_kolektor_dolotowy = ^!i3_kolektor_dolotowy
+!t_i3_kolektor_wydechowy = ^!i3_kolektor_wydechowy
+!t_w_i3_poczatkowy_2 = ^!w_i3_poczatkowy_2
+
+GUI_TopSpeed = 최고 속도
+GUI_Timer = 타이머
+GUI_TuneGearing = 기어 튜닝
+
+GUI_PauseQuitMenu = 메뉴
