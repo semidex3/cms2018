@@ -2968,3 +2968,137 @@ GUI_Timer = Timer
 GUI_TuneGearing = Gearing
 
 GUI_PauseQuitMenu = Menu
+
+GUI_Map_CustomTrack = Workshop Maps
+GUI_SelectMapQuestion = Which map would you like to choose?
+
+!v8_f350_blok = Engine Block (V8 I)
+!v8_f350_dzwigniazaworu = Rocker Arm (V8 I)
+!v8_f350_glowica_1 = Engine Head A (V8 I)
+!v8_f350_glowica_2 = Engine Head B (V8 I)
+!v8_f350_glowica_wkladka = Camshaft Cap (V8 I)
+!v8_f350_kolektor_dolotowy = Intake Manifold (V8 I)
+!v8_f350_kolektor_wydechowy = Exhaust Manifold (V8 I)
+!v8_f350_oslona_rozrzadu = Timing Cover (V8 I)
+!v8_f350_pasek_1 = Serpentine Belt (V8 I)
+!v8_f350_pokrywa_glowicy_1 = Head Cover A (V8 I)
+!v8_f350_pokrywa_glowicy_2 = Head Cover B (V8 I)
+!v8_f350_rolka_walka = Cam Gear (V8 I)
+!v8_f350_walek_rozrzadu = Camshaft (V8 I)
+!v8_f350_kable = Ignition Wires A (V8 I)
+!v8_f350_kable_2 = Ignition Wires B (V8 I)
+!v8_f350_lancuch_1 = Timing Chain A (V8 I)
+!v8_f350_slizg_1 = Timing Chain Shoe (V8 I)
+
+!v8_coyote_blok = Engine Block (V8 J)
+!v8_coyote_glowica_1 = Engine Head A (V8 J)
+!v8_coyote_glowica_2 = Engine Head B (V8 J)
+!v8_coyote_glowica_wkladka = Camshaft Cap (V8 J)
+!v8_coyote_kolektor_dolotowy = Intake Manifold (V8 J)
+!v8_coyote_kolektor_wydechowy = Exhaust Manifold (V8 J)
+!v8_coyote_lancuch_1 = Timing Chain A (V8 L)
+!v8_coyote_lancuch_2 = Timing Chain B (V8 L)
+!v8_coyote_oslona_rozrzadu = Timing Cover (V8 J)
+!v8_coyote_pasek_1 = Serpentine Belt A (V8 J)
+!v8_coyote_pasek_2 = Serpentine Belt B (V8 J)
+!v8_coyote_pokrywa_glowicy_1 = Head Cover A (V8 J)
+!v8_coyote_pokrywa_glowicy_2 = Head Cover B (V8 J)
+!v8_coyote_pokrywa_swiec_1 = Coils Cover A (V8 J)
+!v8_coyote_pokrywa_swiec_2 = Coils Cover B (V8 J)
+!v8_coyote_rolka_walka_1 = Cam Gear A (V8 J)
+!v8_coyote_rolka_walka_2 = Cam Gear B (V8 J)
+!v8_coyote_slizg = Timing Chain Shoe (V8 J)
+!v8_coyote_walek_rozrzadu = Camshaft (V8 J)
+!v8_coyote_walKorbowy = Crankshaft (V8 J)
+!v8_coyote_pokrywa_silnika = Engine Cover (V8 J)
+
+!v8_429_filtr_dol = Air Filter Base (V8 OHV J)
+!v8_429_filtr_srodek = Air Filter (V8 OHV J)
+!v8_429_kolektor_dolotowy = Intake Manifold (V8 OHV J)
+!v8_429_kolektor_wydechowy = Exhaust Manifold (V8 OHV J)
+!v8_429_pokrywa_glowicy_1 = Head Cover A (V8 OHV J)
+!v8_429_pokrywa_glowicy_2 = Head Cover B (V8 OHV J)
+!v8_429_filtr_gora  = Air Filter Cover (V8 OHV J)
+!v8_429_filtr_podstawa = Air Filter Base B (V8 OHV J)
+
+!v8_289_blok = Engine Block (V8 OHV I)
+!v8_289_filtr_dol = Air Filter Base (V8 OHV I)
+!v8_289_filtr_gora = Air Filter Cover (V8 OHV I)
+!v8_289_filtr_srodek = Air Filter (V8 OHV I)
+!v8_289_glowica = Engine Head (V8 OHV I)
+!v8_289_kolektor_dolotowy = Intake Manifold (V8 OHV I)
+!v8_289_kolektor_dolotowy2 = Intake Manifold B (V8 OHV I)
+!v8_289_kolektor_wydechowy = Exhaust Manifold (V8 OHV I)
+!v8_289_kolektor_wydechowy_gt40 = Exhaust Manifold B (V8 OHV I)
+!v8_289_korekOleju = Oil Fill Plug (V8 OHV I)
+!v8_289_miska_olejowa = Oil Pan (V8 OHV I)
+!v8_289_pasek_1 = Serpentine Belt A (V8 OHV I)
+!v8_289_pasek_2 = Serpentine Belt B (V8 OHV I)
+!v8_289_pokrywa_glowicy_1 = Head Cover A (V8 OHV I)
+!v8_289_pokrywa_glowicy_2 = Head Cover B (V8 OHV I)
+!v8_289_raczka = Arm (V8 OHV I)
+!v8_289_rolka_pompy_wody = Water Pump Pulley (V8 OHV I)
+!v8_289_rozrzad_oslona = Timing Cover (V8 OHV I)
+!v8_289_wentylator = Radiator Fan (V8 OHV I)
+!v8_289_trabka = Air Trumpet (V8 OHV I)
+!v8_gearbox_stary3 = Gearbox B (V8 OHV)
+
+!v8_przepustnica_2 = Throttle B (V8)
+!engine_v8_289 = V8 OHV WINDSOR
+!engine_v8_289_racing = V8 OHV WINDSOR RACE
+!engine_v8_429 = V8 OHV 385
+!engine_v8_coyote = V8 DOHC COYOTE
+!engine_v8_f350 = V8 SOHC BOSS RWD
+!engine_v8_f350_4x4 = V8 SOHC BOSS
+
+!walNapedowy_7 = Front Drive Shaft G
+!w_koncowy_mustang2017 = Rear Muffler (Mustang)
+!w_koncowy_gt40 = Rear Muffler (GT40)
+
+!bench_mustang2017 = ^BenchName Mustang
+!bench_2017F-350 = ^BenchName F350
+!seat_fordgt40 = ^SeatName GT40
+!seat_mach = ^SeatName Mustang Mach 1
+!seat_mustang2017 = ^SeatName Mustang
+!seat_2017F-350 = ^SeatName F350
+!steering_wheel_mach = ^SteeringWheelName Mustang Mach 1
+!steering_wheel_mustang2017 = ^SteeringWheelName Mustang
+!steering_wheel_2017F-350 = ^SteeringWheelName F350
+!steering_wheel_fordgt40 = ^SteeringWheelName GT40
+!rim_fordgt40 = ^RimName GT40
+!rim_mustang2017 = ^RimName Mustang
+!rim_2017F-350 = ^RimName F350
+!rim_mach = ^RimName Mustang Mach 1
+!w_ruraLaczaca3 = Exhaust Pipe C
+!w_v8_koncowy2 = Rear Muffler B (V8)
+
+!t_v8_289_kolektor_wydechowy = ^!v8_289_kolektor_wydechowy
+!t_v8_289_kolektor_dolotowy= ^!v8_289_kolektor_dolotowy
+!t_v8_429_kolektor_wydechowy= ^!v8_429_kolektor_wydechowy
+!t_v8_429_kolektor_dolotowy= ^!v8_429_kolektor_dolotowy
+!t_v8_coyote_glowica_1= ^!v8_coyote_glowica_1
+!t_v8_429_filtr_srodek= ^!v8_429_filtr_srodek
+!t_v8_coyote_kolektor_dolotowy= ^!v8_coyote_kolektor_dolotowy
+!t_v8_f350_kolektor_wydechowy= ^!v8_f350_kolektor_wydechowy
+!t_v8_f350_glowica_1= ^!v8_f350_glowica_1
+!t_v8_f350_glowica_2= ^!v8_f350_glowica_2
+!t_v8_coyote_glowica_2= ^!v8_coyote_glowica_2
+!t_v8_coyote_kolektor_wydechowy= ^!v8_coyote_kolektor_wydechowy
+!t_v8_289_filtr_srodek= ^!v8_289_filtr_srodek
+!t_v8_289_glowica= ^!v8_289_glowica
+!t_v8_289_kolektor_dolotowy2= ^!v8_289_kolektor_dolotowy2
+!t_v8_f350_kolektor_dolotowy= ^!v8_f350_kolektor_dolotowy
+!t_w_koncowy_mustang2017=^!w_koncowy_mustang2017
+!t_w_koncowy_gt40=^!w_koncowy_gt40
+!t_w_ruraLaczaca3=^!w_ruraLaczaca3
+!t_w_v8_koncowy2=^!w_v8_koncowy2
+
+M_OpcjeGrafiki13=Detail Level
+M_OpcjeGrafiki14=Sharpening
+
+MM_SteeringCarSensitivity=Car Steering Sensitivity
+
+M_Stopniowanie11 = ^M_Stopniowanie1
+M_Stopniowanie22 = ^M_Stopniowanie2
+M_Stopniowanie33 = ^M_Stopniowanie3
+M_Stopniowanie44 = ^M_Stopniowanie4

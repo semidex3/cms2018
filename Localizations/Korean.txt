@@ -2968,3 +2968,137 @@ GUI_Timer = 타이머
 GUI_TuneGearing = 기어 튜닝
 
 GUI_PauseQuitMenu = 메뉴
+
+GUI_Map_CustomTrack = 워크샵 지도
+GUI_SelectMapQuestion = 어떤 지도를 선택하시겠습니까?
+
+!v8_f350_blok = 엔진 블록 (V8 I)
+!v8_f350_dzwigniazaworu = 록커 암(V8 I)
+!v8_f350_glowica_1 = 엔진 헤드 A (V8 I)
+!v8_f350_glowica_2 = 엔진 헤드 B (V8 I)
+!v8_f350_glowica_wkladka = 캠샤프트 캠 (V8 I)
+!v8_f350_kolektor_dolotowy = 흡기 매니폴드 (V8 I)
+!v8_f350_kolektor_wydechowy = 베기 매니폴드 (V8 I)
+!v8_f350_oslona_rozrzadu = 타이밍 덮개 (V8 I)
+!v8_f350_pasek_1 = 서펀틴 벨트 (V8 I)
+!v8_f350_pokrywa_glowicy_1 = 헤드 덮개 A (V8 I)
+!v8_f350_pokrywa_glowicy_2 = 헤드 덮개 B (V8 I)
+!v8_f350_rolka_walka = 캠 기어 (V8 I)
+!v8_f350_walek_rozrzadu = 캠샤프트 (V8 I)
+!v8_f350_kable = 점화 케이블 A (V8 I)
+!v8_f350_kable_2 = 점화 케이블 B (V8 I)
+!v8_f350_lancuch_1 = 타이밍 체인 A (V8 I)
+!v8_f350_slizg_1 = 타이밍 체인 슈 (V8 I)
+
+!v8_coyote_blok = 엔진 블록 (V8 J)
+!v8_coyote_glowica_1 = 엔진 헤드 A (V8 J)
+!v8_coyote_glowica_2 = 엔진 헤드 B (V8 J)
+!v8_coyote_glowica_wkladka = 캠샤프트 캠 (V8 J)
+!v8_coyote_kolektor_dolotowy = 흡기 매니폴드 (V8 J)
+!v8_coyote_kolektor_wydechowy = 배기 매니폴드 (V8 J)
+!v8_coyote_lancuch_1 = 타이밍 체인 A (V8 L)
+!v8_coyote_lancuch_2 = 타이밍 체인 B (V8 L)
+!v8_coyote_oslona_rozrzadu = 타이밍 덮개 (V8 J)
+!v8_coyote_pasek_1 = 서펀틴 벨트 A (V8 J)
+!v8_coyote_pasek_2 = 서펀틴 벨트 B (V8 J)
+!v8_coyote_pokrywa_glowicy_1 = 헤드 덮개 A (V8 J)
+!v8_coyote_pokrywa_glowicy_2 = 헤드 덮개 B (V8 J)
+!v8_coyote_pokrywa_swiec_1 = 코일 덮개 A (V8 J)
+!v8_coyote_pokrywa_swiec_2 = 코일 덮개 B (V8 J)
+!v8_coyote_rolka_walka_1 = 캠 기어 A (V8 J)
+!v8_coyote_rolka_walka_2 = 캠 기어 B (V8 J)
+!v8_coyote_slizg = 타이밍 체인 슈 (V8 J)
+!v8_coyote_walek_rozrzadu = 캠샤프트 (V8 J)
+!v8_coyote_walKorbowy = 크랭크샤프트 (V8 J)
+!v8_coyote_pokrywa_silnika = 엔진 덮개 (V8 J)
+
+!v8_429_filtr_dol = 공기 필터 베이스 (V8 OHV J)
+!v8_429_filtr_srodek = 공기 필터 (V8 OHV J)
+!v8_429_kolektor_dolotowy = 흡기 매니폴드 (V8 OHV J)
+!v8_429_kolektor_wydechowy = 배기 매니폴드 (V8 OHV J)
+!v8_429_pokrywa_glowicy_1 = 헤드 덮개 A (V8 OHV J)
+!v8_429_pokrywa_glowicy_2 = 헤드 덮개 B (V8 OHV J)
+!v8_429_filtr_gora  = 공기 필터 덮개 (V8 OHV J)
+!v8_429_filtr_podstawa = 공기 필터 베이스 B (V8 OHV J)
+
+!v8_289_blok = 엔진 블록 (V8 OHV I)
+!v8_289_filtr_dol = 공기 필터 베이스 (V8 OHV I)
+!v8_289_filtr_gora = 공기 필터 덮개 (V8 OHV I)
+!v8_289_filtr_srodek = 공기 필터 (V8 OHV I)
+!v8_289_glowica = 엔진 헤드 (V8 OHV I)
+!v8_289_kolektor_dolotowy = 흡기 매니폴드 (V8 OHV I)
+!v8_289_kolektor_dolotowy2 = 흡기 매니폴드 B (V8 OHV I)
+!v8_289_kolektor_wydechowy = 배기 매니폴드 (V8 OHV I)
+!v8_289_kolektor_wydechowy_gt40 = 배기 매니폴드 B (V8 OHV I)
+!v8_289_korekOleju = 오일 필터 플러그 (V8 OHV I)
+!v8_289_miska_olejowa = 오일 팬 (V8 OHV I)
+!v8_289_pasek_1 = 서펀틴 벨트 A (V8 OHV I)
+!v8_289_pasek_2 = 서펀틴 벨트 B (V8 OHV I)
+!v8_289_pokrywa_glowicy_1 = 헤드 덮개 A (V8 OHV I)
+!v8_289_pokrywa_glowicy_2 = 헤드 덮개 B (V8 OHV I)
+!v8_289_raczka = 암 (V8 OHV I)
+!v8_289_rolka_pompy_wody = 워터 펌프 퓰리 (V8 OHV I)
+!v8_289_rozrzad_oslona = 타이밍 덮개 (V8 OHV I)
+!v8_289_wentylator = 라디에이터 팬 (V8 OHV I)
+!v8_289_trabka = 공기 트럼펫 (V8 OHV I)
+!v8_gearbox_stary3 = 기어박스 B (V8 OHV)
+
+!v8_przepustnica_2 = 쓰로틀 B (V8)
+!engine_v8_289 = V8 OHV WINDSOR
+!engine_v8_289_racing = V8 OHV WINDSOR RACE
+!engine_v8_429 = V8 OHV 385
+!engine_v8_coyote = V8 DOHC COYOTE
+!engine_v8_f350 = V8 SOHC BOSS RWD
+!engine_v8_f350_4x4 = V8 SOHC BOSS
+
+!walNapedowy_7 = 전면 드라이브 샤프트 G
+!w_koncowy_mustang2017 = 후면 배기통 (Mustang)
+!w_koncowy_gt40 = 후면 배기통 (GT40)
+
+!bench_mustang2017 = ^BenchName Mustang
+!bench_2017F-350 = ^BenchName F350
+!seat_fordgt40 = ^SeatName GT40
+!seat_mach = ^SeatName Mustang Mach 1
+!seat_mustang2017 = ^SeatName Mustang
+!seat_2017F-350 = ^SeatName F350
+!steering_wheel_mach = ^SteeringWheelName Mustang Mach 1
+!steering_wheel_mustang2017 = ^SteeringWheelName Mustang
+!steering_wheel_2017F-350 = ^SteeringWheelName F350
+!steering_wheel_fordgt40 = ^SteeringWheelName GT40
+!rim_fordgt40 = ^RimName GT40
+!rim_mustang2017 = ^RimName Mustang
+!rim_2017F-350 = ^RimName F350
+!rim_mach = ^RimName Mustang Mach 1
+!w_ruraLaczaca3 = Exhaust Pipe C
+!w_v8_koncowy2 = Rear Muffler B (V8)
+
+!t_v8_289_kolektor_wydechowy = ^!v8_289_kolektor_wydechowy
+!t_v8_289_kolektor_dolotowy= ^!v8_289_kolektor_dolotowy
+!t_v8_429_kolektor_wydechowy= ^!v8_429_kolektor_wydechowy
+!t_v8_429_kolektor_dolotowy= ^!v8_429_kolektor_dolotowy
+!t_v8_coyote_glowica_1= ^!v8_coyote_glowica_1
+!t_v8_429_filtr_srodek= ^!v8_429_filtr_srodek
+!t_v8_coyote_kolektor_dolotowy= ^!v8_coyote_kolektor_dolotowy
+!t_v8_f350_kolektor_wydechowy= ^!v8_f350_kolektor_wydechowy
+!t_v8_f350_glowica_1= ^!v8_f350_glowica_1
+!t_v8_f350_glowica_2= ^!v8_f350_glowica_2
+!t_v8_coyote_glowica_2= ^!v8_coyote_glowica_2
+!t_v8_coyote_kolektor_wydechowy= ^!v8_coyote_kolektor_wydechowy
+!t_v8_289_filtr_srodek= ^!v8_289_filtr_srodek
+!t_v8_289_glowica= ^!v8_289_glowica
+!t_v8_289_kolektor_dolotowy2= ^!v8_289_kolektor_dolotowy2
+!t_v8_f350_kolektor_dolotowy= ^!v8_f350_kolektor_dolotowy
+!t_w_koncowy_mustang2017=^!w_koncowy_mustang2017
+!t_w_koncowy_gt40=^!w_koncowy_gt40
+!t_w_ruraLaczaca3=^!w_ruraLaczaca3
+!t_w_v8_koncowy2=^!w_v8_koncowy2
+
+M_OpcjeGrafiki13=상세 레밸
+M_OpcjeGrafiki14=선명하게
+
+MM_SteeringCarSensitivity=자동차 조향 감도
+
+M_Stopniowanie11 = ^M_Stopniowanie1
+M_Stopniowanie22 = ^M_Stopniowanie2
+M_Stopniowanie33 = ^M_Stopniowanie3
+M_Stopniowanie44 = ^M_Stopniowanie4
