@@ -48,13 +48,13 @@ M_Settings_Controller = 게임 설정
 
 M_Welcome = 환영합니다
 
-M_OstatniSave = 마지막 저장된 게임
+M_OstatniSave = 마지막으로 저장된 게임
 M_BrakSave = 저장된 게임이 없습니다
-M_SkasowacSave = 이 프로필을 정말 삭제할까요?
+M_SkasowacSave = 정말 이 프로필을 정말 삭제할까요?
 M_Pusty = 비어있음
-M_WpiszNazweProfilu = 프로필 이름을 입력하세요
-M_MozeszPisacTutaj = 여기에 쓰세요
-M_rozpoaczacOdNowa = 현재 진행상황을 정말로 삭제하고 다시 시작할까요?
+M_WpiszNazweProfilu = 프로필 이름을 입력하세요.
+M_MozeszPisacTutaj = 여기에 입력하세요.
+M_rozpoaczacOdNowa = 현재 진행 상황을 정말로 삭제하고 다시 시작할까요?
 
 M_OpcjeGrafiki0 = 그래픽 설정
 M_OpcjeGrafiki1 = 텍스쳐 사이즈
@@ -63,7 +63,7 @@ M_OpcjeGrafiki3 = 전체 화면
 M_OpcjeGrafiki4 = 안티 앨리어싱
 M_OpcjeGrafiki5 = 앰바이언트 오클루전
 M_OpcjeGrafiki6 = 심도(DOF)
-M_OpcjeGrafiki7 = 수직동기
+M_OpcjeGrafiki7 = 수직 동기화
 M_OpcjeGrafiki8 = 모션 블러
 
 M_Stopniowanie0 = 사용자 정의
@@ -129,7 +129,7 @@ GUI_RestorationBonus = 복원 보너스
 GUI_CarValue = 차 가치
 GUI_SellCar = 차 팔기
 GUI_FaultyPartsName = 고장난 부품 발견
-GUI_FaultyPartsFixed = 수리완료
+GUI_FaultyPartsFixed = 수리 완료
 GUI_OrderSummary = 정비 요약
 GUI_TaskBonus = 과업 보너스
 GUI_MoneySpent = 금액 지출
@@ -180,7 +180,7 @@ GUI_CG_Title = 부품 추가
 
 //---------------------------------------------------------------------------- Examine Report
 GUI_ExamineReport_Title = 검사완료 부품 보고서
-GUI_ExamineReport_Bookmark = 부품 리스트
+GUI_ExamineReport_Bookmark = 부품 목록
 
 //---------------------------------------------------------------------------- Shop Buy Window
 GUI_ShopBuy_TotalPrice = 전체 금액:
@@ -231,7 +231,7 @@ GUI_Paint_CurrentColorButton = 현재색으로 설정
 GUI_Paint_Hue = 빛깔
 GUI_Paint_Sat = 채도
 GUI_Paint_Bri = 밝기
-GUI_Paint_QuickColor = 빠른 색
+GUI_Paint_QuickColor = 빠른 도색
 GUI_Paint_Type = 도색 타입
 GUI_Paint_Price = 도색 가격
 GUI_Metallic = 메탈릭
@@ -248,8 +248,8 @@ GUI_Pause_RestartButton = 재시작
 GUI_Pause_ContinueButton = 이어서 하기
 //---------------------------------------------------------------------------- Units
 
-GUI_Speed_Metric = KMH
-GUI_Speed_Imperial = MPH
+GUI_Speed_Metric = km/h
+GUI_Speed_Imperial = m/h
 GUI_Torque_Metric = N.m
 GUI_Torque_Imperial = lbf.ft
 GUI_Power_Metric = HP
@@ -260,22 +260,22 @@ GUI_Dist_Imperial = mi
 //---------------------------------------------------------------------------- Access
 
 GUI_AccessFrom0 = 엔진베이에서 접근가능
-GUI_AccessFrom1 = 휠 사이드에서 접근가능(리프터 상태)
-GUI_AccessFrom2 = 차체 하단에서 접근가능(리프터 상태)
-GUI_AccessFrom3 = 차체 하단이나 휠 사이드에서 접근가능(리프터 상태)
+GUI_AccessFrom1 = 휠 사이드에서 접근가능 (리프터 상태)
+GUI_AccessFrom2 = 차체 하단에서 접근가능 (리프터 상태)
+GUI_AccessFrom3 = 차체 하단이나 휠 사이드에서 접근가능 (리프터 상태)
 
 //---------------------------------------------------------------------------- Examine
 
 
-GUI_ExamineFrom1 = OBD 스캐너로 조사 가능
-GUI_ExamineFrom2 = 시범주행으로 조사 가능
-GUI_ExamineFrom3 = 차를 분해해서 조사 가능
-GUI_ExamineFrom4 = 테스트장에서 조사 가능
-GUI_ExamineFrom5 = 컴프레션 테스터로 조사 가능
-GUI_ExamineFrom6 = 전자 미터로 조사 가능
-GUI_ExamineFrom7 = 타이어 트레드 테스터로 조사 가능
-GUI_ExamineFrom8 = 연료 압력 테스터로 조사 가능
-GUI_ExamineFrom24 = 시범주행 혹은 테스트장에서 조사 가능
+GUI_ExamineFrom1 = OBD 스캐너로 점검 가능
+GUI_ExamineFrom2 = 시범주행으로 점검 가능
+GUI_ExamineFrom3 = 차를 분해해서 점검 가능
+GUI_ExamineFrom4 = 테스트장에서 점검 가능
+GUI_ExamineFrom5 = 컴프레션 테스터로 점검 가능
+GUI_ExamineFrom6 = 전자 미터로 점검 가능
+GUI_ExamineFrom7 = 타이어 트레드 테스터로 점검 가능
+GUI_ExamineFrom8 = 연료 압력 테스터로 점검 가능
+GUI_ExamineFrom24 = 시범주행 혹은 테스트장에서 점검 가능
 GUI_ExamineFromX = 공구 조사 - 레벨 {0} 이 필요합니다
 
 //---------------------------------------------------------------------------- Repair
@@ -303,7 +303,7 @@ GUI_Desc_Use = 사용하기
 GUI_Desc_SitDown = 앉기
 GUI_Desc_RadioChangeStation = 라디오 주파수 변경하기
 GUI_Desc_RadioTurnOff = 라디오 끄기
-GUI_Desc_Examine = 부품 살펴보기
+GUI_Desc_Examine = 부품 검사하기
 GUI_Desc_Search = 찾기
 GUI_Desc_Focus = 부품 보기
 GUI_Desc_WorkOn = 수리 시작하기
@@ -332,8 +332,8 @@ GUI_None = 없음
 
 // -------------------------------------------------------------------------- ORDERS
 
-GUI_MissionOrder = 스토리 정비
-GUI_NormalOrder = 일반 정비
+GUI_MissionOrder = 스토리 의뢰
+GUI_NormalOrder = 일반 의뢰
 GUI_Bonus_To_Money = 금액 보너스
 GUI_Bonus_To_Exp = 경험치 보너스
 
@@ -341,7 +341,7 @@ GUI_Bonus_To_Exp = 경험치 보너스
 GUI_Map_Title = 목적지 선택
 GUI_Map_Garage = 당신의 차고
 GUI_Map_Junkyard = 고물상
-GUI_Map_Auctions = 자동차 거래소
+GUI_Map_Auctions = 자동차 경매
 GUI_Map_TestTrack = 테스트 트랙
 GUI_Map_Parking = 주차장
 GUI_Map_RaceTrack = 레이스 트랙
@@ -350,83 +350,83 @@ GUI_Map_Salon = 자동차 전시관
 
 //--------------------------------------------------------------------------- QUESTION WINDOWS
 
-GUI_PotwierdzenieZakupu = 정말 구매하시겠습니까|<color="#FFA000">{0}</color>|for <color="#FFA000">{1}</color> ?
-GUI_PotwierdzenieNaprawy = 정말 수리하시겠습니까|<color="#FFA000">{0}</color>|for <color="#FFA000">{1}</color> ?
-GUI_PotwierdzenieSprzedazy = 정말 판매 하시겠습니까|<color="#FFA000">{0}</color>|for <color="#FFA000">{1}</color> ?
-GUI_PotwierdzenieWywazenia = 정말 균형을 맞추겠습니까|<color="#FFA000">{0}</color> ?
-GUI_PotwierdzenieZlaczenia = 정말 설치하시겠습니까|<color="#FFA000">{0}</color> on <color="#FFA000">{1}</color> ?
-GUI_PotwierdzenieRozlaczenia = 정말 분리하시겠습니까|<color="#FFA000">{0}</color> ?
-GUI_PotwierdzenieRozpoczeciaPathTest = 정말 정밀검사를 진행하시겠습니까?
-GUI_PotwierdzenieLadowania = 정말 충전하시겠습니까? |<color="#FFA000">{0}</color> ?
+GUI_PotwierdzenieZakupu=|<color="#FFA000">{0}</color>|을/를 <color="#FFA000">{1}</color>에 구매하시겠습니까?
+GUI_PotwierdzenieNaprawy=|<color="#FFA000">{0}</color>|을/를 <color="#FFA000">{1}</color>에 수리하시겠습니까?
+GUI_PotwierdzenieSprzedazy=|<color="#FFA000">{0}</color>|을/를 <color="#FFA000">{1}</color>에 판매하시겠습니까?
+GUI_PotwierdzenieWywazenia=|<color="#FFA000">{0}</color>|의 균형을 맞추시겠습니까?
+GUI_PotwierdzenieZlaczenia=<color="#FFA000">{1}</color>에 <color="#FFA000">{0}</color>을/를 설치하시겠습니까?
+GUI_PotwierdzenieRozlaczenia=|<color="#FFA000">{0}</color>을/를 해체하시겠습니까?
+GUI_PotwierdzenieRozpoczeciaPathTest=경로 테스트를 진행하시겠습니까?
+GUI_PotwierdzenieLadowania=|<color="#FFA000">{0}</color>을/를 충전하시겠습니까?
 
 //---------------------------------------------------------------------------POPUP
 
-PopUp_NewItem = 아이템 추가
-PopUp_TakenItem = 아이템 획득
-PopUp_MusicSong = 재생중
-PopUp_SaveGame = 저장중
+PopUp_NewItem=아이템이 추가되었습니다.
+PopUp_TakenItem=아이템을 가져왔습니다.
+PopUp_MusicSong=지금 플레이 중입니다.
+PopUp_SaveGame=게임을 저장하고 있습니다.
 
 //---------------------------------------------------------------------------PIE MENU
 pie_battery_charge =  배터리 충전
-pie_battery_charge_bonus = 방전 배터리는 이곳에서 충전이 가능합니다
+pie_battery_charge_bonus = 방전 배터리는 이곳에서 충전이 가능합니다.
 
 pie_battery_take =  배터리 분리
-pie_battery_take_bonus = 충전된 배터리가 당신의 목록에 추가됩니다
+pie_battery_take_bonus = 충전된 배터리가 인벤토리에 추가됩니다.
 
 pie_spring_separate =  부품 분리
-pie_spring_separate_bonus = 스프링을 쇼크 업소버에서 분리합니다
+pie_spring_separate_bonus = 스프링을 쇼크 업소버에서 분리합니다.
 
 pie_spring_connect =  부품 결합
-pie_spring_connect_bonus = 스프링을 쇼크 업소버에 결합합니다
+pie_spring_connect_bonus = 스프링을 쇼크 업소버에 결합합니다.
 
 pie_spring_take =  부품을 스프링 컴프레서에서 분리
-pie_spring_take_bonus =  부품이 당신의 목록에 추가됩니다
+pie_spring_take_bonus =  부품이 당신의 목록에 추가됩니다.
 
 pie_wheel_separate =  휠 분리
-pie_wheel_separate_bonus =  타이어를 림에서 분리합니다
+pie_wheel_separate_bonus =  타이어를 림에서 분리합니다.
 
 pie_wheel_connect =  휠 결합
-pie_wheel_connect_bonus =  타이어를 림에 결합합니다
+pie_wheel_connect_bonus =  타이어를 림에 결합합니다.
 
 pie_wheel_take =  휠 수거
-pie_wheel_take_bonus =  타이어 교환기에서 부품을 빼냅니다
+pie_wheel_take_bonus =  타이어 교환기에서 부품을 빼냅니다.
 
 pie_balancer_take =  부품 수거
-pie_balancer_take_bonus =  휠 밸런서에서 부품을 빼냅니다
+pie_balancer_take_bonus =  휠 밸런서에서 부품을 빼냅니다.
 
 pie_balancer_balance =  밸런스
-pie_balancer_balance_bonus =  휠의 밸런스를 맞춥니다
+pie_balancer_balance_bonus =  휠의 밸런스를 맞춥니다.
 
-pie_list_add =  리스트에 추가
-pie_list_add_bonus =  부품을 노트북에 추가합니다
+pie_list_add =  목록에 추가
+pie_list_add_bonus =  부품을 노트북에 추가합니다.
 
-pie_list_delete =  리스트에서 제거
-pie_list_delete_bonus =  부품을 노트북에서 제거합니다
+pie_list_delete =  목록에서 제거
+pie_list_delete_bonus =  부품을 노트북에서 제거합니다.
 
 pie_list_open =  부품 요약
-pie_list_open_bonus =  부품 요약을 봅니다
+pie_list_open_bonus =  부품 요약을 봅니다.
 
-pie_list_locked = 부품을 부품요약에 추가하려면 커서를 부품에 올려놓으세요
+pie_list_locked = 부품을 부품요약에 추가하려면 커서를 부품에 올려놓으세요.
 
 pie_move_car =  차 이동
-pie_move_car_bonus =  차를 차고의 다른장소로 이동합니다
+pie_move_car_bonus =  차를 차고의 다른장소로 이동합니다.
 
 pie_move_dyno =  다이나모미터
-pie_move_dyno_bonus =  차의 성능체크 및 튜닝을 할 수 있습니다
+pie_move_dyno_bonus =  차의 성능체크 및 튜닝을 할 수 있습니다.
 
 pie_move_paintshop =  도색샵
-pie_move_paintshop_bonus =  차량 및 부품의 도색을 할 수 있습니다
+pie_move_paintshop_bonus =  차량 및 부품의 도색을 할 수 있습니다.
 
 pie_move_parking =  주차장
-pie_move_parking_bonus =  주차장에 차를 보관하여 차고의 공간을 확보합니다
+pie_move_parking_bonus =  주차장에 차를 보관하여 차고의 공간을 확보합니다.
 
 pie_move_pathTest =  정밀검사
-pie_move_pathTest_bonus =  전반적인 브레이크와 서스펜션 부품을 조사해볼때 도움이 됩니다
+pie_move_pathTest_bonus =  전반적인 브레이크와 서스펜션 부품을 조사해볼때 도움이 됩니다.
 
-pie_move_entrance1 =  차고입구 A
+pie_move_entrance1 =  차고 입구 A
 pie_move_entrance1_bonus =  차고문 근처에 위치
 
-pie_move_entrance2 =  차고입구 B
+pie_move_entrance2 =  차고 입구 B
 pie_move_entrance2_bonus =  차고문 근처에 위치
 
 pie_move_carLift1 = 차 리프터 A
@@ -438,11 +438,11 @@ pie_move_carLift2_bonus = 두번째 차 리프터
 pie_move_carLift3 = 차 리프터 C
 pie_move_carLift3_bonus = 세번째 차 리프터
 
-pie_move_blocked = 이 위치에는 차량이 있습니다
-pie_move_locked = 이 위치는 차고 업그레이드가 필요합니다
+pie_move_blocked = 이 위치에는 이미 차량이 있습니다.
+pie_move_locked = 이 위치는 차고 업그레이드가 필요합니다.
 
 pie_settings =  설정 메뉴
-pie_settings_bonus =  전반적인 게임의 설정을 할 수 있습니다
+pie_settings_bonus =  전반적인 게임의 설정을 할 수 있습니다.
 
 pie_settings_save =  저장하기
 pie_settings_load =  불러오기
@@ -451,52 +451,52 @@ pie_settings_menu =  메뉴로 나가기
 pie_settings_menu_bonus =  저장하지 않고 나가기
 
 pie_switch_body =  탐색 모드
-pie_switch_body_bonus =  차량의 전체 부품을 볼 수 있습니다
+pie_switch_body_bonus =  차량의 전체 부품을 볼 수 있습니다.
 
 pie_tablet =  태블릿
-pie_tablet_bonus = 작업장 컴퓨터에 빠르게 접속합니다
+pie_tablet_bonus = 작업장 컴퓨터에 빠르게 접속합니다.
 
 pie_inventory =  인벤토리
-pie_inventory_bonus = 부품을 둘러보거나 검색하거나 팔 수 있습니다
+pie_inventory_bonus = 부품을 둘러보거나 검색하거나 팔 수 있습니다.
 
 pie_order_check =  차량 상태
-pie_order_check_bonus = 현재 차량의 상태를 체크합니다
+pie_order_check_bonus = 현재 차량의 상태를 확인합니다.
 
 pie_order_list =  정비
-pie_order_list_bonus =  정비 가능한 임무를 확인합니다
+pie_order_list_bonus =  정비 가능한 의뢰를 확인합니다.
 
 pie_examine_tools =  장비조사
-pie_examine_tools_bonus =  특별한 장비들은 차량의 상태를 빠르게 확인하는데 도움이 됩니다
+pie_examine_tools_bonus =  특별한 장비들은 차량의 상태를 빠르게 확인하는데 도움이 됩니다.
 
 pie_mode_examine =  조사 모드
-pie_mode_examine_bonus =  전체화면으로 각 부품의 현재 상태를 살펴봅니다
+pie_mode_examine_bonus =  전체화면으로 각 부품의 현재 상태를 살펴봅니다.
 
 pie_mode_garage =  보통 모드
-pie_mode_garage_bonus =  일반 모드로 전환합니다
+pie_mode_garage_bonus =  일반 모드로 전환합니다.
 
 pie_mode_garage_assemble =  조립 모드
-pie_mode_garage_assemble_bonus =  조립모드로 전환합니다
+pie_mode_garage_assemble_bonus =  조립 모드로 전환합니다.
 
 pie_mode_group_mount =  그룹 결합
-pie_mode_group_mount_bonus =  그룹 결합모드로 전환합니다
+pie_mode_group_mount_bonus =  그룹 결합 모드로 전환합니다.
 
 pie_mode_group_unmount =  그룹 분해
-pie_mode_group_unmount_bonus =  그룹 분해모드로 전환합니다
+pie_mode_group_unmount_bonus =  그룹 분해 모드로 전환합니다.
 
 pie_mode_part_mount =  부품 결합
-pie_mode_part_mount_bonus =  부품 결합모드로 전환합니다
+pie_mode_part_mount_bonus =  부품 결합 모드로 전환합니다.
 
 pie_mode_part_unmount =  부품 분해
-pie_mode_part_unmount_bonus =  부품 분해모드로 전환합니다
+pie_mode_part_unmount_bonus =  부품 분해 모드로 전환합니다.
 
 pie_mode_photo =  포토 모드
-pie_mode_photo_bonus =  사진을 촬영하고 커뮤니티에 공유할 수 있습니다
+pie_mode_photo_bonus =  사진을 촬영하고 커뮤니티에 공유할 수 있습니다.
 
 pie_mode_interior_disassemble =  인테리어 분해
-pie_mode_interior_disassemble_bonus =  인테리어 분해모드로 전환합니다
+pie_mode_interior_disassemble_bonus =  인테리어 분해 모드로 전환합니다.
 
 pie_mode_interior_assemble = 인테리어 조립
-pie_mode_interior_assemble_bonus =  인테리어 조립모드로 전환합니다
+pie_mode_interior_assemble_bonus =  인테리어 조립 모드로 전환합니다.
 
 pie_engine_rotate_left =  엔진 왼쪽으로 회전
 pie_engine_rotate_right =  엔진 오른쪽으로 회전
@@ -513,44 +513,44 @@ pie_jukebox_turn_on_off = 라디오 켜기/끄기
 pie_jukebox_next_sound = 다음 노래
 
 pie_car_buy = 차 구매
-pie_car_buy_bonus = 차의 정보 및 금액 확인
+pie_car_buy_bonus = 자동차 정보 및 지급액을 확인하세요.
 
 pie_settings_garage = 차고 나가기
-pie_settings_garage_bonus = 수집된 아이템 확인 및 차고에서 나감
+pie_settings_garage_bonus = 수집한 부품 개요를 확인하고 차고에 보관하세요.
 
 pie_settings_parking_garage = 차고 나가기
 
 pie_equipment_use = 장비 사용하기
 
 pie_equipment_move = 장비 옮기기
-pie_equipment_move_bonus = 장비를 다른 장소로 이동합니다
+pie_equipment_move_bonus = 장비를 다른 장소로 이동합니다.
 
 pie_equipment_move_entrance1 =  샵 입구 A
-pie_equipment_move_entrance1_bonus =  차고문 근처에 위치
+pie_equipment_move_entrance1_bonus =  차고 문 근처에 놓으십시오.
 
 pie_equipment_move_entrance2 =  샵 입구 B
-pie_equipment_move_entrance2_bonus =  차고문 근처에 위치
+pie_equipment_move_entrance2_bonus =  차고 문 근처에 놓으십시오.
 
 pie_equipment_move_carLift1 = 차 리프터 A
-pie_equipment_move_carLift1_bonus = 첫번째 차 리프터
+pie_equipment_move_carLift1_bonus = 첫 번째 리프터
 
 pie_equipment_move_carLift2 = 차 리프터 B
-pie_equipment_move_carLift2_bonus = 두번째 차 리프터
+pie_equipment_move_carLift2_bonus = 두 번째 리프터
 
 pie_equipment_move_carLift3 = 차 리프터 C
-pie_equipment_move_carLift3_bonus = 세번째 차 리프터
+pie_equipment_move_carLift3_bonus = 세 번째 리프터
 
-GUI_unlock_to_use = 사용을 위해 잠금해제
-GUI_move_unavail = 이 장소는 이미 사용되고 있습니다
+GUI_unlock_to_use = 사용하시려면 잠금해제하세요.
+GUI_move_unavail = 이 장소는 이미 사용 중입니다.
 
 pie_tires = 타이어 트레드 테스터
-pie_tires_bonus = 이 장비로 타이어의 상태를 파악할 수 있습니다
+pie_tires_bonus = 이 장비로 타이어의 상태를 점검할 수 있습니다.
 
 pie_obd = OBD 스캐너
-pie_obd_bonus = OBD Scanner는 전자-컴퓨터와 관련된 수많은 부품을 조사합니다. 오래된 차에는 작동하지 않습니다!
+pie_obd_bonus = OBD Scanner는 전자-컴퓨터와 관련된 수많은 부품을 조사합니다. 오래된 차에는 사용할 수 없습니다!
 
 pie_cylinder = 압력(컴프레션) 테스터
-pie_cylinder_bonus = 전반적인 엔진상태에 대한 정보를 제공합니다
+pie_cylinder_bonus = 이 테스트는 엔진상태에 대한 전반적인 정보를 제공합니다.
 
 pie_electronic = 전자(일렉트로닉) 미터
 pie_electronic_bonus = 간단하지만 유용한 장비이며 모든 전자장비의 컨디션과 내구도를 조사합니다
@@ -586,7 +586,7 @@ mode_PartUnMount = 조립 모드
 mode_GroupUnMount = 그룹 조립 모드
 mode_GroupMount = 그룹 분해 모드
 mode_PartSelectMount = 선택된 부품
-mode_ExamineCondition = 조사 모드
+mode_ExamineCondition = 점검 모드
 
 //--------------------------------------------------Kategorie w sklepie
 CAT_All = 모두
@@ -609,7 +609,7 @@ Sorting_ByNam = 이름순
 //--------------------------------------------------Auctions
 
 AU_Start = 경매 시작
-AU_Raise = 가격 올리기
+AU_Raise = 입찰
 AU_Pass = 패스
 AU_Next = 다음 차
 AU_Quit = 나가기
@@ -618,7 +618,7 @@ AU_TodaysCars = 오늘의 차량
 AU_Currentbid = 현재 입찰 금액
 AU_OveralState = 전반적 상태
 AU_Time = 시간
-AU_Sold = 판매됨
+AU_Sold = 판매완료
 AU_StartingPrice = 시작 가격
 AU_HighestBidder = 가장 높은 입찰자
 AU_Bidder = 입찰자
@@ -627,51 +627,51 @@ AU_Player = 당신
 //--------------------------------------------------Misc
 //symbol waluty - nie ma przelicznika wiec albo € albo $
 GUI_Waluta = $
-GUI_BrakKasy = 충분한 돈이 없습니다
+GUI_BrakKasy = 충분한 돈이 없습니다.
 GUI_PriceFrom = 최저가
-GUI_FrontWheelsDiffSize =  프론트 휠 사이즈가 다릅니다
-GUI_RearWheelsDiffSize =  리어 휠 사이즈가 다릅니다
-GUI_NieMaPrzedmiotowDoZalozenia = 함께 작업할 아이템이 없습니다
+GUI_FrontWheelsDiffSize =  프론트 휠 사이즈가 다릅니다.
+GUI_RearWheelsDiffSize =  리어 휠 사이즈가 다릅니다.
+GUI_NieMaPrzedmiotowDoZalozenia = 함께 작업할 아이템이 없습니다.
 
-GUI_CarsLimitInGarage = 공간이 없습니다. 차고는 한번에 5개의 차량만 수용이 가능합니다.
-GUI_CarsLimitInParking = 공간이 없습니다.차고는 한번에 12개의 차량만 수용이 가능합니다.
+GUI_CarsLimitInGarage = 더 이상 공간이 없습니다. 이 차고에는 최대 5대를 주차할 수 ​​있습니다.
+GUI_CarsLimitInParking = 더 이상 공간이 없습니다. 이 차고에는 최대 12대를 주차할 수 있습니다.
 GUI_CustomerCarInParking = 당신이 소유한 차량만이 주차 가능합니다.
-GUI_NoWheels = 차가 휠이 부족하여 이동할 수 없습니다.
+GUI_NoWheels = 차량에 바퀴가 없으므로 이동할 수 없습니다.
 
 GUI_Buy = 구입
-GUI_TextExamineReport = {0} 개의 부품 조사를 완료했습니다
-M_SAVESTART = 게임 저장중
-M_SAVECOMPLETE = 저장되었습니다
-M_ExitWithoutItems = 부품을 획득하지 않고 나가겠습니까?
+GUI_TextExamineReport = {0} 개의 부품 검사를 완료했습니다
+M_SAVESTART = 게임 저장 중 ...
+M_SAVECOMPLETE = 저장되었습니다.
+M_ExitWithoutItems = 부품을 구매하지 않고 나가시겠습니까?
 
-GUI_Order_PartNotFound = 부품이 발견되지 않았습니다
+GUI_Order_PartNotFound = 부품을 발견하지 못했습니다.
 
 GUI_BoughtCarPlace = 구입한 차량을 어디에 놓겠습니까?
-GUI_BoughtCar_Parking = 차량 주차장
+GUI_BoughtCar_Parking = 주차장
 GUI_BoughtCar_Garage = 차고
 
 GUI_Wczytywanie = 불러오는중...
 
-GUI_OilWarning = 오일팬을 분해하기전에 오일을 충분히 따라내지 않았습니다. 치우는데 100$가 지출됩니다
-GUI_EngineUnmountCrainWarning = 엔진을 제거하려면 먼저 차에서 {0} 을(를) 제거해야 합니다
-GUI_EngineMountCrainWarning = 엔진을 장착하려면 먼저 차에서 {0} 을(를) 제거해야 합니다
-GUI_EngineEmptyCrainWarning = 차에 엔진 부품이 없습니다
-GUI_MissingWheels = 차에 휠이 누락되어 있습니다
-GUI_MissingParts = 차에 {0} 개의 누락된 부분이 있습니다
-GUI_EngineDontStart = 시동이 걸리지 않습니다
-GUI_SamochodGorszyStan = 차의 상태가 처음 차고에 입고되었을때보다 나쁩니다
-GUI_SamochodOlejWSilniku = 엔진에 오일이 있습니다. 이 행동을 할 수 없습니다
+GUI_OilWarning = 오일팬을 분해하기전에 오일을 충분히 따라내지 않았습니다. 치우는데 100$가 지출됩니다.
+GUI_EngineUnmountCrainWarning = 엔진을 제거하려면 먼저 차에서 {0} 을(를) 제거해야 합니다.
+GUI_EngineMountCrainWarning = 엔진을 장착하려면 먼저 차에서 {0} 을(를) 제거해야 합니다.
+GUI_EngineEmptyCrainWarning = 차에 엔진 부품이 없습니다.
+GUI_MissingWheels = 차에 휠이 누락되어 있습니다.
+GUI_MissingParts = 차에 {0} 개의 누락된 부분이 있습니다.
+GUI_EngineDontStart = 시동이 걸리지 않습니다.
+GUI_SamochodGorszyStan = 차의 상태가 처음 차고에 입고되었을때보다 나쁩니다.
+GUI_SamochodOlejWSilniku = 엔진에 오일이 있습니다. 이 행동을 할 수 없습니다.
 GUI_Order_FinishUncompleteJob = 이 작업이 아직 완료되지 않았습니다. 이대로 끝내겠습니까?
 GUI_rozpoaczacOdNowa = 현재 작업을 중단하고 다시 시작하겠습니까?
 GUI_SellJunk = 폐품 아이템 팔기
 GUI_PotwierdzenieSprzedazySmieci = 쓸모없는 아이템을 판매하겠습니까?
 GUI_AuctionsFee = 경매 수수료 {0}. 정말 참가하겠습니까?
-GUI_Orders_Nojobs = 현재 수행할 수 있는 임무가 없습니다
+GUI_Orders_Nojobs = 현재 수행할 수 있는 임무가 없습니다.
 GUI_TestComplete = 테스트 완료
-GUI_CarNotConnected = 이곳에서 정비할 차가 없습니다
+GUI_CarNotConnected = 이곳에서 정비할 차가 없습니다.
 GUI_Locked = 잠김
-GUI_RemoveCarFromArrivalPlace = 차량을 주차할 수 있도록 메인 문 근처에 공간을 마련하세요
-GUI_EngineStandOccupied = 이미 엔진 스탠드에 엔진이 있습니다
+GUI_RemoveCarFromArrivalPlace = 차량을 주차할 수 있도록 메인 문 근처에 공간을 마련하세요.
+GUI_EngineStandOccupied = 이미 엔진 스탠드에 엔진이 있습니다.
 GUI_obd_unavailable = 이 차는 OBD포트가 없습니다. 이 행동을 수행할 수 없습니다.
 GUI_junkyardfee= 고물상까지 이동은 {0} 의 비용이 발생합니다. 이동하시겠습니까?
 GUI_LicensePlate = 번호판
@@ -686,10 +686,10 @@ GUI_TestDriveCar = 테스트 드라이브 수행
 !specialMap = 대형차고 위치 지도
 !specialCase = 통
 !specialCrowbar = 빠루
-GUI_CaseOpen = 이 통을 열기위해서는 빠루가 필요합니다
+GUI_CaseOpen = 이 통을 열기위해서는 빠루가 필요합니다.
 GUI_CaseAsk = 정말 이 통을 여시겠습니까?
 GUI_MapAsk = 부품 헛간을 지도에 표시하시겠습니까?
-GUI_NieMaPrzedmiotowDoZalozeniaX = 함께 작동될 아이템이 없습니다|부품 필요 : <color=#FFA000>{0}</color>
+GUI_NieMaPrzedmiotowDoZalozeniaX = 함께 작동될 아이템이 없습니다. | 필요한 부품 : <color=#FFA000>{0}</color>
 GUI_Tutorial_WindowTitle = 튜토리얼
 
 // ----------------------------------------------- Parking
@@ -700,7 +700,7 @@ Park_Quit = 차고로 돌아가기
 
 // ----------------------------------------------- Blocked Lifter
 
-GUI_BlockedLifter = 리프터가 차단되었습니다. 작동방향에 있는 물건을 치워서 안전한 곳에 놓으세요.
+GUI_BlockedLifter = 리프트를 내릴 수 없습니다. 작동 방향에 있는 물건을 치워서 안전한 곳에 놓으세요.
 
 //-------------------------------------------------- Radio
 M_Radio_WindowTitle = 라디오 방송국
@@ -713,7 +713,7 @@ Radio_Music4 = Classic Vibes
 Radio_Music5 = Killa Rock
 Radio_Music6 = Mixer Room
 Radio_Music7 = State of House Music
-Radio_User = 유저 라디오
+Radio_User = 사용자 라디오
 
 // ------------------------------------------------- Test Track
 GUI_TestTrackChecklist = 점검표
@@ -1818,13 +1818,13 @@ RimName = 림
 !sankiPrzod_6 = ^!sankiPrzod_1 E
 
 //--------------------------------------------------Engines
-!engine_r4 = I4 DOHC
-!engine_r4_sohc = I4 SOHC
+!engine_r4 = I4 DOHC AQC
+!engine_r4_sohc = I4 SOHC ABT
 !engine_r4_sohc_4x4 = I4 SOHC 4x4
-!engine_r4_sohc_wzdluzny = I4 SOHC
+!engine_r4_sohc_wzdluzny = I4 SOHC BMJ
 !engine_r6_dohc_wzdluzny = I6 DOHC
 !engine_r4_turbo = I4 DOHC 터보차져
-!engine_v8 = V8 DOHC
+!engine_v8 = V8 DOHC AXK
 !engine_v8_stary = V8 1carb OHV
 !engine_v8_stary_2carb = V8 2carb OHV
 !engine_v8_4x4 = V8 DOHC 4x4
@@ -1832,19 +1832,19 @@ RimName = 림
 !engine_v8_sec = V8 SOHC
 !engine_v8_stary_scharged = V8 2carb OHV 슈퍼차져
 !engine_v8_scharged = V8 DOHC 슈퍼차져
-!engine_v8_stradale = V8 DOHC
+!engine_v8_stradale = V8 DOHC BCN
 !engine_r6_sebring = I6 SOHC
 !engine_v6_delorean = V6 SOHC
-!engine_v8_delorean = V8 DOHC
+!engine_v8_delorean = V8 DOHC CRG
 !engine_w12 = W12 트윈-터보
 !engine_v8_bentley = V8 OHV
 !engine_i3 = I3 DOHC
-!engine_i4 = I4 DOHC
+!engine_i4 = I4 DOHC BFM
 !engine_i4_4x4 = I4 DOHC 4x4
 !engine_i6_old = I6 OHV
 !engine_rot_new = ROTARY 1
 !engine_rot_old = ROTARY 2
-!engine_v6_30 = V6 DOHC
+!engine_v6_30 = V6 DOHC AKZ
 !engine_v8zz = V8 OHV ZZ
 !engine_v12 = V12 DOHC
 !engine_v8_quattroporte = V8 트윈-터보 DOHC
@@ -2541,10 +2541,10 @@ MM_stat_dealer=자동차 판매
 MM_stat_songs=노래 듣기
 MM_stat_classic=고정 된 오래된 자동차
 
-!engine_v6_30_rwd = V6 DOHC
+!engine_v6_30_rwd = V6 DOHC CHG
 !engine_i4_l134 = I4
 !engine_v8_392hemi = V8 HEMI
-!engine_v6_pentastar = V6 DOHC
+!engine_v6_pentastar = V6 DOHC AQE
 
 !w_v6_30_poczatkowy_h1 = 전면 배기 구간 C (V6 B)
 
@@ -2791,8 +2791,8 @@ MM_Reset=Reset
 !steering_wheel_elise = Elise 스티어링 휠
 !steering_wheel_esprit = Esprit 스티어링 휠
 
-!engine_r4_2 = I4 DOHC
-!engine_r4_old = I4 DOHC
+!engine_r4_2 = I4 DOHC APZ
+!engine_r4_old = I4 DOHC ABU
 
 GUI_SellParts = 부품 판매
 GUI_SellPerCondition = 컨디션에 따라 부품 판매
@@ -3094,11 +3094,120 @@ GUI_SelectMapQuestion = 어떤 지도를 선택하시겠습니까?
 !t_w_v8_koncowy2=^!w_v8_koncowy2
 
 M_OpcjeGrafiki13=상세 레밸
-M_OpcjeGrafiki14=선명하게
+M_OpcjeGrafiki14=선명도
 
-MM_SteeringCarSensitivity=자동차 조향 감도
+MM_SteeringCarSensitivity=자동차 스티어링 감도
 
 M_Stopniowanie11 = ^M_Stopniowanie1
 M_Stopniowanie22 = ^M_Stopniowanie2
 M_Stopniowanie33 = ^M_Stopniowanie3
 M_Stopniowanie44 = ^M_Stopniowanie4
+
+GUI_SwapOptions = 옵션 변경
+GUI_Showroom_CarVersion=차 버전
+
+M_OpcjeGrafiki15=간단한 자동차 그림자
+
+GUI_Desc_Accept=수락
+GUI_Desc_Close=닫기
+GUI_Desc_OrderDecline=거절
+GUI_Desc_MoveItem=항목 이동
+GUI_Desc_ChangePanel=탭 변경
+GUI_Desc_SelectItem=아이템 선택
+GUI_Desc_SelectColor=색상 선택
+GUI_Desc_Warehouse=창고 변경하기
+GUI_Desc_OrderAccept=의뢰 수락
+GUI_Desc_Repair=수리
+GUI_Desc_Scroll=차 정보 스크롤
+GUI_Desc_CarMove=차량 이동
+GUI_Desc_JunkPanel=폐품
+GUI_Desc_InventoryPanel=목록
+GUI_Desc_WarehousePanel=창고
+
+GUI_SwapOnlyUserCar=소유한 차량만 엔진을 교체할 수 있습니다.
+
+GUI_Desc_PieMenu=파이 메뉴 열기
+GUI_Desc_LeaveMechanicMode=정비 모드 나가기
+GUI_Desc_LowerLifter=낮은 리프터
+GUI_Desc_Reject=반려
+GUI_Desc_CancelSearch=검색 취소
+GUI_Desc_CustomLicencePlate=사용자 정의 번호판
+GUI_Desc_ChangeWarehouse=창고 변경하기
+
+GUI_Paint_PaintCar=차량 도색
+GUI_Paint_PaintPart=부품 도색
+
+GUI_move_noDlc=필요한 DLC 가 없습니다.
+GUI_Chrome=크롬
+GUI_Desc_Back=뒤로가기
+
+!t_i4_kolektor_dolotowy=^!i4_kolektor_dolotowy
+!t_i4_kolektor_wydechowy=^!i4_kolektor_wydechowy
+!t_i4_pompa_wspomagania=^!i4_pompa_wspomagania
+!t_i4_turbo=^!i4_turbo
+!t_i4_walek_rozrzadu=^!i4_walek_rozrzadu
+!t_i4_wtrysk=^!i4_wtrysk
+!t_i6_old_alternator=^!i6_old_alternator
+!t_i6_old_kolektor_dolotowy=^!i6_old_kolektor_dolotowy
+!t_i6_old_kolektor_wydechowy=^!i6_old_kolektor_wydechowy
+!t_i6_old_pompaWspomagania=^!i6_old_pompaWspomagania
+!t_i6_old_przepustnica=^!i6_old_przepustnica
+!t_i6_old_termostat=^!i6_old_termostat
+!t_i6_old_walek=^!i6_old_walek
+!t_r4_2_glowica=^!r4_2_glowica
+!t_r4_2_kable=^!r4_2_kable
+!t_r4_2_kolektor_dolotowy=^!r4_2_kolektor_dolotowy
+!t_r4_2_kolektor_wydechowy=^!r4_2_kolektor_wydechowy
+!t_r4_2_walek_rozrzadu=^!r4_2_walek_rozrzadu
+!t_r4_old_glowica=^!r4_old_glowica
+!t_r4_old_glowica_2_1=^!r4_old_glowica_2_1
+!t_r4_old_glowica_2_2=^!r4_old_glowica_2_2
+!t_r4_old_kable=^!r4_old_kable
+!t_r4_old_kolektor_dolotowy=^!r4_old_kolektor_dolotowy
+!t_r4_old_kolektor_wydechowy=^!r4_old_kolektor_wydechowy
+!t_r4_old_kopulkaRozdzielacza=^!r4_old_kopulkaRozdzielacza
+!t_v6_30_kolektor_dolotowy=^!v6_30_kolektor_dolotowy
+!t_v6_30_kolektor_dolotowy_dolny=^!v6_30_kolektor_dolotowy_dolny
+!t_v6_30_kolektor_wydechowy=^!v6_30_kolektor_wydechowy
+!t_v6_30_pompaWspomagania=^!v6_30_pompaWspomagania
+!t_v6_30_walek_rozrzadu=^!v6_30_walek_rozrzadu
+!t_v6_pentastar_cewka=^!v6_pentastar_cewka
+!t_v6_pentastar_glowica_1=^!v6_pentastar_glowica_1
+!t_v6_pentastar_glowica_2=^!v6_pentastar_glowica_2
+!t_v6_pentastar_kolektor_dolotowy=^!v6_pentastar_kolektor_dolotowy
+!t_v6_pentastar_kolektor_dolotowy_dolny=^!v6_pentastar_kolektor_dolotowy_dolny
+!t_v6_pentastar_kolektor_wydechowy=^!v6_pentastar_kolektor_wydechowy
+!t_v6_pentastar_walek_rozrzadu=^!v6_pentastar_walek_rozrzadu
+!t_v8_hemi_filtr_srodek=^!v8_hemi_filtr_srodek
+!t_v8_hemi_gaznik_1=^!v8_hemi_gaznik_1
+!t_v8_hemi_gaznik_2=^!v8_hemi_gaznik_2
+!t_v8_hemi_glowica_1=^!v8_hemi_glowica_1
+!t_v8_hemi_glowica_2=^!v8_hemi_glowica_2
+!t_v8_hemi_kable=^!v8_hemi_kable
+!t_v8_hemi_kolektor_dolotowy=^!v8_hemi_kolektor_dolotowy
+!t_v8_hemi_kolektor_wydechowy=^!v8_hemi_kolektor_wydechowy
+!t_w_i6_old_poczatkowy=^!w_i6_old_poczatkowy
+!t_w_v6_30_koncowy=^!w_v6_30_koncowy
+!t_w_v6_30_poczatkowy_1=^!w_v6_30_poczatkowy_1
+!t_w_v6_30_poczatkowy_2=^!w_v6_30_poczatkowy_2
+!t_w_v6_30_poczatkowy_h1=^!w_v6_30_poczatkowy_h1
+!t_w_v6_30_poczatkowy_h4=^!w_v6_30_poczatkowy_h4
+!t_w12_filtr=^!w12_filtr
+!t_w12_glowica=^!w12_glowica
+!t_w12_kolektor_dolotowy_dolny=^!w12_kolektor_dolotowy_dolny
+!t_w12_kolektor_dolotowy_gorny=^!w12_kolektor_dolotowy_gorny
+!t_w12_kolektor_wydechowy=^!w12_kolektor_wydechowy
+!t_w12_listwaWtryskowa=^!w12_listwaWtryskowa
+!t_w12_przepustnica=^!w12_przepustnica
+!t_w12_tlok=^!w12_tlok
+!t_w12_turbo=^!w12_turbo
+!t_w12_walek_rozrzadu=^!w12_walek_rozrzadu
+!t_v8_gearbox_stary3=^!v8_gearbox_stary3
+!t_v8_hemi_walek_popychaczy=^!v8_hemi_walek_popychaczy
+!t_v8_zz_pompa_wspomagania=^!v8_zz_pompa_wspomagania
+!t_v8_sixpack_gaznik_1=^!v8_sixpack_gaznik_1
+!t_v8_sixpack_gaznik_2=^!v8_sixpack_gaznik_2
+!t_v8_cuda_filtr_2carb_srodek=^!v8_cuda_filtr_2carb_srodek
+!t_v8_magnum_kolektor_wydechowy=^!v8_magnum_kolektor_wydechowy
+!t_w_v8_magnum_poczatkowy=^!w_v8_magnum_poczatkowy
+!t_w12_kolo_zamachowe=^!w12_kolo_zamachowe
