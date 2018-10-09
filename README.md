@@ -13,10 +13,17 @@
 
 ##  한글 패치 방법
 
+- ***파일명이 변경되었습니다. (Korean.txt ==> Korean_Fix.txt)***
+
 ### 창작 마당 활용
 
-창작 마당에서 접속해서 한국어 패치를 구독합니다. [창작마당 구경하기](https://steamcommunity.com/sharedfiles/filedetails/?id=1524076990)
+- 창작 마당에서 접속해서 한국어 패치를 구독합니다. 
+- [창작마당 구경하기](https://steamcommunity.com/sharedfiles/filedetails/?id=1524076990)
+- 옵션에서 ***Korean_Fix*** 를 적용하여야 한글 패치를 사용할 수 있습니다.
 
+### 창작 마당 적용이 안되요!
+
+- 구독을 해제 후, 재구독을 해주시면되겠습니다.
 
 ### 공식 한국어 패치가 있는데, 한글 패치를 받아야하나요?
 
@@ -29,8 +36,8 @@
 패치 경로
 > steamlibrary\steamapps\Car mechanic Simulator 2018\cms2018_Data\StreamingAssets\Localizations
 
-1. 한글 패치 파일 [Korean.txt](https://raw.githubusercontent.com/semidex3/cms2018/master/Localizations/Korean.txt) 패치 경로에 복사합니다.
-2. 옵션 메뉴에서 Settings - Game Settings - Game Language 에서 Korean 을 선택후 apply 합니다.
+1. 한글 패치 파일 [Korean_Fix.txt](https://raw.githubusercontent.com/semidex3/cms2018/master/Localizations/Korean_Fix.txt) 패치 경로에 복사합니다.
+2. 옵션 메뉴에서 Settings - Game Settings - Game Language 에서 Korean_Fix 을 선택후 apply 합니다.
 
 #### 한글 패치 설정 위치
 
