@@ -3069,8 +3069,8 @@ GUI_SelectMapQuestion = 어떤 지도를 선택하시겠습니까?
 !rim_mustang2017 = ^RimName Mustang
 !rim_2017F-350 = ^RimName F350
 !rim_mach = ^RimName Mustang Mach 1
-!w_ruraLaczaca3 = Exhaust 파이프 C
-!w_v8_koncowy2 = Rear Muffler B (V8)
+!w_ruraLaczaca3 = 배기 파이프 C
+!w_v8_koncowy2 = 후면 배기통 B (V8)
 
 !t_v8_289_kolektor_wydechowy = ^!v8_289_kolektor_wydechowy
 !t_v8_289_kolektor_dolotowy= ^!v8_289_kolektor_dolotowy
