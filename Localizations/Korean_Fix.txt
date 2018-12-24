@@ -2379,8 +2379,8 @@ UPGdesc_garage_upgrade.3=차고를 확장합니다. 도색샵과 다이나모미
 
 !v8_magnum_dzwignia_zaworu = 록커 암 (V8 OHV D)
 !v8_magnum_filtr_gora = 공기 필터 덮개 (V8 OHV D)
-!v8_magnum_glowica_1 = 엔진 헤드 (V8 OHV D)
-!v8_magnum_glowica_2 = 엔진 헤드 (V8 OHV D)
+!v8_magnum_glowica_1 = 엔진 헤드 A (V8 OHV D)
+!v8_magnum_glowica_2 = 엔진 헤드 B (V8 OHV D)
 !v8_magnum_kable = 점화 케이블 (V8 OHV D)
 !v8_magnum_kolektor_dolotowy = 흡기 매니폴드 (V8 OHV D)
 !v8_magnum_kolektor_wydechowy = 배기 매니폴드 (V8 OHV D)
@@ -2813,7 +2813,7 @@ GUI_Imperial = 장엄한
 !v12_kolektor_wydechowy_1 = 배기 매니폴드 A (V12)
 !v12_kolektor_wydechowy_2 = 배기 매니폴드 B (V12)
 !v12_listwa_wtryskowa = 연료 레일 (V12)
-!v12_miska_olejowa = 오일 펜 (V12)
+!v12_miska_olejowa = 오일 팬 (V12)
 !v12_oslona_lancucha = 타이밍 체인 덮개(V12)
 !v12_oslona_rozrzadu_1 = 타이밍 덮개 A (V12)
 !v12_oslona_rozrzadu_2 = 타이밍 덮개 B (V12)
@@ -2881,7 +2881,7 @@ GUI_Difficulty_Expert = 전문가 모드
 !v12_huayra_oslona_intercoolera_2 = 인터쿨러 덮개 B (V12 B)
 !w_v12_huayra_koncowy = 후면 배기 구간 (Huayra)
 !v12_huayra_gearbox = 기어박스 (V12 B)
-!v12_huayra_oslona_kolektora = 흡기 매니폴드 오버 (V12 B)
+!v12_huayra_oslona_kolektora = 흡기 매니폴드 커버 (V12 B)
 !v12_zonda_filtr = 공기 필터 (V12 A)
 
 !bak_2 = 연료 탱크 B
@@ -3051,7 +3051,7 @@ GUI_SelectMapQuestion = 어떤 지도를 선택하시겠습니까?
 !engine_v8_f350 = V8 SOHC BOSS RWD
 !engine_v8_f350_4x4 = V8 SOHC BOSS
 
-!walNapedowy_7 = 전면 드라이브 샤프트 G
+!walNapedowy_7 = 전면 드라이브 샤프트 E
 !w_koncowy_mustang2017 = 후면 배기통 (Mustang)
 !w_koncowy_gt40 = 후면 배기통 (GT40)
 
@@ -3354,8 +3354,8 @@ GUI_Desc_Back=뒤로가기
 !b62_dmuchawa = Blower (B6 C)
 !b6_filtr_oleju = 오일 필터 (B6)
 !v10_filtr_oleju = 오일 필터 (V10)
-!w_b62_koncowy_A_porshe964RS = 후면 배기 구간 (964 RS)
-!w_b62_koncowy_B_porshe964RS = 후면 배기 구간 (964 RS)
+!w_b62_koncowy_A_porshe964RS = 후면 배기 구간 A (964 RS)
+!w_b62_koncowy_B_porshe964RS = 후면 배기 구간 B (964 RS)
 !w_b62_poczatkowy_porshe964RS = 전면 배기 구간 (964 RS)
 
 !t_b61_filtr_srodek=^!b61_filtr_srodek
@@ -3407,3 +3407,175 @@ GUI_Desc_Back=뒤로가기
 !t_w_v10_srodkowy_carreragt=^!w_v10_srodkowy_carreragt
 
 !rim_porsche_964RS =  ^RimName 964 RS
+
+GUI_Desc_SellItem=아이템 판매
+GUI_Desc_RemoveItem=아이템 제거
+GUI_Desc_RunDyno=테스트 시작
+GUI_Desc_MoveToGarage=차고로 이동
+GUI_Desc_MoveToParking=주차장으로 이동
+GUI_WarehouseChangeWindowTitle=창고 변경
+GUI_Desc_Acceleration=가속
+GUI_Desc_Brake=브레이크/리버스
+GUI_SortingMenuTitle=정렬
+GUI_Items1000=인벤토리에 아이템이 너무 많습니다. 로딩 시간이 길어질 수 있습니다.
+GUI_Desc_OpenKeyboard=키보드 열기
+
+GUI_ConsoleGetLicensePlateName=번호판 번호 입력
+GUI_ConsoleGetPartName=아이템 검색
+GUI_ConsoleGetNickname=닉네임 설정
+
+//dodz
+!v8_62hemi_blok=엔진 블록 (V8 OHV K)
+!v8_62hemi_filtr_dol=공기 필터 베이스 (V8 OHV K)
+!v8_62hemi_rolka_pompy_wody=워터 펌프 풀리 (V8 OHV K)
+!v8_62hemi_rolkaWalka=캠 기어 (V8 OHV K)
+!v8_62hemi_walek_popychaczy=캠샤프트 (V8 OHV K)
+!v8_62hemi_walKorbowy=크랭크샤프트 (V8 OHV K)
+!v8_62hemi_cewka=점화 코일 (V8 OHV K)
+!v8_62hemi_filtr_gora=공기 필터Cover (V8 OHV K)
+!v8_62hemi_filtr_srodek=공기 필터(V8 OHV K)
+!v8_62hemi_miska_olejowa=오일 팬 (V8 OHV K)
+!v8_62hemi_oslona_listwy_1=연료 레일 덮개 A (V8 OHV K)
+!v8_62hemi_oslona_listwy_2=연료 레일 덮개 B (V8 OHV K)
+!v8_62hemi_oslona_rozrzadu=타이밍 덮개 (V8 OHV K)
+!v8_62hemi_pasek_1=서펀틴 벨트 A (V8 OHV K)
+!v8_62hemi_dzwignia_zaworu=록커 암 (V8 OHV K)
+!v8_62hemi_gearbox=Gearbox (V8 OHV K)
+!v8_62hemi_glowica_1=엔진 헤드 A (V8 OHV K)
+!v8_62hemi_pasek_2=서펀틴 벨트 B (V8 OHV K)
+!v8_62hemi_pokrywa_glowicy_1=엔진 헤드 덮개 A (V8 OHV K)
+!v8_62hemi_pokrywa_glowicy_2=엔진 헤드 덮개 B (V8 OHV K)
+!v8_62hemi_poma_wody=워터 펌프 (V8 OHV K)
+!v8_62hemi_popychacz=밸브 밀대 (V8 OHV K)
+!v8_62hemi_przepustnica=쓰로틀 (V8 OHV K)
+!v8_62hemi_glowica_2=엔진 헤드 B (V8 OHV K)
+!v8_62hemi_kolektor_wydechowy=배기 매니폴드 (V8 OHV K)
+!v8_62hemi_kompresor=과급기 (V8 OHV K)
+!v8_62hemi_lancuch=타이밍 체인 (V8 OHV K)
+!v8_62hemi_listwa_wtryskowa=연료 레일 (V8 OHV K)
+
+!steering_wheel_viper_gts=^SteeringWheelName Viper
+!steering_wheel_challenger_srt_hellcat=^SteeringWheelName Challenger Hellcat
+!seat_challenger_srt_hellcat=^SeatName Challenger Hellcat
+!seat_viper_gts=^SeatName Viper
+!bench_challenger_srt_hellcat=^BenchName Challenger Hellcat
+!rim_challenger_hellcat_1=^RimName Challenger Hellcat A
+!rim_challenger_hellcat_2=^RimName Challenger Hellcat B
+
+M_OpcjeOther13=컨트롤러
+M_OpcjeOther13a=키보드 + 마우스
+M_OpcjeOther13b=게임패트 (Xbox One/360, Dualshock 4)
+
+!v10_2_listwa_wtryskowa=연료 레일 (V10 A)
+!v10_2_pasek=서펀틴 벨트 (V10 A)
+!v10_2_kolektor_dolotowy=흡기 매니폴드 (V10 A)
+!v10_2_filtr_srodek=공기 필터(V10 A)
+!v10_2_blok=Engine Block (V10 A)
+!v10_2_pompaWody=워터 펌프 (V10 A)
+!v10_2_popychacz=밸브 밀대 (V10 A)
+!v10_2_rolka_pompy_wody=워터 펌프 풀리 (V10 A)
+!v10_2_miska_olejowa=오일 팬 (V10 A)
+!v10_2_kolektor_wydechowy=배기 매니폴드 (V10 A)
+!v10_2_dzwignia_zaworu=록커 암 (V10 A)
+!v10_2_glowica_1=엔진 헤드 A (V10 A)
+!v10_2_glowica_2=엔진 헤드 B (V10 A)
+!v10_2_oslona_rozrzadu=타이밍 덮개 (V10 A)
+!v10_2_przepustnica=쓰로틀 (V10 A)
+!v10_2_filtr_dol=공기 필터 베이스 (V10 A)
+!v10_2_oslona_cewek_1=점화 코일 덮개 A (V10 A)
+!v10_2_cewka=점화 코일 (V10 A)
+!v10_2_gearbox=Gearbox (V10 A)
+!v10_2_walKorbowy=크랭크샤프트 (V10 A)
+!v10_2_walek_popychaczy=Camshaft (V10 A)
+!v10_2_rolkaWalka=Cam Gear (V10 A)
+!v10_2_pokrywa_glowicy_2=엔진 헤드 덮개 B (V10 A)
+!v10_2_pokrywa_glowicy_1=엔진 헤드 덮개 A (V10 A)
+!v10_2_oslona_cewek_2=점화 코일 덮개 B (V10 A)
+!v10_2_lancuch=타이밍 체인 (V10 A)
+!v10_2_kable_1=점화 케이블 A (V10 A)
+!v10_2_kable_2=점화 케이블 B (V10 A)
+!v10_2_filtr_gora=공기 필터 덮개 (V10 A)
+
+GUI_Desc_CarsPanel=주차된 차
+GUI_Desc_ParkingPanel=주차장을 선택하세요
+GUI_Desc_GetCarFromParking=주차장에서 차량을 선택하세요
+GUI_Desc_FillOil=기름을 채우다
+GUI_Desc_Go=여행
+GUI_Desc_Select=선택
+
+!w_v8_62hemi_poczatkowy_A=전면 배기 구간 (V8 OHV K)
+!w_v8_62hemi_tlumik_koncowy=후면 배기통 (V8 OHV K)
+!w_v8_62hemi_tlumik_srodkowy=중앙 배기통 (V8 OHV K)
+!w_v10_2_koncowy_vipergts=후면 배기통 (V10 A)
+!w_v10_2_poczatkowy_vipergts=전면 배기 구간 (V10 A)
+!w_v10_2_srodkowy_vipergts=중앙 배기통 (V10 A)
+
+!engine_v8_62hemi = V8 OHV HEMI B
+!engine_v10_2 = V10 OHV
+
+GUI_Desc_LeaveExamineMode=시험 모드에서 나가기
+
+!sankiPrzod_7 = ^!sankiPrzod_1 F
+
+GUI_Desc_LeaveMountMode=장착 모드에서 나가기
+GUI_Desc_Zoom=확대
+GUI_Desc_ExitScrew=장착 취소
+GUI_Desc_ToScrew=장착하기
+GUI_Desc_ExitUnscrew=장착 해제 취소
+GUI_Desc_ToUnscrew=장착 해제
+
+!rim_viper_gts_1=^RimName Viper
+
+GUI_Desc_CarBuy=자동차 구매
+GUI_Desc_Choose=선택
+GUI_Desc_ChangeDof=DOF 변경
+GUI_Desc_ChooseStation=플레이
+
+GUI_Desc_SelectStar=트랙 파트
+GUI_Desc_OpenShopList=쇼핑 목록 열기
+GUI_Desc_AddToShopList=쇼핑 목록에 추가
+GUI_Desc_Save=조정하다
+GUI_Desc_SetFactory=공장으로 설정
+
+// konsola richtext
+
+console_richtxt_garage=손을 더럽게 만듭니다.
+console_richtxt_auction=가장 높습니다.
+console_richtxt_salon=새로운 차에대해서 생각합니다.
+console_richtxt_barn=잊혀진 장소를 탐험합니다.
+console_richtxt_junk=스크랩 찾기
+console_richtxt_race=쉐도우레이싱 합니다.
+console_richtxt_test=이상한 소리를 확인합니다.
+console_richtxt_drag=제한속도까지 달립니다.
+console_richtxt_offroad=클리어런스를 테스트합니다.
+console_richtxt_parking=주차 공간을 찾고 있습니다.
+console_richtxt_abandoned=샛길로 갑니다.
+
+GUI_Desc_Stering=제어
+
+!t_v8_62hemi_gearbox=^!v8_62hemi_gearbox
+!t_v10_2_gearbox=^!v10_2_gearbox
+!t_v8_62hemi_filtr_srodek=^!v8_62hemi_filtr_srodek
+!t_v10_2_glowica_1=^!v10_2_glowica_1
+!t_v10_2_listwa_wtryskowa=^!v10_2_listwa_wtryskowa
+!t_v8_62hemi_glowica_1=^!v8_62hemi_glowica_1
+!t_v10_2_walek_popychaczy=^!v10_2_walek_popychaczy
+!t_v8_62hemi_kolektor_wydechowy=^!v8_62hemi_kolektor_wydechowy
+!t_v10_2_kable_1=^!v10_2_kable_1
+!t_v8_62hemi_kompresor=^!v8_62hemi_kompresor
+!t_v10_2_cewka=^!v10_2_cewka
+!t_v10_2_glowica_2=^!v10_2_glowica_2
+!t_v10_2_kable_2=^!v10_2_kable_2
+!t_v10_2_filtr_srodek=^!v10_2_filtr_srodek
+!t_v8_62hemi_listwa_wtryskowa=^!v8_62hemi_listwa_wtryskowa
+!t_v8_62hemi_walek_popychaczy=^!v8_62hemi_walek_popychaczy
+!t_v8_62hemi_przepustnica=^!v8_62hemi_przepustnica
+!t_v8_62hemi_cewka=^!v8_62hemi_cewka
+!t_v10_2_kolektor_wydechowy=^!v10_2_kolektor_wydechowy
+!t_v8_62hemi_glowica_2=^!v8_62hemi_glowica_2
+!t_v10_2_przepustnica=^!v10_2_przepustnica
+!t_v10_2_kolektor_dolotowy=^!v10_2_kolektor_dolotowy
+
+!engine_v10_2_mod = V10 OHV
+!rim_viper_gts_2=^RimName Viper B
+!rim_viper_gts_3=^RimName Viper C

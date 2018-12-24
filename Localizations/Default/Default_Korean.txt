@@ -3051,7 +3051,7 @@ GUI_SelectMapQuestion=어떤 지도를 선택하시겠습니까?
 !engine_v8_f350=V8 SOHC 보스 RWD
 !engine_v8_f350_4x4=V8 SOHC 보스
 =
-!walNapedowy_7=전방 드라이브 샤프트 G
+!walNapedowy_7=전방 드라이브 샤프트 E
 !w_koncowy_mustang2017=리어 머플러 (Mustang)
 !w_koncowy_gt40=리어 머플러 (GT40)
 =
@@ -3264,8 +3264,8 @@ GUI_Desc_Back=Back
 !w_b62_koncowy_B_porshe964 =  Rear Exhaust Section B (964)
 
 !b62_alternator = Alternator (B6 C)
-!b62_blok_1 = Engine Block (B6 C)
-!b62_blok_2 = Engine Block (B6 C)
+!b62_blok_1 = Engine Block A (B6 C)
+!b62_blok_2 = Engine Block B (B6 C)
 !b62_cylinder_1 = Engine Cylinder (B6 C)
 !b62_kolektor_dolotowy_1 = Intake Manifold A (B6 C)
 !b62_gearbox = Gearbox (B6 C)
@@ -3287,7 +3287,7 @@ GUI_Desc_Back=Back
 !b62_pokrywa = Engine Block Cover (B6 C)
 !b62_pokrywa_nakladki_1 = Engine Head Cover A (B6 C)
 !b62_pokrywa_nakladki_2 = Engine Head Cover B (B6 C)
-!b62_pokrywa_rozrzadu_1 = Timing Cover A (B6 C)
+!b62_pokrywa_rozrzadu_1 = Timing Cover C (B6 C)
 !b62_przepustnica = Throttle (B6 C)
 !b62_rolka_walka = Cam Gear (B6 C)
 !b62_rozdzielacz = Ignition Distributor (B6 C)
@@ -3355,8 +3355,8 @@ GUI_Desc_Back=Back
 !b62_dmuchawa = Blower (B6 C)
 !b6_filtr_oleju = Oil Filter (B6)
 !v10_filtr_oleju = Oil Filter (V10)
-!w_b62_koncowy_A_porshe964RS = Rear Exhaust Section (964 RS)
-!w_b62_koncowy_B_porshe964RS = Rear Exhaust Section (964 RS)
+!w_b62_koncowy_A_porshe964RS = Rear Exhaust Section A (964 RS)
+!w_b62_koncowy_B_porshe964RS = Rear Exhaust Section B (964 RS)
 !w_b62_poczatkowy_porshe964RS = Front Exhaust Section (964 RS)
 
 !t_b61_filtr_srodek=^!b61_filtr_srodek
@@ -3408,3 +3408,175 @@ GUI_Desc_Back=Back
 !t_w_v10_srodkowy_carreragt=^!w_v10_srodkowy_carreragt
 
 !rim_porsche_964RS =  ^RimName 964 RS
+
+GUI_Desc_SellItem=Sell Item
+GUI_Desc_RemoveItem=Remove Item
+GUI_Desc_RunDyno=Begin Test
+GUI_Desc_MoveToGarage=Move to Garage
+GUI_Desc_MoveToParking=Move to Car Parking
+GUI_WarehouseChangeWindowTitle=Change Warehouse
+GUI_Desc_Acceleration=Accelerate
+GUI_Desc_Brake=Brake/Reverse
+GUI_SortingMenuTitle=Sort by
+GUI_Items1000=Too many items in inventory. You may occure longer load times.
+GUI_Desc_OpenKeyboard=Open Keyboard
+
+GUI_ConsoleGetLicensePlateName=Enter License Plate Number
+GUI_ConsoleGetPartName=Search Item
+GUI_ConsoleGetNickname=Set Nickname
+
+//dodz
+!v8_62hemi_blok=Engine Block (V8 OHV K)
+!v8_62hemi_filtr_dol=Air Filter Base (V8 OHV K)
+!v8_62hemi_rolka_pompy_wody=Water Pump Pulley (V8 OHV K)
+!v8_62hemi_rolkaWalka=Cam Gear (V8 OHV K)
+!v8_62hemi_walek_popychaczy=Camshaft  (V8 OHV K)
+!v8_62hemi_walKorbowy=Crankshaft (V8 OHV K)
+!v8_62hemi_cewka=Ignition Coil (V8 OHV K)
+!v8_62hemi_filtr_gora=Air Filter Cover (V8 OHV K)
+!v8_62hemi_filtr_srodek=Air Filter (V8 OHV K)
+!v8_62hemi_miska_olejowa=Oil Pan (V8 OHV K)
+!v8_62hemi_oslona_listwy_1=Fuel Rail Cover A (V8 OHV K)
+!v8_62hemi_oslona_listwy_2=Fuel Rail Cover B (V8 OHV K)
+!v8_62hemi_oslona_rozrzadu=Timing Cover (V8 OHV K)
+!v8_62hemi_pasek_1=Serpentine Belt A (V8 OHV K)
+!v8_62hemi_dzwignia_zaworu=Rocker Arm (V8 OHV K)
+!v8_62hemi_gearbox=Gearbox (V8 OHV K)
+!v8_62hemi_glowica_1=Engine Head A (V8 OHV K)
+!v8_62hemi_pasek_2=Serpentine Belt B (V8 OHV K)
+!v8_62hemi_pokrywa_glowicy_1=Engine Head Cover A (V8 OHV K)
+!v8_62hemi_pokrywa_glowicy_2=Engine Head Cover B (V8 OHV K)
+!v8_62hemi_poma_wody=Water Pump (V8 OHV K)
+!v8_62hemi_popychacz=Valve Push Rod (V8 OHV K)
+!v8_62hemi_przepustnica=Throttle (V8 OHV K)
+!v8_62hemi_glowica_2=Engine Head B (V8 OHV K)
+!v8_62hemi_kolektor_wydechowy=Exhaust Manifold (V8 OHV K)
+!v8_62hemi_kompresor=Supercharger (V8 OHV K)
+!v8_62hemi_lancuch=Timing Chain (V8 OHV K)
+!v8_62hemi_listwa_wtryskowa=Fuel Rail (V8 OHV K)
+
+!steering_wheel_viper_gts=^SteeringWheelName Viper
+!steering_wheel_challenger_srt_hellcat=^SteeringWheelName Challenger Hellcat
+!seat_challenger_srt_hellcat=^SeatName Challenger Hellcat
+!seat_viper_gts=^SeatName Viper
+!bench_challenger_srt_hellcat=^BenchName Challenger Hellcat
+!rim_challenger_hellcat_1=^RimName Challenger Hellcat A
+!rim_challenger_hellcat_2=^RimName Challenger Hellcat B
+
+M_OpcjeOther13=Controller
+M_OpcjeOther13a=Keyboard + Mouse
+M_OpcjeOther13b=Gamepad (Xbox One/360, Dualshock 4)
+
+!v10_2_listwa_wtryskowa=Fuel Rail (V10 A)
+!v10_2_pasek=Serpentine Belt (V10 A)
+!v10_2_kolektor_dolotowy=Intake Manifold (V10 A)
+!v10_2_filtr_srodek=Air Filter (V10 A)
+!v10_2_blok=Engine Block (V10 A)
+!v10_2_pompaWody=Water Pump (V10 A)
+!v10_2_popychacz=Valve Push Rod (V10 A)
+!v10_2_rolka_pompy_wody=Water Pump Pulley (V10 A)
+!v10_2_miska_olejowa=Oil Pan (V10 A)
+!v10_2_kolektor_wydechowy=Exhaust Manifold (V10 A)
+!v10_2_dzwignia_zaworu=Rocker Arm (V10 A)
+!v10_2_glowica_1=Engine Head A (V10 A)
+!v10_2_glowica_2=Engine Head B (V10 A)
+!v10_2_oslona_rozrzadu=Timing Cover (V10 A)
+!v10_2_przepustnica=Throttle (V10 A)
+!v10_2_filtr_dol=Air Filter Base (V10 A)
+!v10_2_oslona_cewek_1=Ignition Coil Cover A (V10 A)
+!v10_2_cewka=Ignition Coil (V10 A)
+!v10_2_gearbox=Gearbox (V10 A)
+!v10_2_walKorbowy=Crankshaft (V10 A)
+!v10_2_walek_popychaczy=Camshaft (V10 A)
+!v10_2_rolkaWalka=Cam Gear (V10 A)
+!v10_2_pokrywa_glowicy_2=Engine Head Cover B (V10 A)
+!v10_2_pokrywa_glowicy_1=Engine Head Cover A (V10 A)
+!v10_2_oslona_cewek_2=Ignition Coil Cover B (V10 A)
+!v10_2_lancuch=Timing Chain (V10 A)
+!v10_2_kable_1=Ignition Wires A (V10 A)
+!v10_2_kable_2=Ignition Wires B (V10 A)
+!v10_2_filtr_gora=Air Filter Cover (V10 A)
+
+GUI_Desc_CarsPanel=Cars parked
+GUI_Desc_ParkingPanel=Choose parking
+GUI_Desc_GetCarFromParking=Pick from parking
+GUI_Desc_FillOil=Fill the oil
+GUI_Desc_Go=Travel
+GUI_Desc_Select=Select
+
+!w_v8_62hemi_poczatkowy_A=Front Exhaust Section (V8 OHV K)
+!w_v8_62hemi_tlumik_koncowy=Rear Muffler (V8 OHV K)
+!w_v8_62hemi_tlumik_srodkowy=Middle Muffler (V8 OHV K)
+!w_v10_2_koncowy_vipergts=Rear Muffler (V10 A)
+!w_v10_2_poczatkowy_vipergts=Front Exhaust Section (V10 A)
+!w_v10_2_srodkowy_vipergts=Middle Muffler (V10 A)
+
+!engine_v8_62hemi = V8 OHV HEMI B
+!engine_v10_2 = V10 OHV
+
+GUI_Desc_LeaveExamineMode=Leave Examine Mode
+
+!sankiPrzod_7 = ^!sankiPrzod_1 F
+
+GUI_Desc_LeaveMountMode=Leave mount mode
+GUI_Desc_Zoom=Zoom
+GUI_Desc_ExitScrew=Cancel mounting
+GUI_Desc_ToScrew=Mounting
+GUI_Desc_ExitUnscrew=Cancel unmounting
+GUI_Desc_ToUnscrew=Unmounting
+
+!rim_viper_gts_1=^RimName Viper
+
+GUI_Desc_CarBuy=Buy Car
+GUI_Desc_Choose=Choose
+GUI_Desc_ChangeDof=Change DOF
+GUI_Desc_ChooseStation=Play
+
+GUI_Desc_SelectStar=Track part
+GUI_Desc_OpenShopList=Open shopping list
+GUI_Desc_AddToShopList=Add to shopping list
+GUI_Desc_Save=Tune
+GUI_Desc_SetFactory=Set to factory
+
+// konsola richtext
+
+console_richtxt_garage=Making those hands dirty
+console_richtxt_auction=Outbidding
+console_richtxt_salon=Thinking about new car
+console_richtxt_barn=Exploring some forgotten places
+console_richtxt_junk=Looking for a scrap
+console_richtxt_race=Racing with a shadow
+console_richtxt_test=Checking for weird knocking
+console_richtxt_drag=Speeding to the limit
+console_richtxt_offroad=Testing the clearance
+console_richtxt_parking=Looking for a parking space
+console_richtxt_abandoned=Going sideways
+
+GUI_Desc_Stering=Control
+
+!t_v8_62hemi_gearbox=^!v8_62hemi_gearbox
+!t_v10_2_gearbox=^!v10_2_gearbox
+!t_v8_62hemi_filtr_srodek=^!v8_62hemi_filtr_srodek
+!t_v10_2_glowica_1=^!v10_2_glowica_1
+!t_v10_2_listwa_wtryskowa=^!v10_2_listwa_wtryskowa
+!t_v8_62hemi_glowica_1=^!v8_62hemi_glowica_1
+!t_v10_2_walek_popychaczy=^!v10_2_walek_popychaczy
+!t_v8_62hemi_kolektor_wydechowy=^!v8_62hemi_kolektor_wydechowy
+!t_v10_2_kable_1=^!v10_2_kable_1
+!t_v8_62hemi_kompresor=^!v8_62hemi_kompresor
+!t_v10_2_cewka=^!v10_2_cewka
+!t_v10_2_glowica_2=^!v10_2_glowica_2
+!t_v10_2_kable_2=^!v10_2_kable_2
+!t_v10_2_filtr_srodek=^!v10_2_filtr_srodek
+!t_v8_62hemi_listwa_wtryskowa=^!v8_62hemi_listwa_wtryskowa
+!t_v8_62hemi_walek_popychaczy=^!v8_62hemi_walek_popychaczy
+!t_v8_62hemi_przepustnica=^!v8_62hemi_przepustnica
+!t_v8_62hemi_cewka=^!v8_62hemi_cewka
+!t_v10_2_kolektor_wydechowy=^!v10_2_kolektor_wydechowy
+!t_v8_62hemi_glowica_2=^!v8_62hemi_glowica_2
+!t_v10_2_przepustnica=^!v10_2_przepustnica
+!t_v10_2_kolektor_dolotowy=^!v10_2_kolektor_dolotowy
+
+!engine_v10_2_mod = V10 OHV
+!rim_viper_gts_2=^RimName Viper B
+!rim_viper_gts_3=^RimName Viper C
