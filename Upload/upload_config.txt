@@ -1,7 +1,7 @@
 [General]
 package_desc=한국어 패치입니다. 기존 GitHub 로 제공중인 한국어 패치 파일을 매번 받아야되는 불편함을 덜기위하여 창작 마당에 게시되었습니다. 문의사항은 가이드 (https://steamcommunity.com/sharedfiles/filedetails/?id=1179609136) 로 주시면 감사합니다. 해당 패치 파일은 GitHub 에 공개되어 있습니다. (https://github.com/semidex3/cms2018)
 package_id=1524076990
-package_name=Korean
+package_name=Korean_Fix
 package_tag=Language
 package_visibility=Public
 upload_type=Update
