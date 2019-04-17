@@ -294,7 +294,7 @@ GUI_RepairFromX=수리하시려면 도구레벨 {0}이/가 필요합니다.
 GUI_RepairFrom7=배터리 충전기로 부품을 충전할 수 있습니다.
 =
 //------------------------------------------------------------------------------Help Descriptions=
-GUI_Desc_Click=클릭
+GUI_Desc_Click=누르기
 GUI_Desc_Hold=길게 누르기
 GUI_Desc_Press=누르기
 =
@@ -690,7 +690,7 @@ GUI_CaseOpen=케이스를 열려면 크로우바가 필요합니다.
 GUI_CaseAsk=케이스를 여시겠습니까?
 GUI_MapAsk=지도에 헛간 위치를 표시하시겠습니까?
 GUI_NieMaPrzedmiotowDoZalozeniaX=사용가능한 아이템이 없습니다 | 필요한 부품 : {0}
-GUI_Tutorial_WindowTitle=튜토리얼
+GUI_Tutorial_WindowTitle=Tutorial - Finish Test track to complete tutorial
 =
 // ----------------------------------------------- Parking=
 Park_Prev=이전 자동차
@@ -3577,6 +3577,69 @@ GUI_Desc_Stering=Control
 !t_v10_2_przepustnica=^!v10_2_przepustnica
 !t_v10_2_kolektor_dolotowy=^!v10_2_kolektor_dolotowy
 
-!engine_v10_2_mod = V10 OHV
+!engine_v10_2_mod = V10 OHV A
 !rim_viper_gts_2=^RimName Viper B
 !rim_viper_gts_3=^RimName Viper C
+
+GUI_Desc_BoltTighten=Tighten the bolt
+GUI_Desc_Unscrew=Unscrew
+!rot_new_turbo = Turbo (ROT A)
+
+GUI_ControllerDisconnected=Please reconnect the controller to continue.
+GUI_ControllerDisconnected_PS4=Please reconnect the DUALSHOCK®4 wireless controller to continue.
+
+UPGdesc_unlock_tablet.1_console=Unlocks the tablet. Allows you to shop for parts anywhere in your garage.
+
+GUI_Desc_ChangeUser = to change user
+GUI_Desc_SignedIn = Signed in as
+
+GUI_Desc_ToStartGame = to start
+
+Build and expand your repair service empire in this incredibly detailed and highly realistic simulation game, where attention to car detail is astonishing. Find classic, unique cars in the new Barn Find module and Junkyard module.
+
+GUI_NoSpaceInventory=No free space in inventory
+GUI_NoSpaceWarehouse=No free space in warehouse
+
+GUI_Loading=Please do not turn off console
+
+!bench_lx550 = ^BenchName LX550
+!t_rot_new_turbo = ^!rot_new_turbo
+
+//RAM
+!engine_v8_345_4x4 = V8 HEMI B 4x4
+!engine_v8_345 = V8 HEMI B
+!v8_345_blok=Engine Block (V8 OHV L)
+!v8_345_gearbox=Gearbox (V8 OHV L)
+!v8_345_kolektor_dolotowy=Intake Manifold (V8 OHV L)
+!v8_345_oslona=Engine Cover (V8 OHV L)
+!v8_345_oslona_rozrzadu=Timing Cover (V8 OHV L)
+!v8_345_pasek=Serpentine Belt (V8 OHV L)
+!v8_345_pompa_wody=Water Pump (V8 OHV L)
+!w_v8_345_poczatkowy_ram3500=Front Exhaust Section (V8 OHV L)
+!w_v8_345_srodkowy_ram3500=Middle Muffler (V8 OHV L)
+!w_v8_345_koncowy_ram3500=Rear Muffler (V8 OHV L)
+!bench_ram3500=^BenchName 3500
+!seat_ram3500=^SeatName 3500
+!steering_wheel_ram3500=^SteeringWheelName 3500
+!seat_ram3500=^SeatName 3500
+!seat_srt10=^SeatName SRT10
+!steering_wheel_srt10=^SteeringWheelName SRT10
+!rim_ramsrt-10=^RimName SRT10
+!rim_ram3500_b=^RimName 3500 A
+!rim_ram3500=^RimName 3500 B
+!v10_3_listwa_wtryskowa=Fuel Rail (V10 B)
+!v10_3_glowica_1=Engine Head A (V10 B)
+!v10_3_filtr_dol=Air Filter Base (V10 B)
+!v10_3_pokrywa_glowicy_2=Engine Head Cover B (V10 B)
+!v10_3_cewka=Ignition Coil Pack (V10 B)
+!v10_3_glowica_2=Engine Head B (V10 B)
+!v10_3_pokrywa_glowicy_1=Engine Head Cover A (V10 B)
+!v10_3_filtr_gora=Air Filter Cover (V10 B)
+!v10_3_kolektor_dolotowy=Intake Manifold (V10 B)
+!v10_3_kable=Ignition Wires (V10 B)
+!w_v10_3_mod_koncowy_ramsrt10=Rear Muffler (V10 B)
+!w_v10_3_mod_poczatkowy_ramsrt10=Front Exhaust Section (V10 B)
+!w_v10_3_mod_srodkowy_ramsrt10=Middle Muffler (V10 B)
+!walNapedowy_8=Front Drive Shaft H
+!v10_3_gearbox=Gearbox (V10 B)
+!engine_v10_3=V10 OHV B

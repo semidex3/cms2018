@@ -294,7 +294,7 @@ GUI_RepairFromX = Repairing requires tool level {0}
 GUI_RepairFrom7 = The part can be charged with a battery charger
 
 //------------------------------------------------------------------------------Help Descriptions
-GUI_Desc_Click = Click
+GUI_Desc_Click = Press
 GUI_Desc_Hold = Hold
 GUI_Desc_Press = Press
 
@@ -690,7 +690,7 @@ GUI_CaseOpen = You need crowbar to open the case
 GUI_CaseAsk = Are you sure you want to open case?
 GUI_MapAsk = Mark barn location on your map?
 GUI_NieMaPrzedmiotowDoZalozeniaX = There are no items to work with|Part needed : {0}
-GUI_Tutorial_WindowTitle = Tutorial
+GUI_Tutorial_WindowTitle = Tutorial - Finish Test track to complete tutorial
 
 // ----------------------------------------------- Parking
 Park_Prev = Previous Car
@@ -2067,8 +2067,8 @@ MissionDesc50=Hello, hello! It's your favorite dealer - Mike! This is the last p
 
 //------------------------------------------------------------------------ End Story Missions
 //------------------------------------------------------------------------ Tutorial
-TutorialDesc1=Welcome to The Car Mechanic Simulator 2018! See the new, fully unlocked garage and check out the operation of various parts of the workshop. You can finish the tutorial by taking the car for a test drive at any time. Good luck!
-TutorialDesc2=Press the right mouse button and select ORDER from the pie menu. Then select the order that you are interested in and accept it. After you accept the selected order, the car will automatically appear on your driveway. When you approach the car you can again use the pie menu to view the CAR CARD.
+TutorialDesc1=Welcome to The Car Mechanic Simulator! See the new, fully unlocked garage and check out the operation of various parts of the workshop. You can finish the tutorial by taking the car for a test drive at any time. Good luck!
+TutorialDesc2=You can acces ORDER menu from the pie menu or by using phone. Then select the order that you are interested in and accept it. After you accept the selected order, the car will automatically appear on your driveway. When you approach the car you can again use the pie menu to view the CAR CARD.
 TutorialDesc3=The computer allows you to purchase new parts.
 TutorialDesc4=Unlock using skill points that you obtain along with gaining further levels of experience.
 TutorialDesc5=Used to check the performance of the car. Tests the car’s steering, suspension and braking.
@@ -2495,9 +2495,9 @@ GUI_SellAll = Sell All
 !bench_challenger=^BenchName Challenger
 !steering_wheel_charger=^SteeringWheelName Charger
 GUI_AccelerateToStart = Accelerate to start
-MM_MouseAcceleration = Mouse Acceleration
-MM_MouseInvert = Invert Mouse
-MM_MouseSensitivity = Mouse Sensitivity
+MM_MouseAcceleration = Controller Acceleration
+MM_MouseInvert = Invert Y Axis
+MM_MouseSensitivity = Control Sensitivity
 GUI_LapNo = Lap
 GUI_Checkpoint = Checkpoint
 GUI_LastLap = Last Lap
@@ -3575,6 +3575,70 @@ GUI_Desc_Stering=Control
 !t_v10_2_przepustnica=^!v10_2_przepustnica
 !t_v10_2_kolektor_dolotowy=^!v10_2_kolektor_dolotowy
 
-!engine_v10_2_mod = V10 OHV
+!engine_v10_2_mod = V10 OHV A
 !rim_viper_gts_2=^RimName Viper B
 !rim_viper_gts_3=^RimName Viper C
+
+GUI_Desc_BoltTighten=Tighten the bolt
+GUI_Desc_Unscrew=Unscrew
+!rot_new_turbo = Turbo (ROT A)
+
+GUI_ControllerDisconnected=Please reconnect the controller to continue.
+GUI_ControllerDisconnected_PS4=Please reconnect the DUALSHOCK®4 wireless controller to continue.
+
+UPGdesc_unlock_tablet.1_console=Unlocks the tablet. Allows you to shop for parts anywhere in your garage.
+
+GUI_Desc_ChangeUser = to change user
+GUI_Desc_SignedIn = Signed in as
+
+GUI_Desc_ToStartGame = to start
+
+GUI_GameDesc=Build and expand your repair service empire in this incredibly detailed and highly realistic simulation game, where attention to car detail is astonishing. Find classic, unique cars in the new Barn Find module and Junkyard module.
+
+GUI_NoSpaceInventory=No free space in inventory
+GUI_NoSpaceWarehouse=No free space in warehouse
+
+GUI_Loading=Please do not turn off console
+GUI_LoadingPS4=Please do not turn off PlayStation®4 system
+
+!bench_lx550 = ^BenchName LX550
+!t_rot_new_turbo = ^!rot_new_turbo
+
+//RAM
+!engine_v8_345_4x4 = V8 HEMI B 4x4
+!engine_v8_345 = V8 HEMI B
+!v8_345_blok=Engine Block (V8 OHV L)
+!v8_345_gearbox=Gearbox (V8 OHV L)
+!v8_345_kolektor_dolotowy=Intake Manifold (V8 OHV L)
+!v8_345_oslona=Engine Cover (V8 OHV L)
+!v8_345_oslona_rozrzadu=Timing Cover (V8 OHV L)
+!v8_345_pasek=Serpentine Belt (V8 OHV L)
+!v8_345_pompa_wody=Water Pump (V8 OHV L)
+!w_v8_345_poczatkowy_ram3500=Front Exhaust Section (V8 OHV L)
+!w_v8_345_srodkowy_ram3500=Middle Muffler (V8 OHV L)
+!w_v8_345_koncowy_ram3500=Rear Muffler (V8 OHV L)
+!bench_ram3500=^BenchName 3500
+!seat_ram3500=^SeatName 3500
+!steering_wheel_ram3500=^SteeringWheelName 3500
+!seat_ram3500=^SeatName 3500
+!seat_srt10=^SeatName SRT10
+!steering_wheel_srt10=^SteeringWheelName SRT10
+!rim_ramsrt-10=^RimName SRT10
+!rim_ram3500_b=^RimName 3500 A
+!rim_ram3500=^RimName 3500 B
+!v10_3_listwa_wtryskowa=Fuel Rail (V10 B)
+!v10_3_glowica_1=Engine Head A (V10 B)
+!v10_3_filtr_dol=Air Filter Base (V10 B)
+!v10_3_pokrywa_glowicy_2=Engine Head Cover B (V10 B)
+!v10_3_cewka=Ignition Coil Pack (V10 B)
+!v10_3_glowica_2=Engine Head B (V10 B)
+!v10_3_pokrywa_glowicy_1=Engine Head Cover A (V10 B)
+!v10_3_filtr_gora=Air Filter Cover (V10 B)
+!v10_3_kolektor_dolotowy=Intake Manifold (V10 B)
+!v10_3_kable=Ignition Wires (V10 B)
+!w_v10_3_mod_koncowy_ramsrt10=Rear Muffler (V10 B)
+!w_v10_3_mod_poczatkowy_ramsrt10=Front Exhaust Section (V10 B)
+!w_v10_3_mod_srodkowy_ramsrt10=Middle Muffler (V10 B)
+!walNapedowy_8=Front Drive Shaft H
+!v10_3_gearbox=Gearbox (V10 B)
+!engine_v10_3=V10 OHV B
